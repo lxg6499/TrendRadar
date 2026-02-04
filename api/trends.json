@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T20:31:34.559334+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2026-02-04T21:55:34.334287+08:00",
+  "total_titles_processed": 1997,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时55分]"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -27,11 +28,12 @@
             11,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时55分]"
         },
         {
           "title": "乌克兰外交部发言人表示，俄罗斯对能源设施的大规模袭击阻碍了和平谈判。本轮在阿布扎比举行的会谈重点将主要集中在军事和军事政治问题上。乌克兰希望了解莫斯科和华盛顿在和平谈判中的“真实意图”。",
@@ -56,6 +58,18 @@
           "time_info": "18时28分"
         },
         {
+          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
+          "url": "https://www.zhihu.com/question/2001956434041124754",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时55分]"
+        },
+        {
           "title": "一位美国官员表示，伊朗革命卫队原计划于上周日和本周一在霍尔木兹海峡进行实弹军事演习，但在收到美国的警告后取消了演习。",
           "url": "https://flash.jin10.com/detail/20260204074146879800",
           "source": "金十数据",
@@ -65,17 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
-          "url": "https://www.zhihu.com/question/2001956434041124754",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "以色列总理办公室：以色列总理内塔尼亚胡强调，必须毫不妥协地要求哈马斯解除武装，加沙地带非军事化，并在加沙地带重建之前完成战争目标。",
@@ -103,7 +106,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "新版“熔炉事件”让韩国社会炸锅",
@@ -127,11 +130,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时55分]"
+        },
+        {
+          "title": "比尔盖茨前妻称整个社会正在清算",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%89%8D%E5%A6%BB%E7%A7%B0%E6%95%B4%E4%B8%AA%E7%A4%BE%E4%BC%9A%E6%AD%A3%E5%9C%A8%E6%B8%85%E7%AE%97%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "英国国家经济社会研究院：预计英国央行今年将下调两次关键利率至“中性”水平——3.25%",
