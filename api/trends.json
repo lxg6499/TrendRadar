@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:25:32.749139+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2026-02-04T20:31:34.559334+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谈判前夕美伊军事摩擦不断，白宫表态",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时31分]"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时31分]"
         },
         {
           "title": "乌克兰外交部发言人表示，俄罗斯对能源设施的大规模袭击阻碍了和平谈判。本轮在阿布扎比举行的会谈重点将主要集中在军事和军事政治问题上。乌克兰希望了解莫斯科和华盛顿在和平谈判中的“真实意图”。",
@@ -40,7 +40,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
+          "url": "https://www.zhihu.com/question/2001956434041124754",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "以色列总理办公室：以色列总理内塔尼亚胡强调，必须毫不妥协地要求哈马斯解除武装，加沙地带非军事化，并在加沙地带重建之前完成战争目标。",
@@ -111,6 +122,18 @@
           "time_info": "[00时38分 ~ 08时56分]"
         },
         {
+          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时31分]"
+        },
+        {
           "title": "英国国家经济社会研究院：预计英国央行今年将下调两次关键利率至“中性”水平——3.25%",
           "url": "https://flash.jin10.com/detail/20260204080801615800",
           "source": "金十数据",
@@ -153,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
