@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T15:42:14.346985+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-02-05T16:28:48.098928+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 15时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 16时28分]"
         },
         {
           "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 16时28分]"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -122,11 +123,12 @@
           "url": "https://www.toutiao.com/trending/7602603906639593523/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 16时28分]"
         }
       ]
     }
