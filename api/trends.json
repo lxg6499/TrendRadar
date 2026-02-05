@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T08:59:24.168733+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-05T11:31:37.091322+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
@@ -33,8 +44,19 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
         {
           "title": "日本东证股价指数升至历史新高，成分股松下股价上涨10%。",
           "url": "https://flash.jin10.com/detail/20260205082057158800",
@@ -68,11 +90,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时31分]"
         }
       ]
     }
