@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T21:52:55.414538+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-02-06T22:33:28.448672+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 21时52分]"
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 22时33分]"
         },
         {
           "title": "专访《太平年》编剧董哲：观众有权定义自己心中的历史正剧",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 21时52分]"
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 22时33分]"
         },
         {
           "title": "白银的历史大顶，从来不是“贵出来”的",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "欧洲央行向欧盟首脑们发送经济政策清单。 其中包含储蓄、投资联盟、以及数字欧元。 欧洲央行呼吁捍卫（欧元区）单一市场，简化立法（程序）。 呼吁强化核心机构框架。 呼吁在五个关键领域采取集体性的欧盟紧急行动。 呼吁促进创新，保护独立自主。 欧元生态系统准备（根据历史经验）做出贡献。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3051484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "历史上真实的胡进思是个什么样的人",
