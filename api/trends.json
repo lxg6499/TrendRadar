@@ -1,207 +1,33 @@
 {
-  "generated_at": "2026-02-06T22:33:28.448672+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-02-07T08:56:18.028744+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
-          "url": "https://wallstreetcn.com/articles/3765106",
-          "source": "华尔街见闻",
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 22时33分]"
-        },
-        {
-          "title": "专访《太平年》编剧董哲：观众有权定义自己心中的历史正剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32538849",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 22时33分]"
-        },
-        {
-          "title": "白银的历史大顶，从来不是“贵出来”的",
-          "url": "https://wallstreetcn.com/articles/3765066",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 18时27分]"
-        },
-        {
-          "title": "闪灵里的历史背景解读",
-          "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E7%81%B5%E9%87%8C%E7%9A%84%E5%8E%86%E5%8F%B2%E8%83%8C%E6%99%AF%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时37分]"
-        },
-        {
-          "title": "《太平年》是历史剧的艰难重启",
-          "url": "https://www.toutiao.com/trending/7603522549338607147/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 13时09分]"
-        },
-        {
-          "title": "该如何评价历史大剧太平年",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%89%A7%E5%A4%AA%E5%B9%B3%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "现货铂金一度跌破1900美元/盎司，较近期所创历史高位跌去1000美元。",
-          "url": "https://flash.jin10.com/detail/20260206082344317800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "08时56分"
         },
         {
-          "title": "欧洲央行向欧盟首脑们发送经济政策清单。 其中包含储蓄、投资联盟、以及数字欧元。 欧洲央行呼吁捍卫（欧元区）单一市场，简化立法（程序）。 呼吁强化核心机构框架。 呼吁在五个关键领域采取集体性的欧盟紧急行动。 呼吁促进创新，保护独立自主。 欧元生态系统准备（根据历史经验）做出贡献。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3051484",
+          "title": "美股KBW地区银行指数突破2022年所创收盘历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3051627",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "历史上真实的胡进思是个什么样的人",
-          "url": "https://www.toutiao.com/trending/7602667572577845258/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美伊会谈将至 美政府内部对伊军事行动目标尚无明确共识",
-          "url": "https://flash.jin10.com/detail/20260206105349480800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "伊朗军事战略转向主动威慑",
-          "url": "https://www.toutiao.com/trending/7603228774960037934/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时37分]"
-        },
-        {
-          "title": "据俄罗斯国家媒体报道，俄罗斯调查委员会称，俄高级军事官员在莫斯科遭枪击后入院治疗。",
-          "url": "https://flash.jin10.com/detail/20260206153118428800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "美伊会谈将至 美政府内部对伊军事行动目标尚无明确共识",
-          "url": "https://wallstreetcn.com/livenews/3051068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "中方代表：军事领域人工智能应用事关全人类共同未来",
-          "url": "https://wallstreetcn.com/livenews/3051103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "伊朗外交消息人士：美国中央司令部或任何地区军事官员的介入，可能危及伊朗与美国在阿曼举行的“间接核”会谈。",
-          "url": "https://flash.jin10.com/detail/20260206173554695800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "克里姆林宫：（就军事情报官员遇刺未遂事件表态）俄罗斯总统普京正在听取汇报。",
-          "url": "https://flash.jin10.com/detail/20260206173150878800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "08时56分"
         }
       ]
     },
@@ -210,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "广西发行20年期社会事业专项地方债，规模11.5600亿元，发行利率2.4500%，边际倍数1.09倍，倍数预期2.48； 广西发行30年期轨交专项地方债，规模21.9800亿元，发行利率2.4800%，边际倍数12.18倍，倍数预期2.49； 广西发行5年期一般债地方债，规模95.6200亿元，发行利率1.6200%，边际倍数1.37倍，倍数预期1.62； 广西发行3年期普通专项地方债，规模46.4500亿元，发行利率1.4400%，边际倍数1.60倍，倍数预期1.44； 广西发行20年期普通专项地方债，规模366.0000亿元，发行利率2.4700%，边际倍数16.13倍，倍数预期2.48。",
-          "url": "https://wallstreetcn.com/livenews/3051235",
+          "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
+          "url": "https://wallstreetcn.com/livenews/3051647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "08时56分"
         }
       ]
     }
