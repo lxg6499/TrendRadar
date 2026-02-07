@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T08:56:18.028744+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-07T11:15:46.702981+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时15分]"
         },
         {
           "title": "美股KBW地区银行指数突破2022年所创收盘历史最高位。",
@@ -40,11 +41,12 @@
           "url": "https://wallstreetcn.com/livenews/3051647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 11时15分]"
         }
       ]
     }
