@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T12:24:10.267813+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-08T13:55:06.968392+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时55分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时55分]"
         },
         {
           "title": "苏翊鸣无缘卫冕仍创造历史",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 13时55分]"
         },
         {
           "title": "洋山港1月干线集装箱船舶流量首破800艘次，创历史新高",
@@ -60,17 +61,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 13时55分]"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
@@ -82,6 +84,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时15分 ~ 12时24分]"
+        },
+        {
+          "title": "多地宣布春节期间机关单位内部停车场向社会免费开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559517",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
         },
         {
           "title": "《黑社会》中，邓伯说和联胜有 50000 人，50000 人的黑帮是啥概念？",
