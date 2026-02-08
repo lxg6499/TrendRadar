@@ -1,55 +1,70 @@
 {
-  "generated_at": "2026-02-08T09:15:40.849421+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-08T12:24:10.267813+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "苏翊鸣无缘卫冕仍创造历史",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%97%A0%E7%BC%98%E5%8D%AB%E5%86%95%E4%BB%8D%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
+          "title": "一不小心，美国又创造了历史",
+          "url": "https://news.ifeng.com/c/8qZLRWXlKx6",
+          "source": "凤凰网",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时24分]"
+        },
+        {
+          "title": "苏翊鸣无缘卫冕仍创造历史",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%97%A0%E7%BC%98%E5%8D%AB%E5%86%95%E4%BB%8D%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时24分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
           "url": "https://wallstreetcn.com/livenews/3051745",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时24分]"
         },
         {
           "title": "洋山港1月干线集装箱船舶流量首破800艘次，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3051743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时24分]"
         }
       ]
     },
@@ -65,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时24分]"
         },
         {
           "title": "《黑社会》中，邓伯说和联胜有 50000 人，50000 人的黑帮是啥概念？",
