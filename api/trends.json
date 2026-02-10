@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T15:49:39.735138+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-02-10T16:36:00.375587+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 16时36分]"
         },
         {
           "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 16时36分]"
         },
         {
           "title": "日本东证指数上涨1%，续创历史新高。",
@@ -59,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -82,6 +83,20 @@
       "titles": [
         {
           "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://wallstreetcn.com/articles/3765328",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 16时36分]"
+        },
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
           "url": "https://www.cls.cn/detail/2285089",
           "source": "财联社热门",
           "ranks": [
@@ -91,19 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 12时21分]"
-        },
-        {
-          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
-          "url": "https://wallstreetcn.com/articles/3765328",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 15时49分]"
         }
       ]
     },
@@ -118,7 +120,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
