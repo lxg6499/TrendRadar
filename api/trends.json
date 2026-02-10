@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T12:21:44.451175+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-02-10T14:05:07.967693+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时05分]"
+        },
+        {
+          "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32571128",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时21分]"
+          "time_info": "[14时04分 ~ 14时05分]"
         },
         {
           "title": "日本东证指数上涨1%，续创历史新高。",
@@ -78,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时05分]"
         }
       ]
     },
@@ -94,7 +105,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
