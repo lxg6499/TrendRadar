@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T17:46:59.764188+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-02-10T18:42:13.839518+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 18时42分]"
         },
         {
           "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
@@ -28,8 +28,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时04分 ~ 17时46分]"
+          "appearance_count": 8,
+          "time_info": "[14时04分 ~ 18时42分]"
+        },
+        {
+          "title": "传媒股成“香饽饽”！板块成交额历史第三，人气热股十天翻倍，这些方向热度也高",
+          "url": "https://www.cls.cn/detail/2286027",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "日本东证指数上涨1%，续创历史新高。",
@@ -82,7 +93,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -103,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 18时42分]"
         },
         {
           "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
@@ -125,7 +136,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -133,8 +144,19 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
+        },
         {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
           "url": "https://wallstreetcn.com/livenews/3052814",
