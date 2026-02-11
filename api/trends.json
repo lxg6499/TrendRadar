@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T14:01:38.546008+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-02-11T15:03:01.488660+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 15时03分]"
         },
         {
           "title": "EIA：美国2026年和2027年电力使用量将创历史新高",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 15时03分]"
         }
       ]
     }
