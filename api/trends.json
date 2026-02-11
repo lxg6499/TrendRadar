@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:03:01.488660+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-02-11T16:34:02.311580+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -40,6 +40,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节 Seedance 2.0 暂停真人素材参考能力，使用真人素材训练会引发哪些社会问题？该怎样应对？",
+          "url": "https://www.zhihu.com/question/2004504598707135896",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         }
       ]
     },
