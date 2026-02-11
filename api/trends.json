@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T12:18:29.992777+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-02-11T14:01:38.546008+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 14时01分]"
         },
         {
           "title": "EIA：美国2026年和2027年电力使用量将创历史新高",
@@ -36,7 +37,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         }
@@ -55,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 14时01分]"
         }
       ]
     }
