@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T20:33:23.489354+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-02-12T22:02:54.825060+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 22时02分]"
         },
         {
           "title": "欧洲电力设备龙头绩后再创历史新高 不到两年股价翻10倍",
