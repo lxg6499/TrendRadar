@@ -1,174 +1,39 @@
 {
-  "generated_at": "2026-02-11T22:07:47.585917+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-12T09:01:22.225314+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 15时03分]"
-        },
-        {
-          "title": "影石创新CEO刘靖康年会发言：2025年营收创历史新高，双摄云台相机定名“Luna”",
-          "url": "https://wallstreetcn.com/livenews/3053790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "塞尔维亚央行：截至1月底，塞尔维亚黄金储备创历史新高，达53.08吨。",
-          "url": "https://wallstreetcn.com/livenews/3053675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时35分]"
-        },
-        {
-          "title": "EIA：美国2026年和2027年电力使用量将创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3053322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "塞尔维亚央行：截至1月底，塞尔维亚黄金储备创历史新高，达53.08吨。",
-          "url": "https://flash.jin10.com/detail/20260211181836229800",
+          "title": "韩国KOSPI指数盘初创历史新高，三星电子股价续创新高。",
+          "url": "https://flash.jin10.com/detail/20260212080621291800",
           "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "MSCI新兴市场股票指数创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3053403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
-      "keyword_group": "社会",
-      "match_count": 5,
+      "keyword_group": "ios",
+      "match_count": 1,
       "titles": [
         {
-          "title": "字节 Seedance 2.0 暂停真人素材参考能力，使用真人素材训练会引发哪些社会问题？该怎样应对？",
-          "url": "https://www.zhihu.com/question/2004504598707135896",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            6,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时36分]"
-        },
-        {
-          "title": "【国务院办公厅印发《关于完善全国统一电力市场体系的实施意见》】到2030年，基本建成全国统一电力市场体系，各类型电源和除保障性用户外的电力用户全部直接参与电力市场，市场化交易电量占全社会用电量的70%左右。跨省跨区和省内实现联合交易，现货市场全面转入正式运行，市场基础规则和技术标准全面统一，市场化电价机制基本健全，公平统一的市场监管体系基本形成。到2035年，全面建成全国统一电力市场体系，市场功能进一步成熟完善，市场化交易电量占比稳中有升。跨省跨区和省内交易有机融合，电力资源的电能量、调节、环境、容量等多维价值全面由市场反映，电力资源全面实现全国范围内的优化配置和高效利用，以电力为主体、多种能源协同互济的全国统一能源市场体系初步形成。",
-          "url": "https://wallstreetcn.com/livenews/3053613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "印尼社会保障基金：近期雅加达股指下跌是买入机会。 已买入大市值公司股票，包括银行。 在计划将自由流通股比例提升至15%后，已准备好继续买入股票。",
-          "url": "https://wallstreetcn.com/livenews/3053655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "印尼社会保障基金负责人：在计划将公众持股量提升至15%后，已准备好进一步增持股票。",
-          "url": "https://flash.jin10.com/detail/20260211174721660800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "印尼社会保障基金负责人：已买入包括银行在内的大型市值公司股票。",
-          "url": "https://flash.jin10.com/detail/20260211174629557800",
-          "source": "金十数据",
+          "title": "iOS26.3正式版来了",
+          "url": "https://s.weibo.com/weibo?q=%23iOS26.3%E6%AD%A3%E5%BC%8F%E7%89%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 15时03分]"
-        },
-        {
-          "title": "伊朗军事实力如何",
-          "url": "https://www.toutiao.com/trending/7605529877277576740/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时35分]"
+          "time_info": "09时01分"
         }
       ]
     }
