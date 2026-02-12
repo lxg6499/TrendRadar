@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T17:36:24.204757+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-02-12T18:32:47.610046+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "甲骨文们的指引一个比一个炸裂，但历史泼了一盆冷水",
@@ -66,6 +66,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "千亿“钨茅”历史新高！年内涨幅即将翻倍，今日新高热股扫描，这些方向也高占比",
+          "url": "https://www.cls.cn/detail/2288592",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "韩国KOSPI指数盘初创历史新高，三星电子股价续创新高。",
           "url": "https://flash.jin10.com/detail/20260212080621291800",
           "source": "金十数据",
@@ -90,26 +101,20 @@
       ]
     },
     {
-      "keyword_group": "军事",
-      "match_count": 1,
+      "keyword_group": "ios",
+      "match_count": 2,
       "titles": [
         {
-          "title": "军事爱好者拍摄军用机场当场被抓",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E7%88%B1%E5%A5%BD%E8%80%85%E6%8B%8D%E6%91%84%E5%86%9B%E7%94%A8%E6%9C%BA%E5%9C%BA%E5%BD%93%E5%9C%BA%E8%A2%AB%E6%8A%93",
-          "source": "百度热搜",
+          "title": "据AXIOS网站：部分美国众议院民主党人表示，他们打算违抗众议院民主党领袖杰弗里斯的指示，计划在2月24日特朗普发表国情咨文演讲期间进行抗议。",
+          "url": "https://flash.jin10.com/detail/20260212173940564800",
+          "source": "金十数据",
           "ranks": [
-            27
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
+          "time_info": "18时32分"
+        },
         {
           "title": "iOS26.3正式版来了",
           "url": "https://s.weibo.com/weibo?q=%23iOS26.3%E6%AD%A3%E5%BC%8F%E7%89%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=27&Refer=top",
@@ -120,6 +125,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "军事爱好者拍摄军用机场当场被抓",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E7%88%B1%E5%A5%BD%E8%80%85%E6%8B%8D%E6%91%84%E5%86%9B%E7%94%A8%E6%9C%BA%E5%9C%BA%E5%BD%93%E5%9C%BA%E8%A2%AB%E6%8A%93",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时32分]"
         }
       ]
     }
