@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:36:48.738011+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-02-14T22:15:58.663975+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -118,11 +118,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32566200",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时15分]"
         },
         {
           "title": "2月13日，全社会跨区域人员流动量完成28810.9万人次",
