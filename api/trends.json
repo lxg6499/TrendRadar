@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T16:32:53.363474+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-02-16T17:39:55.256138+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时39分]"
         },
         {
           "title": "MiniMax推出HighSpeed Coding Plan，股价创历史新高",
@@ -27,11 +27,12 @@
             6,
             8,
             14,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 17时39分]"
         },
         {
           "title": "蔚来换电单日总量创历史新高",
@@ -104,11 +105,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时39分]"
         },
         {
           "title": "2月15日全社会跨区域人员流动量预计超2.8亿人次",
@@ -148,8 +150,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时39分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -169,11 +171,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时39分]"
         },
         {
           "title": "日本防卫大臣炒作俄朝军事合作威胁",
