@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T20:31:37.713367+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-02-17T21:59:24.124268+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -116,11 +116,12 @@
             19,
             20,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 20时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 21时59分]"
         },
         {
           "title": "2026年世界知识产权报告：创新传播速度达历史新高",
