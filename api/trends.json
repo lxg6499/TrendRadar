@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T13:53:18.160131+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-02-18T14:46:10.522892+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "中国速滑男团历史性夺铜",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时46分]"
         },
         {
           "title": "谷爱凌再添一银，创造历史背后，她的“敢于上场”更珍贵",
@@ -66,11 +67,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时46分]"
         }
       ]
     },
