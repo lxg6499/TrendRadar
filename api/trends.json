@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T19:29:49.368252+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-02-19T20:32:55.407539+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -35,19 +35,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 19时29分]"
-        },
-        {
-          "title": "徐梦桃成历史第一人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E6%A2%A6%E6%A1%83%E6%88%90%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 20时32分]"
         },
         {
           "title": "谷爱凌：我想改变历史",
@@ -59,8 +48,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时44分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 20时32分]"
+        },
+        {
+          "title": "徐梦桃成历史第一人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E6%A2%A6%E6%A1%83%E6%88%90%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
