@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T18:31:39.953695+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-02-19T19:29:49.368252+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 19时29分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -35,8 +35,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时29分]"
         },
         {
           "title": "徐梦桃成历史第一人",
@@ -55,11 +55,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 19时29分]"
         },
         {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
@@ -173,7 +174,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
