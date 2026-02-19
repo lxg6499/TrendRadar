@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T20:32:55.407539+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-02-19T22:01:29.155519+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             24,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 22时01分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -35,8 +36,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 22时01分]"
         },
         {
           "title": "谷爱凌：我想改变历史",
@@ -48,8 +49,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 20时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时44分 ~ 22时01分]"
         },
         {
           "title": "徐梦桃成历史第一人",
