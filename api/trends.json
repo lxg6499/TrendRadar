@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T21:52:05.076201+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-02-20T22:32:26.019675+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             1,
             11,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 21时52分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 22时32分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -31,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 21时52分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 22时32分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
