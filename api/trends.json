@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-02-20T11:29:24.005590+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-02-20T13:10:54.890380+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
           "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时10分]"
+        },
+        {
+          "title": "美考虑对伊朗有限军事打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%9C%89%E9%99%90%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -35,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时10分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -48,9 +61,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时10分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
@@ -59,9 +72,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时10分]"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -78,7 +91,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -89,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时10分]"
         },
         {
           "title": "谷爱凌：我想改变历史",
@@ -102,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "新加坡基准股指最高上涨0.5%，报5,024.57点，触及历史新高。",
+          "url": "https://flash.jin10.com/detail/20260220112613158800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -125,11 +149,12 @@
           "url": "https://www.zhihu.com/question/2007522191382712607",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 13时10分]"
         }
       ]
     }
