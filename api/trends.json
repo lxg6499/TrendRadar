@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:22:43.781533+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-02-20T20:28:21.166642+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             2,
             1,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 20时28分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 20时28分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
@@ -119,8 +120,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时57分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[08时57分 ~ 20时28分]"
         },
         {
           "title": "为什么民众对历史的热情只增不减、历史专业的就业却依然困难？是否存在供需错配问题？",
@@ -130,8 +131,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时28分]"
         },
         {
           "title": "突破2.7万车次 港珠澳大桥春节单日车流量创历史新高",
