@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T20:28:21.166642+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-02-20T21:52:05.076201+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -19,19 +19,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时29分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时29分 ~ 21时52分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
           "url": "https://www.zhihu.com/question/2008093003923808772",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时29分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时29分 ~ 21时52分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
@@ -117,11 +118,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 20时28分]"
+          "appearance_count": 16,
+          "time_info": "[08时57分 ~ 21时52分]"
         },
         {
           "title": "为什么民众对历史的热情只增不减、历史专业的就业却依然困难？是否存在供需错配问题？",
@@ -216,8 +218,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 21时52分]"
         },
         {
           "title": "2月19日全社会跨区域人员流动量完成33941.1万人次",
