@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T21:35:01.209439+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-02-21T22:14:45.337481+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普确认正在考虑对伊朗进行“有限军事打击”",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "美军开始撤离叙利亚东北部卡斯鲁克军事基地",
+          "url": "https://flash.jin10.com/detail/20260221220428752800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "媒体：俄罗斯警告挪威和北约不要将斯瓦尔巴群岛纳入军事规划",
@@ -68,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时14分]"
         },
         {
           "title": "春运前20天预计全社会跨区域人员流动量50.8亿人次",
@@ -77,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时14分]"
         }
       ]
     },
@@ -119,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时23分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[15时23分 ~ 22时14分]"
         }
       ]
     }
