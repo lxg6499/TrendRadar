@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:16:31.378092+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-02-21T17:18:31.756057+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 17时18分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
@@ -70,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 17时18分]"
         }
       ]
     }
