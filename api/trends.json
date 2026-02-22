@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:13:29.444018+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-22T19:12:20.609185+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             18,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时36分 ~ 18时13分]"
+          "appearance_count": 11,
+          "time_info": "[11时36分 ~ 19时12分]"
         },
         {
           "title": "港珠澳大桥珠海公路口岸单日车流量创历史新高，超2万辆次",
@@ -31,11 +32,12 @@
             5,
             8,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时12分]"
         },
         {
           "title": "春节假期白云机场口岸出入境人员超37万人次，创历史同期新高",
@@ -47,11 +49,12 @@
             6,
             9,
             15,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时12分]"
         },
         {
           "title": "长三角铁路春运返程客流增长，上海机场大年初四单日客流创历史新高",
@@ -96,11 +99,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 18时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时12分]"
         },
         {
           "title": "央视军事最新AI大片发布",
