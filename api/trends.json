@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:32:39.850858+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-02-22T15:28:57.681006+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时28分]"
         },
         {
           "title": "春节假期白云机场口岸出入境人员超37万人次，创历史同期新高",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时28分]"
         },
         {
           "title": "滑雪登山项目重返冬奥会，写下新历史的中国队还要全力追赶",
@@ -38,11 +40,12 @@
           "ranks": [
             20,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时28分]"
         },
         {
           "title": "长三角铁路春运返程客流增长，上海机场大年初四单日客流创历史新高",
@@ -51,11 +54,12 @@
           "ranks": [
             10,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 15时28分]"
         },
         {
           "title": "气温骤然升高突破历史极值，哈尔滨冰雪大世界闭园",
@@ -64,11 +68,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 15时28分]"
         }
       ]
     },
@@ -120,11 +125,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E8%AF%B4%E4%B8%8A%E6%AC%A1%E5%90%83%E8%BF%98%E6%98%AF%E5%9C%A8%E6%97%A7%E7%A4%BE%E4%BC%9A&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时28分]"
         },
         {
           "title": "春运前20天预计全社会跨区域人员流动量50.8亿人次",
@@ -144,6 +150,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "据AXIOS网站：特朗普团队在与伊朗的谈判中展现出有限的灵活性。",
+          "url": "https://flash.jin10.com/detail/20260222125635642800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时28分]"
+        },
+        {
           "title": "为什么开放的 Windows 战胜了封闭的 macOS，但是开放的 Android 却战胜不了封闭的 iOS？",
           "url": "https://www.zhihu.com/question/2007124650916856053",
           "source": "知乎",
@@ -153,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
-        },
-        {
-          "title": "据AXIOS网站：特朗普团队在与伊朗的谈判中展现出有限的灵活性。",
-          "url": "https://flash.jin10.com/detail/20260222125635642800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         }
       ]
     },
