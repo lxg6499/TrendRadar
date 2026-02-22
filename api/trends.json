@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:36:32.809325+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-02-22T22:15:57.103930+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[20时01分 ~ 22时15分]"
         },
         {
           "title": "长三角铁路春运返程客流增长，上海机场大年初四单日客流创历史新高",
@@ -102,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[20时01分 ~ 22时15分]"
         },
         {
           "title": "气温骤然升高突破历史极值，哈尔滨冰雪大世界闭园",
@@ -136,8 +137,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 22时15分]"
+        },
+        {
+          "title": "军事天才柴荣、赵匡胤都收复不了的北汉为什么会败在赵光义手上？",
+          "url": "https://www.zhihu.com/question/497244934",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时15分]"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
-        },
-        {
-          "title": "军事天才柴荣、赵匡胤都收复不了的北汉为什么会败在赵光义手上？",
-          "url": "https://www.zhihu.com/question/497244934",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时36分]"
         },
         {
           "title": "乌克兰军方：正瞄准俄罗斯重要的军事、工业和后勤设施。",
