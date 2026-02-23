@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:31:45.057381+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-23T20:45:35.741448+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -117,7 +117,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国在约旦军事基地部署大量战机，卫星图像显示超60架",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
+          "url": "https://www.zhihu.com/question/2009287749354688656",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "据叙利亚电视台23日报道，美军将驻扎在叙利亚哈塞克省卡斯拉克军事基地的部队调往伊拉克。",
