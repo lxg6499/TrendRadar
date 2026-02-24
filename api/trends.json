@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-24T19:31:59.200205+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-24T20:33:10.264019+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 20时33分]"
+        },
         {
           "title": "商务部：制止日本“再军事化”企图",
           "url": "https://www.toutiao.com/trending/7609941973219033139/",
@@ -21,15 +33,16 @@
           "time_info": "[14时43分 ~ 16时43分]"
         },
         {
-          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
-          "source": "澎湃新闻",
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
           "ranks": [
-            9
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 20时33分]"
         },
         {
           "title": "美国持续集结兵力考虑军事打击伊朗",
@@ -43,17 +56,6 @@
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时31分]"
-        },
-        {
           "title": "美国被曝考虑在伊核谈判前对伊朗实施有限军事打击，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3057960",
           "source": "华尔街见闻-快讯",
@@ -63,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗军队在南部沿海地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3058119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "据CBS：特朗普对针对伊朗有限的军事选项感到不满，顾问们警告说，任何打击行动都可能无法起到决定性作用，并可能导致更大规模的冲突。",
@@ -153,6 +166,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "伊朗军队在南部沿海地区举行军事演习",
+          "url": "https://flash.jin10.com/detail/20260224194804300800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "特朗普就对伊朗可采取的军事手段选项有限感到沮丧。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3057714",
           "source": "华尔街见闻-快讯",
@@ -185,11 +209,12 @@
           "url": "https://wallstreetcn.com/livenews/3058090",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时33分]"
         },
         {
           "title": "春节出行规模创历史新高",
