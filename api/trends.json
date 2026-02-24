@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T20:33:10.264019+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-24T22:02:48.268216+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
@@ -16,8 +16,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时02分]"
+        },
+        {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时39分 ~ 20时33分]"
+          "time_info": "[18时35分 ~ 22时02分]"
         },
         {
           "title": "商务部：制止日本“再军事化”企图",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时43分 ~ 16时43分]"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 20时33分]"
         },
         {
           "title": "美国持续集结兵力考虑军事打击伊朗",
@@ -73,7 +73,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "俄罗斯总统普京呼吁加强对军事和国防部门相关信息的保护。",
+          "url": "https://flash.jin10.com/detail/20260224212636051800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -172,7 +183,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -191,7 +202,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "台湾加权指数上涨2.7%，刷新历史新高至34,671.38点。",
@@ -215,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 20时33分]"
+        },
+        {
+          "title": "节后继续领跑！微盘股指数创历史新高，融资客动向扫描，这些股已获重仓",
+          "url": "https://www.cls.cn/detail/2293736",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "春节出行规模创历史新高",
