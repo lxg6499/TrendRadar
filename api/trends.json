@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:16:33.950018+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-24T14:44:07.660755+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国持续集结兵力考虑军事打击伊朗",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "商务部：制止日本“再军事化”企图",
+          "url": "https://www.toutiao.com/trending/7609941973219033139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "据CBS：特朗普对针对伊朗有限的军事选项感到不满，顾问们警告说，任何打击行动都可能无法起到决定性作用，并可能导致更大规模的冲突。",
