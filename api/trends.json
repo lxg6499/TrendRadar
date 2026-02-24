@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T16:43:10.937324+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-02-24T17:39:34.376806+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "商务部：制止日本“再军事化”企图",
@@ -54,6 +54,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "以色列情报官员：美国的军事能力只能维持四到五天的对伊朗密集空中打击，或者一周的低强度打击。",
           "url": "https://flash.jin10.com/detail/20260224152734984800",
           "source": "金十数据",
@@ -71,7 +82,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -87,13 +98,24 @@
           "time_info": "08时58分"
         },
         {
+          "title": "欧盟委员会：欧盟将继续为乌克兰及其人民提供全面的政治、财政、经济、人道主义、军事和外交支持。",
+          "url": "https://flash.jin10.com/detail/20260224163115261800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "法国总统马克龙：俄乌冲突“对俄罗斯来说是军事、经济和战略上的三重失败”。",
           "url": "https://flash.jin10.com/detail/20260224155157740800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
