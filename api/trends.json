@@ -1,292 +1,33 @@
 {
-  "generated_at": "2026-02-24T22:02:48.268216+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-02-25T09:04:22.432488+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 22时02分]"
-        },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
           "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 22时02分]"
-        },
-        {
-          "title": "商务部：制止日本“再军事化”企图",
-          "url": "https://www.toutiao.com/trending/7609941973219033139/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 16时43分]"
-        },
-        {
-          "title": "美国持续集结兵力考虑军事打击伊朗",
-          "url": "https://www.toutiao.com/trending/7609503760267788342/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "美国被曝考虑在伊核谈判前对伊朗实施有限军事打击，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3057960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "伊朗军队在南部沿海地区举行军事演习",
-          "url": "https://wallstreetcn.com/livenews/3058119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "据CBS：特朗普对针对伊朗有限的军事选项感到不满，顾问们警告说，任何打击行动都可能无法起到决定性作用，并可能导致更大规模的冲突。",
-          "url": "https://flash.jin10.com/detail/20260224075629823800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "以色列情报官员：美国的军事能力只能维持四到五天的对伊朗密集空中打击，或者一周的低强度打击。",
-          "url": "https://flash.jin10.com/detail/20260224152734984800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "英国首相斯塔默：我们将加大军事、人道主义和重建支持，我们会支持乌克兰。",
-          "url": "https://flash.jin10.com/detail/20260224160727595800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "俄罗斯总统普京呼吁加强对军事和国防部门相关信息的保护。",
-          "url": "https://flash.jin10.com/detail/20260224212636051800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
-          "url": "https://www.zhihu.com/question/2009287749354688656",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "克里姆林宫：特别军事行动仍在继续。",
-          "url": "https://flash.jin10.com/detail/20260224173554590800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "欧盟委员会：欧盟将继续为乌克兰及其人民提供全面的政治、财政、经济、人道主义、军事和外交支持。",
-          "url": "https://flash.jin10.com/detail/20260224163115261800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "克里姆林宫：特别军事行动的目标尚未实现。",
-          "url": "https://flash.jin10.com/detail/20260224173549024800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "法国总统马克龙：俄乌冲突“对俄罗斯来说是军事、经济和战略上的三重失败”。",
-          "url": "https://flash.jin10.com/detail/20260224155157740800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "伊朗军队在南部沿海地区举行军事演习",
-          "url": "https://flash.jin10.com/detail/20260224194804300800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "特朗普就对伊朗可采取的军事手段选项有限感到沮丧。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3057714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "台湾加权指数上涨2.7%，刷新历史新高至34,671.38点。",
-          "url": "https://flash.jin10.com/detail/20260224110929836800",
-          "source": "金十数据",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "09时04分"
         },
         {
-          "title": "创历史新高！春节假期国内出游5.96亿人次 总花费超8034亿元",
-          "url": "https://wallstreetcn.com/livenews/3058090",
-          "source": "华尔街见闻-快讯",
+          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时33分]"
-        },
-        {
-          "title": "节后继续领跑！微盘股指数创历史新高，融资客动向扫描，这些股已获重仓",
-          "url": "https://www.cls.cn/detail/2293736",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "春节出行规模创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3057935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "揭秘U23国足如何创造历史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98U23%E5%9B%BD%E8%B6%B3%E5%A6%82%E4%BD%95%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据AXIOS网站：马斯克的xAI与美国国防部达成协议，可在机密系统中使用GROK。",
-          "url": "https://flash.jin10.com/detail/20260224073815581800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "xAI与五角大楼达成协议，将在涉密系统中启用Grok。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3057708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "09时04分"
         }
       ]
     }
