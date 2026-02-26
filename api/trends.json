@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T17:36:14.190260+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-26T18:33:53.076956+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,64 @@
       ]
     },
     {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "委内瑞拉人认为美国的军事干预将改善该国经济和就业市场",
+          "url": "https://flash.jin10.com/detail/20260226181509030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "波兰外长：华盛顿仍是波兰在军事合作领域最重要的伙伴。",
+          "url": "https://flash.jin10.com/detail/20260226170441518800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 16时32分]"
+        },
+        {
+          "title": "据AXIOS网站：美国参议员将于周四重新提出一项法案，旨在巩固美国在人工智能领域的领先地位。",
+          "url": "https://flash.jin10.com/detail/20260226180559394800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github",
       "match_count": 1,
       "titles": [
@@ -98,42 +156,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时57分 ~ 14时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "波兰外长：华盛顿仍是波兰在军事合作领域最重要的伙伴。",
-          "url": "https://flash.jin10.com/detail/20260226170441518800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
-          "url": "https://www.cls.cn/detail/2295271",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 16时32分]"
         }
       ]
     }
