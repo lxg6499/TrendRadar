@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T20:32:57.796479+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-02-26T22:02:04.626341+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,30 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "怎么看待 18-65 岁申请在俄长期居留男性，须同意在俄军事单位等至少服役 1 年？",
+          "url": "https://www.zhihu.com/question/2010288799117250988",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "打不打？美伊关键性核谈判开始，危险分歧下军事冲突风险很高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658982",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时02分]"
+        },
         {
           "title": "委内瑞拉人认为美国的军事干预将改善该国经济和就业市场",
           "url": "https://flash.jin10.com/detail/20260226181509030800",
@@ -79,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
-        },
-        {
-          "title": "打不打？美伊关键性核谈判开始，危险分歧下军事冲突风险很高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658982",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "波兰外长：华盛顿仍是波兰在军事合作领域最重要的伙伴。",
