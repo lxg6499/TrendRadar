@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T11:29:42.836267+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-02-26T13:15:20.477346+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时15分]"
         },
         {
           "title": "春节假期海口预计实现社会消费品零售总额34.9亿元 同比增长2.6%",
@@ -65,7 +65,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时15分]"
         }
       ]
     }
