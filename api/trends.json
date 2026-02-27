@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T11:28:12.883099+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-02-27T13:08:51.671822+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "打不打？美伊关键性核谈判开始，危险分歧下军事冲突风险很高",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 13时08分]"
+        },
+        {
+          "title": "纽约时报解读美伊谈判：取得进展但不能排除军事行动的可能性",
+          "url": "https://flash.jin10.com/detail/20260227115644885800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "怎么看待 18-65 岁申请在俄长期居留男性，须同意在俄军事单位等至少服役 1 年？",
@@ -48,7 +60,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -56,7 +68,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现代汽车股价涨势延续，涨幅超2%，创历史新高。",
@@ -65,9 +77,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "英国工党料在关键补选中败北 绿党或历史性胜出",
+          "url": "https://flash.jin10.com/detail/20260227115017097800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     }
