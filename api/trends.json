@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-27T08:58:59.364803+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-27T11:28:12.883099+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "打不打？美伊关键性核谈判开始，危险分歧下军事冲突风险很高",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658982",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时28分]"
         },
         {
           "title": "怎么看待 18-65 岁申请在俄长期居留男性，须同意在俄军事单位等至少服役 1 年？",
@@ -39,6 +40,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
+          "url": "https://wallstreetcn.com/livenews/3059912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现代汽车股价涨势延续，涨幅超2%，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260227105247133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
