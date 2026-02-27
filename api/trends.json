@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:50:32.770720+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-02-27T22:31:49.548440+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄罗斯国防部：过去一周，俄罗斯军队对乌克兰的军事目标进行了两次大规模打击和六次小组打击。",
@@ -33,6 +33,18 @@
           "time_info": "[08时58分 ~ 14时36分]"
         },
         {
+          "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
+          "url": "https://www.cls.cn/detail/2297531",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时31分]"
+        },
+        {
           "title": "阿富汗国防部称空袭巴基斯坦首都附近多处军事地点",
           "url": "https://wallstreetcn.com/livenews/3060169",
           "source": "华尔街见闻-快讯",
@@ -45,15 +57,15 @@
           "time_info": "[17时29分 ~ 18时25分]"
         },
         {
-          "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
-          "url": "https://www.cls.cn/detail/2297531",
-          "source": "财联社热门",
+          "title": "乌方称军事小组已完成90%谈判工作，剩余待政治决策",
+          "url": "https://wallstreetcn.com/livenews/3060355",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "22时31分"
         },
         {
           "title": "纽约时报解读美伊谈判：取得进展但不能排除军事行动的可能性",
@@ -124,11 +136,12 @@
             9,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 21时50分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 22时31分]"
         },
         {
           "title": "巴基斯坦和阿富汗有啥历史积怨",
@@ -140,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 21时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 22时31分]"
         },
         {
           "title": "摩根大通：欧洲天然气库存仍接近历史低位，但受天气转暖、液化天然气出货量增加等因素影响，基本面已有所改善。",
@@ -205,8 +218,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时37分 ~ 21时50分]"
+          "appearance_count": 8,
+          "time_info": "[15时37分 ~ 22时31分]"
         }
       ]
     }
