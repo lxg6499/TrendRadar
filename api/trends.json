@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:22:40.651968+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-28T19:01:55.024229+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时51分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[08时51分 ~ 19时01分]"
         },
         {
           "title": "伊朗打击美国中东军事基地",
@@ -28,8 +28,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时01分]"
+        },
+        {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            9,
+            15,
+            18,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时01分 ~ 19时01分]"
         },
         {
           "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
@@ -43,19 +59,16 @@
           "time_info": "[08时51分 ~ 11时03分]"
         },
         {
-          "title": "特朗普称美军对伊朗进行军事打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "title": "伊朗正在打击美国军事基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
           "source": "百度热搜",
           "ranks": [
-            13,
-            9,
-            15,
-            18,
-            17
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时01分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时01分]"
         },
         {
           "title": "以色列总理内塔尼亚胡宣布，美国和以色列发动军事行动的目标是推翻伊朗政权。（CCTV国际时讯）",
@@ -69,17 +82,6 @@
           "time_info": "16时29分"
         },
         {
-          "title": "伊朗最高国家安全委员会：已就美以军事行动予以回应",
-          "url": "https://wallstreetcn.com/livenews/3060790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "以色列国防军：真主党最近一直在努力恢复其在目标地点的军事能力，以便对以色列发动袭击。这种行为违反了以色列和黎巴嫩之间的谅解，并对以色列构成威胁。",
           "url": "https://flash.jin10.com/detail/20260228134925487800",
           "source": "金十数据",
@@ -91,15 +93,28 @@
           "time_info": "14时21分"
         },
         {
-          "title": "伊朗革命卫队宣布大规模军事行动",
-          "url": "https://wallstreetcn.com/livenews/3060788",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
+          "url": "https://www.zhihu.com/question/2011129557315511537",
+          "source": "知乎",
           "ranks": [
+            10,
+            8,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时01分]"
+        },
+        {
+          "title": "伊朗打击美国中东军事基地",
+          "url": "https://www.toutiao.com/trending/7611826417433575434/",
+          "source": "今日头条",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时01分"
         },
         {
           "title": "美国官员：美军预计将对伊朗发起为期数天的军事行动。",
@@ -119,21 +134,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
           "title": "伊朗正在打击美国军事基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
+            9,
+            14,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时01分 ~ 18时22分]"
+          "time_info": "[18时02分 ~ 19时01分]"
         },
         {
           "title": "美媒：打击伊朗前，美国在中东建立起数十年来规模最大军事存在",
@@ -146,6 +162,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时14分 ~ 18时02分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会：已就美以军事行动予以回应",
+          "url": "https://wallstreetcn.com/livenews/3060790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时01分]"
         },
         {
           "title": "美以军事行动目标是推翻伊朗政权",
@@ -161,16 +189,16 @@
           "time_info": "[17时14分 ~ 18时22分]"
         },
         {
-          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
-          "url": "https://www.zhihu.com/question/2011129557315511537",
-          "source": "知乎",
+          "title": "伊朗革命卫队宣布大规模军事行动",
+          "url": "https://wallstreetcn.com/livenews/3060788",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 18时22分]"
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时01分]"
         },
         {
           "title": "以总理：美以军事行动目标是推翻伊朗政权",
@@ -180,20 +208,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 19时01分]"
         },
         {
-          "title": "伊朗正在打击美国军事基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "美国官员预计对伊朗军事行动将持续数天",
+          "url": "https://wallstreetcn.com/livenews/3060782",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时22分]"
+          "time_info": "[18时22分 ~ 19时01分]"
         },
         {
           "title": "以色列军方：以美联合空袭伊朗，打击数十个军事目标。",
@@ -207,15 +235,15 @@
           "time_info": "17时14分"
         },
         {
-          "title": "美国官员预计对伊朗军事行动将持续数天",
-          "url": "https://wallstreetcn.com/livenews/3060782",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部喊话联合国尽快履职，采取行动应对美以军事侵略，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2011132499053535486",
+          "source": "知乎",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时01分"
         },
         {
           "title": "西方官员表示，首轮美以联合空袭主要针对军事和政治目标。",
@@ -246,7 +274,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -361,6 +389,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "德国政府发言人：德方今晨已事先获知以色列对伊朗发动的军事袭击。",
+          "url": "https://flash.jin10.com/detail/20260228182403552800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "白宫官员：特朗普正在海湖庄园持续监控对伊朗军事行动",
           "url": "https://flash.jin10.com/detail/20260228164949706800",
           "source": "金十数据",
@@ -370,6 +409,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "巴基斯坦和阿富汗有啥历史积怨",
+          "url": "https://www.toutiao.com/trending/7611470407115312691/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19,
+            23,
+            17,
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时51分 ~ 17时14分]"
+        },
+        {
+          "title": "巴基斯坦与阿富汗此次开战会带来哪些影响？双方矛盾有何历史渊源？",
+          "url": "https://www.zhihu.com/question/2010818098232520758",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 12时46分]"
+        },
+        {
+          "title": "以色列总统：祝贺以色列国防军和美国军队在对抗伊朗威胁的联合行动‘狮子咆哮’中展现出的勇气。感谢美国总统特朗普和总理内塔尼亚胡的决定，希望这能为我们和整个中东带来历史性的变化。",
+          "url": "https://flash.jin10.com/detail/20260228165802409800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "黑石苏世民去年豪赚12.4亿美元，接近历史最高纪录",
+          "url": "https://wallstreetcn.com/livenews/3060539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "中方奉劝日方不要一意孤行开历史倒车",
+          "url": "https://www.toutiao.com/trending/7611810944999686182/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。（AXIOS)",
+          "url": "https://wallstreetcn.com/livenews/3060783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时01分]"
+        },
+        {
+          "title": "美国官员称，截至目前美方没有人员伤亡，（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3060798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260228180442504800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "据AXIOS记者：一美国高级官员称，截至目前，美方尚无人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260228183340278800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "据AXIOS记者：一位美国高级官员表示，美国的打击集中在伊朗的导弹和发射器上。以色列的打击则集中在消灭伊朗高级官员和导弹上。",
+          "url": "https://flash.jin10.com/detail/20260228182816531800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -431,91 +600,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时03分 ~ 14时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴基斯坦和阿富汗有啥历史积怨",
-          "url": "https://www.toutiao.com/trending/7611470407115312691/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            19,
-            23,
-            17,
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时51分 ~ 17时14分]"
-        },
-        {
-          "title": "巴基斯坦与阿富汗此次开战会带来哪些影响？双方矛盾有何历史渊源？",
-          "url": "https://www.zhihu.com/question/2010818098232520758",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时46分]"
-        },
-        {
-          "title": "以色列总统：祝贺以色列国防军和美国军队在对抗伊朗威胁的联合行动‘狮子咆哮’中展现出的勇气。感谢美国总统特朗普和总理内塔尼亚胡的决定，希望这能为我们和整个中东带来历史性的变化。",
-          "url": "https://flash.jin10.com/detail/20260228165802409800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "黑石苏世民去年豪赚12.4亿美元，接近历史最高纪录",
-          "url": "https://wallstreetcn.com/livenews/3060539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。（AXIOS)",
-          "url": "https://wallstreetcn.com/livenews/3060783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260228180442504800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         }
       ]
     }
