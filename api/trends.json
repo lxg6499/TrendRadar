@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T12:46:14.033005+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-02-28T13:24:21.048448+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             13,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时24分]"
         },
         {
           "title": "上海：加快打造创业基金、先导产业母基金、产业转型升级基金、社会化基金等全周期基金矩阵",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时24分]"
         },
         {
           "title": "现场曝光，高市早苗被批：像“黑社会头目威胁下属”",
@@ -40,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时24分]"
         },
         {
           "title": "2025年国民经济和社会发展统计公报发布",
@@ -49,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时24分]"
         }
       ]
     },
@@ -79,11 +82,12 @@
           "url": "https://www.toutiao.com/trending/7611470407115312691/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时24分]"
         },
         {
           "title": "黑石苏世民去年豪赚12.4亿美元，接近历史最高纪录",
@@ -111,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时24分]"
         },
         {
           "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
