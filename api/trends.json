@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:21:21.780278+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-02-28T15:17:52.873508+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             23,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时51分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 15时17分]"
         },
         {
           "title": "上海：加快打造创业基金、先导产业母基金、产业转型升级基金、社会化基金等全周期基金矩阵",
@@ -76,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时51分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 15时17分]"
         },
         {
           "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
@@ -97,7 +98,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -107,6 +108,20 @@
       "keyword_group": "历史",
       "match_count": 3,
       "titles": [
+        {
+          "title": "巴基斯坦和阿富汗有啥历史积怨",
+          "url": "https://www.toutiao.com/trending/7611470407115312691/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 15时17分]"
+        },
         {
           "title": "巴基斯坦与阿富汗此次开战会带来哪些影响？双方矛盾有何历史渊源？",
           "url": "https://www.zhihu.com/question/2010818098232520758",
@@ -119,19 +134,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时51分 ~ 12时46分]"
-        },
-        {
-          "title": "巴基斯坦和阿富汗有啥历史积怨",
-          "url": "https://www.toutiao.com/trending/7611470407115312691/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时51分 ~ 14时21分]"
         },
         {
           "title": "黑石苏世民去年豪赚12.4亿美元，接近历史最高纪录",
