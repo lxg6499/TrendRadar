@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T19:21:55.809455+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-02-28T20:02:12.946846+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时51分 ~ 19时21分]"
+          "appearance_count": 20,
+          "time_info": "[08时51分 ~ 20时02分]"
         },
         {
           "title": "伊朗打击美国中东军事基地",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗正在打击美国军事基地",
@@ -41,8 +42,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
+          "url": "https://www.zhihu.com/question/2011129557315511537",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 20时02分]"
         },
         {
           "title": "特朗普称美军对伊朗进行军事打击",
@@ -61,6 +75,32 @@
           "time_info": "[16时01分 ~ 19时01分]"
         },
         {
+          "title": "伊朗正在打击美国军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗打击美国中东军事基地",
+          "url": "https://www.toutiao.com/trending/7611826417433575434/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 20时02分]"
+        },
+        {
           "title": "军事冲突风险不断上升！美国大使建议部分使领馆人员“今天离开”以色列",
           "url": "https://www.cls.cn/detail/2297531",
           "source": "财联社热门",
@@ -72,17 +112,16 @@
           "time_info": "[08时51分 ~ 11时03分]"
         },
         {
-          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
-          "url": "https://www.zhihu.com/question/2011129557315511537",
-          "source": "知乎",
+          "title": "以总理：美以军事行动目标是推翻伊朗政权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32672580",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
-            4
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 20时02分]"
         },
         {
           "title": "以色列总理内塔尼亚胡宣布，美国和以色列发动军事行动的目标是推翻伊朗政权。（CCTV国际时讯）",
@@ -107,28 +146,15 @@
           "time_info": "14时21分"
         },
         {
-          "title": "国际红十字会主席米尔雅娜·斯波利亚里奇：中东地区的军事升级正在引发席卷整个地区的危险连锁反应，其后果可能极为惨重。",
-          "url": "https://flash.jin10.com/detail/20260228190707767800",
+          "title": "伊朗外长：伊朗对美国在中东地区的军事基地的打击仅限于军事设施",
+          "url": "https://flash.jin10.com/detail/20260228193554975800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗正在打击美国军事基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 19时21分]"
+          "time_info": "20时02分"
         },
         {
           "title": "美国官员：美军预计将对伊朗发起为期数天的军事行动。",
@@ -151,17 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "以总理：美以军事行动目标是推翻伊朗政权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32672580",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 19时21分]"
         },
         {
           "title": "伊朗最高国家安全委员会：已就美以军事行动予以回应",
@@ -189,16 +204,16 @@
           "time_info": "[17时14分 ~ 18时02分]"
         },
         {
-          "title": "伊朗打击美国中东军事基地",
-          "url": "https://www.toutiao.com/trending/7611826417433575434/",
-          "source": "今日头条",
+          "title": "国际红十字会主席米尔雅娜·斯波利亚里奇：中东地区的军事升级正在引发席卷整个地区的危险连锁反应，其后果可能极为惨重。",
+          "url": "https://flash.jin10.com/detail/20260228190707767800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            6
+            3,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时21分]"
+          "time_info": "[19时21分 ~ 20时02分]"
         },
         {
           "title": "美以军事行动目标是推翻伊朗政权",
@@ -226,6 +241,30 @@
           "time_info": "[18时22分 ~ 19时01分]"
         },
         {
+          "title": "伊朗外交部喊话联合国尽快履职，采取行动应对美以军事侵略，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2011132499053535486",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗军事行动将无间断持续",
+          "url": "https://wallstreetcn.com/livenews/3060812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时02分]"
+        },
+        {
           "title": "美国官员预计对伊朗军事行动将持续数天",
           "url": "https://wallstreetcn.com/livenews/3060782",
           "source": "华尔街见闻-快讯",
@@ -238,15 +277,37 @@
           "time_info": "[18时22分 ~ 19时01分]"
         },
         {
-          "title": "伊朗外交部喊话联合国尽快履职，采取行动应对美以军事侵略，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2011132499053535486",
-          "source": "知乎",
+          "title": "伊朗启动大规模军事行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时21分]"
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "最新AI军事模拟：95%对局发射核弹",
+          "url": "https://www.toutiao.com/trending/7611738738124656170/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "据Telegram平台：伊朗外交部长在与沙特、阿联酋、卡塔尔、科威特、巴林及伊拉克的外长会谈中表示，伊朗将在正当自卫权的框架下，动用其全部防御和军事能力。",
+          "url": "https://flash.jin10.com/detail/20260228193235181800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "以色列军方：以美联合空袭伊朗，打击数十个军事目标。",
@@ -260,17 +321,6 @@
           "time_info": "17时14分"
         },
         {
-          "title": "伊朗军事行动将无间断持续",
-          "url": "https://wallstreetcn.com/livenews/3060812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "西方官员表示，首轮美以联合空袭主要针对军事和政治目标。",
           "url": "https://flash.jin10.com/detail/20260228175150711800",
           "source": "金十数据",
@@ -280,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队第二份声明：打击美以多处军事目标",
+          "url": "https://flash.jin10.com/detail/20260228191811887800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美国总统特朗普称，美军已经开始对伊朗进行军事打击。（央视新闻）",
@@ -332,7 +393,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -387,7 +448,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -525,7 +586,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
