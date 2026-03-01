@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T15:25:42.091204+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-03-01T16:02:22.118804+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 16时02分]"
         },
         {
           "title": "伊朗多轮反击后异常活跃，称「成功袭击以色列、摧毁美军雷达」，伊朗是真占了上风？还是一种军事策略？",
@@ -33,6 +33,21 @@
           "time_info": "[12时11分 ~ 13时43分]"
         },
         {
+          "title": "以总理：美以军事行动目标是推翻伊朗政权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32672580",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 16时02分]"
+        },
+        {
           "title": "美国国会的关键成员要求迅速就一项战争权力决议进行投票，该决议将限制特朗普对伊朗的军事打击。",
           "url": "https://flash.jin10.com/detail/20260301085524533800",
           "source": "金十数据",
@@ -42,20 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "以总理：美以军事行动目标是推翻伊朗政权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32672580",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 15时25分]"
         },
         {
           "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
@@ -75,11 +76,12 @@
           "url": "https://flash.jin10.com/detail/20260301145303815800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时02分]"
         },
         {
           "title": "华盛顿邮报报道称，特朗普受到以色列和沙特的施压，要求对伊朗采取军事行动。",
@@ -161,8 +163,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时02分]"
         },
         {
           "title": "伊朗：历史上最猛烈的进攻行动将开始",
@@ -194,11 +196,12 @@
           "ranks": [
             9,
             12,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时02分]"
         },
         {
           "title": "油价或出现历史性飙升",
@@ -210,30 +213,32 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时02分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
           "url": "https://m.thepaper.cn/newsDetail_forward_32677959",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时02分]"
         },
         {
           "title": "金价或将冲击历史新高",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%88%96%E5%B0%86%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时02分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
@@ -260,8 +265,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时02分]"
         },
         {
           "title": "2025年经济社会发展成绩单来了",
@@ -271,8 +276,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时02分]"
         },
         {
           "title": "2025年经济社会发展成绩单",
@@ -298,11 +303,12 @@
           "ranks": [
             19,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时02分]"
         }
       ]
     }
