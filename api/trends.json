@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T17:35:44.200723+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-03-02T18:33:26.808339+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 18时33分]"
         },
         {
           "title": "特朗普：对伊朗的军事行动可能持续四周左右",
@@ -44,8 +44,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 18时33分]"
         },
         {
           "title": "英国外交大臣伊薇特·库珀：国防部将于今日晚些时候公布塞浦路斯军事基地的更多信息。",
@@ -94,6 +94,18 @@
           "time_info": "[08时58分 ~ 13时10分]"
         },
         {
+          "title": "中方：美国军事行动前未提前通报中国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%89%8D%E6%9C%AA%E6%8F%90%E5%89%8D%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时33分]"
+        },
+        {
           "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32678556",
           "source": "澎湃新闻",
@@ -132,18 +144,6 @@
           "time_info": "[08时58分 ~ 13时10分]"
         },
         {
-          "title": "中方：美国军事行动前未提前通报中国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%89%8D%E6%9C%AA%E6%8F%90%E5%89%8D%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时35分]"
-        },
-        {
           "title": "伊公布袭击中死亡的部分高级军事官员",
           "url": "https://www.toutiao.com/trending/7611856736324419590/",
           "source": "今日头条",
@@ -152,8 +152,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时33分]"
+        },
+        {
+          "title": "中方回应是否会对伊朗提供军事支持",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时33分]"
         },
         {
           "title": "美以对伊朗发动军事打击后 美多个城市加强安保",
@@ -176,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "中方回应是否会对伊朗提供军事支持",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "英首相同意美国使用军事基地",
@@ -247,8 +248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 18时33分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队就哈梅内伊殉职发表声明：“历史上最猛烈的进攻行动”即将开始",
@@ -274,6 +275,18 @@
           "time_info": "[08时58分 ~ 11时28分]"
         },
         {
+          "title": "【每日收评】市场再现二八分化，两市成交额重回3万亿，“三桶油”历史首次集体涨停",
+          "url": "https://www.cls.cn/detail/2299874",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时33分]"
+        },
+        {
           "title": "伊朗冲突引发原油价格飙升影响，欧洲石油与天然气指数上涨2.5%，创下历史新高。 雷普索尔、加尔普、壳牌、OMV、英国石油、埃尼集团领涨，涨幅 5%至7.5%不等。",
           "url": "https://wallstreetcn.com/livenews/3061692",
           "source": "华尔街见闻-快讯",
@@ -283,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
-        },
-        {
-          "title": "【每日收评】市场再现二八分化，两市成交额重回3万亿，“三桶油”历史首次集体涨停",
-          "url": "https://www.cls.cn/detail/2299874",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         }
       ]
     },
