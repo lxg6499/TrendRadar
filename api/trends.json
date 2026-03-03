@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:23:33.833297+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-03T20:28:24.854963+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 20时28分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话：中方已敦促美以立即停止军事行动",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "英官员：英美在中东地区保持军事合作",
+          "url": "https://flash.jin10.com/detail/20260303200443923800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "如果伊朗提出请求中俄会向其提供军事支持吗？外交部回应",
@@ -152,7 +163,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -196,11 +207,12 @@
           "url": "https://www.zhihu.com/question/2012114647591904496",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时28分]"
         }
       ]
     }
