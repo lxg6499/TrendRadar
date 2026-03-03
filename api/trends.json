@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-03T16:26:17.355672+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-03-03T17:31:07.227431+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 17时31分]"
+        },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话：中方已敦促美以立即停止军事行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32685305",
@@ -22,20 +36,6 @@
           "time_info": "[09时01分 ~ 15时34分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 16时26分]"
-        },
-        {
           "title": "王毅同伊朗外长通电话，称中方已敦促美以立即停止军事行动，避免紧张事态进一步升级，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2011905421657526738",
           "source": "知乎",
@@ -46,6 +46,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 11时33分]"
+        },
+        {
+          "title": "伊朗伊斯兰共和国军队：自今天黎明开始，伊朗陆军海军用地对地导弹打击了该地区的敌舰和基地，陆军的作战打击无人机从全国各地对占领区的犹太复国主义政权军事区域和卡塔尔乌代德的美军基地进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260303170645870800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "美以军事行动引发伊朗反击，战火蔓延至中东多国，美军基地究竟给当地带来了什么？",
+          "url": "https://www.zhihu.com/question/2011912652071395977",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 17时31分]"
         },
         {
           "title": "如果伊朗提出请求中俄会向其提供军事支持吗？外交部回应",
@@ -59,19 +84,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时33分 ~ 15时34分]"
-        },
-        {
-          "title": "美以军事行动引发伊朗反击，战火蔓延至中东多国，美军基地究竟给当地带来了什么？",
-          "url": "https://www.zhihu.com/question/2011912652071395977",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时26分]"
         },
         {
           "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
@@ -98,6 +110,17 @@
           "time_info": "[15时34分 ~ 16时26分]"
         },
         {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
+        },
+        {
           "title": "美国中央司令部：美军在持续行动中摧毁了革命卫队的指挥控制设施、伊朗的空中防御能力、导弹和无人机发射场以及军事机场。我们将继续对伊朗政权所带来的迫在眉睫的威胁采取果断行动。",
           "url": "https://flash.jin10.com/detail/20260303123734881800",
           "source": "金十数据",
@@ -107,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "伊朗议会副议长：我们将是战争的赢家。特朗普肯定会后悔他在中东进行的这场军事行动。这是一场必须彻底解决问题的战争。美国没有料到我们会这样回应。我们已经击落了他们的飞机和无人机。",
+          "url": "https://flash.jin10.com/detail/20260303165728715800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
