@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T15:34:27.770180+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-03-03T16:26:17.355672+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 16时26分]"
         },
         {
           "title": "王毅同伊朗外长通电话，称中方已敦促美以立即停止军事行动，避免紧张事态进一步升级，有哪些信息值得关注？",
@@ -61,6 +61,19 @@
           "time_info": "[11时33分 ~ 15时34分]"
         },
         {
+          "title": "美以军事行动引发伊朗反击，战火蔓延至中东多国，美军基地究竟给当地带来了什么？",
+          "url": "https://www.zhihu.com/question/2011912652071395977",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 16时26分]"
+        },
+        {
           "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
           "source": "澎湃新闻",
@@ -73,16 +86,16 @@
           "time_info": "[13时09分 ~ 14时34分]"
         },
         {
-          "title": "美以军事行动引发伊朗反击，战火蔓延至中东多国，美军基地究竟给当地带来了什么？",
-          "url": "https://www.zhihu.com/question/2011912652071395977",
-          "source": "知乎",
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            7
+            17,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时34分]"
+          "time_info": "[15时34分 ~ 16时26分]"
         },
         {
           "title": "美国中央司令部：美军在持续行动中摧毁了革命卫队的指挥控制设施、伊朗的空中防御能力、导弹和无人机发射场以及军事机场。我们将继续对伊朗政权所带来的迫在眉睫的威胁采取果断行动。",
@@ -94,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         }
       ]
     },
