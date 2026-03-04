@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T16:23:40.288028+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-03-04T17:28:23.446488+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗称打击以色列中部及北部多处军事目标 法国戴高乐号航母将部署在地中海 | 环球市场",
@@ -32,6 +32,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时22分 ~ 15时31分]"
+        },
+        {
+          "title": "以色列军方：以色列空军在夜间对伊朗在伊斯法罕和设拉子地区的军事资产进行了多轮空袭。",
+          "url": "https://flash.jin10.com/detail/20260304171408525800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "俄罗斯外交部发言人：我们坚信伊朗危机不存在军事解决方案。",
+          "url": "https://flash.jin10.com/detail/20260304170840310800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "伊朗外交部：目前军事行动系防御性 未针对邻国",
@@ -105,11 +127,12 @@
           "url": "https://www.cls.cn/detail/2302478",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时28分]"
         }
       ]
     }
