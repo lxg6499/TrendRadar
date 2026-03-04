@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T14:31:48.139509+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-03-04T15:31:31.006543+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时31分]"
         },
         {
           "title": "伊朗称打击以色列中部及北部多处军事目标 法国戴高乐号航母将部署在地中海 | 环球市场",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 15时31分]"
         },
         {
           "title": "伊朗外交部：目前军事行动系防御性 未针对邻国",
@@ -64,6 +64,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "镖人 历史上最后的纯手工武侠",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA%20%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%90%8E%E7%9A%84%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%AD%A6%E4%BE%A0&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时31分]"
+        },
+        {
+          "title": "伊朗外交部发言人：欧盟必须反对任何让人想起历史上“纳粹”心态的举动，而应坚持其对国际法和正义的承诺。",
+          "url": "https://flash.jin10.com/detail/20260304151007993800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     }
