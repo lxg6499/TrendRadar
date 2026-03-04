@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T13:02:57.911114+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-03-04T14:31:48.139509+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 14时31分]"
         },
         {
           "title": "伊朗称打击以色列中部及北部多处军事目标 法国戴高乐号航母将部署在地中海 | 环球市场",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 14时31分]"
         },
         {
           "title": "伊朗外交部：目前军事行动系防御性 未针对邻国",
