@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T21:47:19.697588+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-03-04T22:31:09.750692+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,21 @@
           "time_info": "[11时22分 ~ 15时31分]"
         },
         {
+          "title": "美以对伊发动军事打击，人民日报寰宇平：世界不能退回“丛林时代”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32695511",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 22时31分]"
+        },
+        {
           "title": "以色列军方：以色列空军在夜间对伊朗在伊斯法罕和设拉子地区的军事资产进行了多轮空袭。",
           "url": "https://flash.jin10.com/detail/20260304171408525800",
           "source": "金十数据",
@@ -43,20 +58,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
-        },
-        {
-          "title": "美以对伊发动军事打击，人民日报寰宇平：世界不能退回“丛林时代”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32695511",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 21时47分]"
         },
         {
           "title": "以军透露军事行动期间与美军分工合作细节",
@@ -87,7 +88,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -193,8 +194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 22时31分]"
         }
       ]
     }
