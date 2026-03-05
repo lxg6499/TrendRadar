@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T21:53:29.621682+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-03-05T22:36:46.953597+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美以袭击伊朗进入第 6 天了，它会像俄乌战争一样变成持久战吗？从各方的军事储备来看，还能打多久？",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时59分 ~ 21时53分]"
+          "appearance_count": 16,
+          "time_info": "[08时59分 ~ 22时36分]"
         },
         {
           "title": "意大利总理梅洛尼：美国未提出使用意大利军事基地的请求。",
@@ -67,6 +67,18 @@
           "time_info": "[19时24分 ~ 20时31分]"
         },
         {
+          "title": "美军机获准使用法国在中东军事基地",
+          "url": "https://www.toutiao.com/trending/7613737075245944347/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时36分]"
+        },
+        {
           "title": "澳大利亚总理阿尔巴尼斯表示，他正在向中东调动军事资源，作为撤离滞留在该地区的澳大利亚人的应急计划的一部分。",
           "url": "https://flash.jin10.com/detail/20260305142110971800",
           "source": "金十数据",
@@ -87,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "英国首相斯塔默未排除参与针对伊朗的军事行动。",
+          "url": "https://flash.jin10.com/detail/20260305222118668800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国军机获准“临时”使用法国在中东的军事基地",
@@ -120,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "美军机获准使用法国在中东军事基地",
-          "url": "https://www.toutiao.com/trending/7613737075245944347/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         }
       ]
     },
@@ -200,8 +212,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时53分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时36分]"
         },
         {
           "title": "彩礼把社会责任转移成了家庭矛盾",
@@ -222,9 +234,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时36分]"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面小幅走强，富宝碳酸锂社会总库存9.97万吨，环减0.16%",
