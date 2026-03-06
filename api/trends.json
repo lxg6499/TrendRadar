@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:22:51.859161+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-03-06T19:18:40.206590+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "据伊朗媒体：导弹袭击击中霍梅尼市附近两个军事基地。",
@@ -61,7 +61,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -167,22 +167,24 @@
           "ranks": [
             15,
             16,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时18分]"
         },
         {
           "title": "治理乱评比、乱表彰、乱授牌，多省份规范社会组织运作",
           "url": "https://m.thepaper.cn/newsDetail_forward_32706795",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "社会哥高铁吸烟,遭乘警制裁",
@@ -191,9 +193,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "速览“十四五”经济社会发展成就",
@@ -268,8 +270,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 19时18分]"
         },
         {
           "title": "《太平年》众主演分享：历史是与当下对话，和平来之不易",
@@ -280,11 +282,12 @@
             12,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 19时18分]"
         },
         {
           "title": "证监会主席：新“国九条”发布以来上市公司分红5.23万亿元 创历史新高",
@@ -304,7 +307,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
