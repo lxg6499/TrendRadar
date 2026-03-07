@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T20:01:56.420868+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-03-07T20:45:56.845989+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -151,11 +151,12 @@
           "url": "https://flash.jin10.com/detail/20260307185904398800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时45分]"
         },
         {
           "title": "伊朗外交使团发表声明，强烈谴责美以军事侵略",
@@ -232,8 +233,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 20时01分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 20时45分]"
         },
         {
           "title": "年轻人拒绝酒桌文化是社会进步",
@@ -280,11 +281,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 20时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时45分]"
         },
         {
           "title": "潘功胜：保持社会融资条件相对宽松",
@@ -368,8 +370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 20时01分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 20时45分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -381,8 +383,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 20时01分]"
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 20时45分]"
         },
         {
           "title": "《太平年》众主演分享：历史是与当下对话，和平来之不易",
