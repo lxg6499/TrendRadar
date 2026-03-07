@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:32:12.898287+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-03-07T22:12:40.145366+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -230,11 +230,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[08时55分 ~ 22时12分]"
         },
         {
           "title": "年轻人拒绝酒桌文化是社会进步",
@@ -283,11 +284,12 @@
             6,
             9,
             16,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 22时12分]"
         },
         {
           "title": "潘功胜：保持社会融资条件相对宽松",
@@ -371,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[08时55分 ~ 22时12分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -384,8 +386,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时53分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 22时12分]"
         },
         {
           "title": "《太平年》众主演分享：历史是与当下对话，和平来之不易",
