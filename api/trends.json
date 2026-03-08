@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T20:52:25.029383+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-03-08T21:33:09.402998+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本首次在冲绳部署新型反潜巡逻机，强化西南方向军事部署动作频频",
@@ -37,6 +37,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时23分 ~ 20时02分]"
+        },
+        {
+          "title": "以防长称打死伊朗最高领袖军事秘书",
+          "url": "https://flash.jin10.com/detail/20260308211021887800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "以防长称打死伊朗最高领袖军事秘书",
+          "url": "https://wallstreetcn.com/livenews/3065889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "一美国警官在科威特执行对伊朗军事行动支援任务时身亡",
@@ -99,6 +121,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "伊朗外长阿拉格齐：与俄罗斯的军事合作并不是新鲜事。",
+          "url": "https://flash.jin10.com/detail/20260308204840399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "伊朗高官：若地区内军事基地被用于对伊攻击，伊朗必将作出回应",
           "url": "https://wallstreetcn.com/livenews/3065775",
           "source": "华尔街见闻-快讯",
@@ -108,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：未来将继续与俄罗斯进行军事合作。",
+          "url": "https://flash.jin10.com/detail/20260308204753975800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "内塔尼亚胡：以色列将继续对伊朗开展军事行动直至胜利",
@@ -137,11 +181,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时00分 ~ 20时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时00分 ~ 21时33分]"
         },
         {
           "title": "春运第35天 预计全社会跨区域人员流动量19409万人次",
@@ -176,7 +221,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -184,18 +229,41 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "姜维只是一个降将，又没能拯救蜀汉，为何在历史上的评价那么高？",
           "url": "https://www.zhihu.com/question/1939597640233910577",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时33分]"
+        },
+        {
+          "title": "李稻葵：提高农民养老金 偿还历史欠账",
+          "url": "https://www.toutiao.com/trending/7614675180599410739/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
+          "title": "伊朗驻墨西哥大使：历史证明，伊朗并不是敌人容易对付的目标。",
+          "url": "https://flash.jin10.com/detail/20260308205738162800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "21时33分"
         }
       ]
     },
