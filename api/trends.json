@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T17:17:31.869236+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-03-08T18:13:10.958554+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时00分 ~ 18时13分]"
         },
         {
           "title": "一美国警官在科威特执行对伊朗军事行动支援任务时身亡",
@@ -29,11 +29,12 @@
           "ranks": [
             3,
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 18时13分]"
         },
         {
           "title": "一美国警官在科威特执行对伊朗军事行动支援任务时身亡",
@@ -121,11 +122,12 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时00分 ~ 18时13分]"
         },
         {
           "title": "春运第35天 预计全社会跨区域人员流动量19409万人次",
@@ -134,11 +136,12 @@
           "ranks": [
             5,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 18时13分]"
         },
         {
           "title": "黎巴嫩社会事务部长表示，本周已有45.4万人登记为流离失所者。",
