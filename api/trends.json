@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T19:26:59.608801+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-03-09T20:31:09.262185+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,31 @@
           "time_info": "18时33分"
         },
         {
+          "title": "美被迫中止军事行动的可能性上升",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A2%AB%E8%BF%AB%E4%B8%AD%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8A%E5%8D%87%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 20时31分]"
+        },
+        {
+          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2014341784478644036",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普称适时结束对伊军事行动",
           "url": "https://www.douyin.com/hot/2423798",
           "source": "抖音",
@@ -51,31 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时33分 ~ 19时26分]"
-        },
-        {
-          "title": "美被迫中止军事行动的可能性上升",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A2%AB%E8%BF%AB%E4%B8%AD%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8A%E5%8D%87%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时26分]"
-        },
-        {
-          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2014341784478644036",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时26分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -139,7 +139,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -158,7 +158,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股收盘：恒生指数收跌1.35%，恒生科技指数收跌0.12%，MiniMax收涨超23%，山东墨龙上涨25%；南向资金净买入额超370亿港元，创历史最高单日净买入纪录。",
@@ -192,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "布伦特原油近期合约较6个月远期合约的溢价超过36美元，创历史新高，显示出伊朗冲突导致的供应紧张。",
+          "url": "https://wallstreetcn.com/livenews/3066487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
@@ -235,7 +246,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
