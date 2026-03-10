@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T13:04:19.586907+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-10T14:32:53.732067+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
+          "url": "https://www.zhihu.com/question/2014656017116395259",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 14时32分]"
+        },
+        {
           "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
           "url": "https://www.zhihu.com/question/2014341784478644036",
           "source": "知乎",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
-          "url": "https://www.zhihu.com/question/2014656017116395259",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "黎巴嫩真主党称袭击了以色列军事据点。",
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "油价为何上演“历史级别大逆转”",
@@ -65,19 +65,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 14时32分]"
         },
         {
           "title": "疯狂24小时！油价上演“历史级别大逆转”",
           "url": "https://wallstreetcn.com/articles/3767092",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 14时32分]"
+        },
+        {
+          "title": "A股算力硬件概念持续拉升，长光华芯触及20cm涨停，创历史新高，此前中英科技、迅捷兴、东山精密、汇绿生态、广合科技涨停，富信科技、优讯股份、德科立、源杰科技均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3067059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "14时32分"
         },
         {
           "title": "高盛：伊朗战争可能引发历史性能源风险，对股票转向战术中性看法",
@@ -101,11 +113,12 @@
           "url": "https://www.zhihu.com/question/2013223682672124668",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 14时32分]"
         }
       ]
     }
