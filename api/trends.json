@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T16:26:03.787505+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-11T17:32:38.907918+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "白宫：对伊军事行动“不达目的不罢休”，打完仗油价会更低！",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 17时32分]"
         },
         {
           "title": "朝鲜谴责美以对伊朗非法军事攻击",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 17时32分]"
         },
         {
           "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
@@ -151,6 +151,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "国防部回应美以对伊朗军事打击",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BB%A5%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "伊朗方面称其部队袭击了科威特境内的美国军事设施。",
           "url": "https://flash.jin10.com/detail/20260311103323209800",
           "source": "金十数据",
@@ -198,8 +209,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 17时32分]"
         },
         {
           "title": "国际油价历史性暴跌",
@@ -280,11 +291,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351685&amp;topic_name=%E8%BE%8D%E5%AD%A6%E9%97%AF%E7%A4%BE%E4%BC%9A%2C%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E5%AD%98%E5%AE%9E%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时32分]"
         },
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
@@ -304,7 +316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
