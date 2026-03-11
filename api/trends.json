@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T20:32:00.257597+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-11T21:57:15.871578+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时17分 ~ 20时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时17分 ~ 21时57分]"
         },
         {
           "title": "白宫：对伊军事行动“不达目的不罢休”，打完仗油价会更低！",
@@ -220,7 +220,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
@@ -246,6 +246,19 @@
           "time_info": "[11时17分 ~ 16时26分]"
         },
         {
+          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
+          "url": "https://www.cls.cn/detail/2309752",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时57分]"
+        },
+        {
           "title": "疯狂24小时！油价上演“历史级别大逆转”",
           "url": "https://wallstreetcn.com/articles/3767092",
           "source": "华尔街见闻",
@@ -255,6 +268,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "伊朗称以色列袭击伊斯法罕省历史古迹已构成“文化种族灭绝”",
+          "url": "https://wallstreetcn.com/livenews/3068143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "夹杂争议的历史之夜，阿德巴约单场83分“刷”新科比纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746639",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 21时57分]"
         },
         {
           "title": "国际油价历史性暴跌",
@@ -270,27 +306,15 @@
           "time_info": "[14时35分 ~ 16时26分]"
         },
         {
-          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
-          "url": "https://www.cls.cn/detail/2309752",
-          "source": "财联社热门",
+          "title": "建议发农村老人历史贡献养老金",
+          "url": "https://www.douyin.com/hot/2426881",
+          "source": "抖音",
           "ranks": [
-            13,
-            11
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时32分]"
-        },
-        {
-          "title": "夹杂争议的历史之夜，阿德巴约单场83分“刷”新科比纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746639",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时32分]"
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "外交部：敦促日方深刻反省侵略历史",
