@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T11:17:20.249157+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-11T13:05:36.529899+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
         },
         {
           "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
         },
         {
           "title": "美防长称将对伊朗发起“最高强度”打击 以实现三项军事目标",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
         },
         {
           "title": "伊朗称军事行动进入全新阶段",
@@ -48,11 +48,35 @@
           "source": "今日头条",
           "ranks": [
             15,
-            18
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时17分]"
+          "time_info": "[11时17分 ~ 13时05分]"
+        },
+        {
+          "title": "朝鲜谴责美以对伊朗非法军事攻击",
+          "url": "https://news.ifeng.com/c/8rOfxPU66hN",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 13时05分]"
         },
         {
           "title": "对伊军事行动已致美军7死140伤",
@@ -65,28 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 11时17分]"
-        },
-        {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "朝鲜谴责美以对伊朗非法军事攻击",
-          "url": "https://news.ifeng.com/c/8rOfxPU66hN",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
         },
         {
           "title": "卡尼称加拿大“绝不会参与”美以对伊朗的军事行动",
@@ -117,7 +119,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -139,7 +141,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -157,8 +159,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时05分]"
         },
         {
           "title": "疯狂24小时！油价上演“历史级别大逆转”",
@@ -172,6 +174,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "国际油价历史性暴跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 13时05分]"
+        },
+        {
           "title": "历史惊人的相似！油价暴涨后，“1970s滞胀噩梦”要重演？",
           "url": "https://wallstreetcn.com/articles/3767099",
           "source": "华尔街见闻",
@@ -181,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "国际油价历史性暴跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
         },
         {
           "title": "超1.82亿桶 美媒：IEA提议释放其历史上规模最大的石油储备",
