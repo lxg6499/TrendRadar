@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T13:05:36.529899+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-03-11T14:36:16.331221+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,58 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时36分]"
         },
         {
           "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
           "url": "https://www.cls.cn/detail/2309074",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时36分]"
+        },
+        {
+          "title": "伊朗称军事行动进入全新阶段",
+          "url": "https://www.toutiao.com/trending/7615763037877898802/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            18,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时36分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时36分]"
+        },
+        {
+          "title": "朝鲜谴责美以对伊朗非法军事攻击",
+          "url": "https://news.ifeng.com/c/8rOfxPU66hN",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时36分]"
         },
         {
           "title": "美防长称将对伊朗发起“最高强度”打击 以实现三项军事目标",
@@ -41,42 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时55分 ~ 13时05分]"
-        },
-        {
-          "title": "伊朗称军事行动进入全新阶段",
-          "url": "https://www.toutiao.com/trending/7615763037877898802/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时05分]"
-        },
-        {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时05分]"
-        },
-        {
-          "title": "朝鲜谴责美以对伊朗非法军事攻击",
-          "url": "https://news.ifeng.com/c/8rOfxPU66hN",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时05分]"
         },
         {
           "title": "对伊军事行动已致美军7死140伤",
@@ -149,7 +152,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
@@ -159,8 +162,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时36分]"
         },
         {
           "title": "疯狂24小时！油价上演“历史级别大逆转”",
@@ -181,8 +184,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时36分]"
+        },
+        {
+          "title": "国际油价历史性暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时05分]"
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "历史惊人的相似！油价暴涨后，“1970s滞胀噩梦”要重演？",
