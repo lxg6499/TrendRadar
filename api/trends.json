@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T16:28:08.339128+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-03-12T17:32:07.632218+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 17时32分]"
         },
         {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -64,13 +64,24 @@
           "time_info": "[08时52分 ~ 14时38分]"
         },
         {
+          "title": "外交部：敦促各方立即停止军事行动",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E5%90%84%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
           "title": "伊朗军方称袭击以色列多处军事和安全机构目标",
           "url": "https://wallstreetcn.com/livenews/3068742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
