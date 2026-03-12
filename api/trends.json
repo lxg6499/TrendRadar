@@ -1,445 +1,105 @@
 {
-  "generated_at": "2026-03-11T22:40:22.774083+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-03-12T08:52:36.685649+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 20,
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
+          "url": "https://www.cls.cn/detail/2310250",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时17分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
-          "title": "白宫：对伊军事行动“不达目的不罢休”，打完仗油价会更低！",
-          "url": "https://www.cls.cn/detail/2309122",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 16时26分]"
-        },
-        {
-          "title": "朝鲜谴责美以对伊朗非法军事攻击",
-          "url": "https://news.ifeng.com/c/8rOfxPU66hN",
+          "title": "伊朗称已实施“真实承诺4”第40轮军事行动",
+          "url": "https://news.ifeng.com/c/8rPQ0B4rdom",
           "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 18时26分]"
-        },
-        {
-          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
-          "url": "https://www.cls.cn/detail/2309074",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 15时35分]"
-        },
-        {
-          "title": "伊朗称军事行动进入全新阶段",
-          "url": "https://www.toutiao.com/trending/7615763037877898802/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            18,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 15时35分]"
-        },
-        {
-          "title": "意大利称不会参与美以军事行动 正向海湾国家提供防空装备",
-          "url": "https://wallstreetcn.com/livenews/3067993",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "08时52分"
         },
         {
-          "title": "外交部：当务之急是有关各方立即停止军事行动",
-          "url": "https://wallstreetcn.com/livenews/3067888",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
+          "url": "https://www.zhihu.com/question/2015192608771633980",
+          "source": "知乎",
           "ranks": [
-            4
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "美防长称将对伊朗发起“最高强度”打击 以实现三项军事目标",
-          "url": "https://www.cls.cn/detail/2308948",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时05分]"
-        },
-        {
-          "title": "国防部回应美以对伊朗军事打击",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BB%A5%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时23分]"
-        },
-        {
-          "title": "对伊军事行动已致美军7死140伤",
-          "url": "https://www.toutiao.com/trending/7615762784457903654/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 11时17分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动即将结束",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "卡尼称加拿大“绝不会参与”美以对伊朗的军事行动",
-          "url": "https://wallstreetcn.com/livenews/3067641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "学者：警惕日本南太军事布局野心",
-          "url": "https://www.toutiao.com/trending/7615760524634701865/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动“即将结束”",
-          "url": "https://wallstreetcn.com/livenews/3068165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "国防部：延续升级冲突没有赢家，应立即停止军事行动",
-          "url": "https://wallstreetcn.com/livenews/3067871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "国防部：人工智能军事应用应坚持由人主导、防止失控",
-          "url": "https://wallstreetcn.com/livenews/3067868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "美媒爆料：因面临威胁，美司法部长“悄悄”搬入军事基地内戒备森严住所",
-          "url": "https://wallstreetcn.com/livenews/3068026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "伊朗方面称其部队袭击了科威特境内的美国军事设施。",
-          "url": "https://flash.jin10.com/detail/20260311103323209800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "伊朗宣布实施“真实承诺4”第37轮军事行动",
-          "url": "https://wallstreetcn.com/livenews/3067618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "朝鲜谴责美以对伊朗非法军事攻击",
-          "url": "https://www.toutiao.com/trending/7614702509794312242/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "历史",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
         {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
-          "source": "华尔街见闻",
+          "title": "建议发农村老人历史贡献养老金",
+          "url": "https://www.douyin.com/hot/2426881",
+          "source": "抖音",
           "ranks": [
-            5,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 19时23分]"
-        },
-        {
-          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
-          "url": "https://www.cls.cn/detail/2309752",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时40分]"
-        },
-        {
-          "title": "国际油价历史性暴跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 16时26分]"
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "夹杂争议的历史之夜，阿德巴约单场83分“刷”新科比纪录",
           "url": "https://m.thepaper.cn/newsDetail_forward_32746639",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 22时40分]"
-        },
-        {
-          "title": "疯狂24小时！油价上演“历史级别大逆转”",
-          "url": "https://wallstreetcn.com/articles/3767092",
-          "source": "华尔街见闻",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时52分"
         },
         {
-          "title": "伊朗称以色列袭击伊斯法罕省历史古迹已构成“文化种族灭绝”",
-          "url": "https://wallstreetcn.com/livenews/3068143",
-          "source": "华尔街见闻-快讯",
+          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
+          "url": "https://www.cls.cn/detail/2309752",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "08时52分"
         },
         {
-          "title": "国际油价历史性暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "委员建议发农村老人历史贡献养老金",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E5%8F%91%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA%E5%8E%86%E5%8F%B2%E8%B4%A1%E7%8C%AE%E5%85%BB%E8%80%81%E9%87%91",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 16时26分]"
-        },
-        {
-          "title": "建议发农村老人历史贡献养老金",
-          "url": "https://www.douyin.com/hot/2426881",
-          "source": "抖音",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 22时40分]"
-        },
-        {
-          "title": "外交部：敦促日方深刻反省侵略历史",
-          "url": "https://wallstreetcn.com/livenews/3067882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "历史惊人的相似！油价暴涨后，“1970s滞胀噩梦”要重演？",
-          "url": "https://wallstreetcn.com/articles/3767099",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "超1.82亿桶 美媒：IEA提议释放其历史上规模最大的石油储备",
-          "url": "https://flash.jin10.com/detail/20260311081654746800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "辍学闯社会,普通人生存实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351685&amp;topic_name=%E8%BE%8D%E5%AD%A6%E9%97%AF%E7%A4%BE%E4%BC%9A%2C%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E5%AD%98%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 20时32分]"
-        },
-        {
-          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
-          "url": "https://wallstreetcn.com/livenews/3067648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "春运第38天，预计全社会跨区域人员流动量17176万人次",
-          "url": "https://wallstreetcn.com/livenews/3067930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬对巴基斯坦总理谢里夫表示，如果国际社会不追究战争责任方，全球秩序与安全将面临风险。",
-          "url": "https://flash.jin10.com/detail/20260311151538494800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS网站：官员们正为至少再持续两周的打击做准备。",
-          "url": "https://flash.jin10.com/detail/20260311220342291800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "08时52分"
         }
       ]
     }
