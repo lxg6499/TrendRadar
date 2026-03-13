@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:08:16.191970+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-03-13T14:36:13.564485+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中东战火冲击全球化肥供应链 CF工业创下历史新高",
@@ -16,8 +16,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时36分]"
+        },
+        {
+          "title": "你看过哪些有趣好看的历史题材绘画或其他类型艺术品？",
+          "url": "https://www.zhihu.com/question/592873369",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "别的国家有没有从中国的史料中发现自己国家没有记载过的历史？",
@@ -37,9 +48,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄外交部：美以军事行动破坏了整个中东的稳定",
+          "url": "https://news.ifeng.com/c/8rSYdL7cvE9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国于周四又执行了一次军事撤离任务，将约19名受伤军人送往德国。",
+          "url": "https://flash.jin10.com/detail/20260313110627772800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -53,23 +92,6 @@
           "source": "知乎",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国于周四又执行了一次军事撤离任务，将约19名受伤军人送往德国。",
-          "url": "https://flash.jin10.com/detail/20260313110627772800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
