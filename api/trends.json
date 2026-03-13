@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:36:13.564485+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-03-13T15:36:21.559910+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 15时36分]"
         },
         {
           "title": "你看过哪些有趣好看的历史题材绘画或其他类型艺术品？",
@@ -63,11 +64,12 @@
           "url": "https://news.ifeng.com/c/8rSYdL7cvE9",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时36分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国于周四又执行了一次军事撤离任务，将约19名受伤军人送往德国。",
