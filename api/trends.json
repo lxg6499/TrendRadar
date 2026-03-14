@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T16:19:47.415614+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-03-14T17:21:12.115933+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美防长称计划摧毁伊朗全部军事能力",
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 17时21分]"
         },
         {
           "title": "伊朗与黎真主党联合开展“真实承诺-4”第48轮军事行动",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时23分 ~ 14时31分]"
+        },
+        {
+          "title": "黄海部分海域执行军事任务",
+          "url": "https://www.douyin.com/hot/2430452",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "美国军事官员：战争可能还会持续几周，至少是这样。",
@@ -93,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -104,11 +115,12 @@
           "ranks": [
             2,
             6,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时21分]"
         },
         {
           "title": "今明两年可能成为历史最热年份",
@@ -169,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 17时21分]"
         },
         {
           "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
@@ -178,11 +190,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 17时21分]"
         },
         {
           "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
@@ -191,11 +204,12 @@
           "ranks": [
             14,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时57分 ~ 17时21分]"
         }
       ]
     }
