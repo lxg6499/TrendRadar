@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T16:24:09.486740+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-03-15T17:22:01.420067+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗称袭击美军中东三大军事基地，提出停战条件：收回损失、美国离开波斯湾！",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 17时22分]"
         },
         {
           "title": "伊朗启动“真实承诺-4”第52轮军事行动",
@@ -28,11 +28,25 @@
             5,
             7,
             11,
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 17时22分]"
+        },
+        {
+          "title": "伊朗发起第53轮军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC53%E8%BD%AE%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30,
+            26
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时21分 ~ 16时24分]"
+          "time_info": "[15时37分 ~ 17时22分]"
         },
         {
           "title": "美以军事打击伊朗波及美农业生产",
@@ -85,18 +99,6 @@
           "time_info": "[09时07分 ~ 12时21分]"
         },
         {
-          "title": "伊朗发起第53轮军事行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC53%E8%BD%AE%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 16时24分]"
-        },
-        {
           "title": "伊朗第51轮军事行动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AC%AC51%E8%BD%AE%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "据《今日以色列报》：以色列高级官员表示，推翻伊朗政权的可能性比最初估计的要低，即便军事行动结束，伊朗政权也可能不会垮台。",
+          "url": "https://flash.jin10.com/detail/20260315163101118800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗伊斯兰革命卫队宣布发起“真实承诺-4”行动第53波军事打击。",
@@ -234,8 +247,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 17时22分]"
         },
         {
           "title": "现代社会为什么没有出现像达芬奇这样全能的人了呢？",
@@ -274,11 +287,12 @@
             9,
             11,
             15,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 17时22分]"
         }
       ]
     }
