@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T20:23:55.503449+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-03-15T21:39:19.551509+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗称袭击美军中东三大军事基地，提出停战条件：收回损失、美国离开波斯湾！",
@@ -51,15 +51,15 @@
           "time_info": "[15时37分 ~ 18时16分]"
         },
         {
-          "title": "据半岛电视台：以色列批准为军事采购拨款8.27亿美元的紧急预算。",
-          "url": "https://flash.jin10.com/detail/20260315195133470800",
+          "title": "以色列军方发言人：对伊朗的军事行动至少再持续三周",
+          "url": "https://flash.jin10.com/detail/20260315203508334800",
           "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "21时39分"
         },
         {
           "title": "伊朗发动“真实承诺-4”第54轮军事行动",
@@ -84,6 +84,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 16时24分]"
+        },
+        {
+          "title": "据半岛电视台：以色列批准为军事采购拨款8.27亿美元的紧急预算。",
+          "url": "https://flash.jin10.com/detail/20260315195133470800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时39分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗西北部有20人因向以色列提供军事地点信息而被捕。",
@@ -350,11 +362,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时39分]"
         }
       ]
     }
