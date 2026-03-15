@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-03-15T12:21:08.653265+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-15T13:59:06.359238+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗称袭击美军中东三大军事基地，提出停战条件：收回损失、美国离开波斯湾！",
           "url": "https://wallstreetcn.com/articles/3767530",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时59分]"
         },
         {
           "title": "伊朗启动“真实承诺-4”第52轮军事行动",
           "url": "https://wallstreetcn.com/livenews/3070217",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时59分]"
         },
         {
           "title": "黄海部分海域执行军事任务",
@@ -53,6 +55,17 @@
           "time_info": "[12时20分 ~ 12时21分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗西北部有20人因向以色列提供军事地点信息而被捕。",
+          "url": "https://flash.jin10.com/detail/20260315131755330800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "日本“再军事化”动作升级",
           "url": "https://www.toutiao.com/trending/7616591332559618098/",
           "source": "今日头条",
@@ -75,6 +88,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "法国外交部：不会向霍尔木兹海峡增派军事力量",
+          "url": "https://flash.jin10.com/detail/20260315130350921800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "俄驻英国大使馆指责伦敦试图使北极军事化",
           "url": "https://flash.jin10.com/detail/20260315041210975800",
           "source": "金十数据",
@@ -92,7 +116,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -125,6 +149,30 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
+          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时59分]"
+        },
+        {
+          "title": "著名社会学家及哲学家尤尔根·哈贝马斯（Jürgen Habermas）逝世，如何评价他的生平及贡献？",
+          "url": "https://www.zhihu.com/question/2016277381732663354",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时59分]"
+        },
+        {
           "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
           "url": "https://www.cls.cn/detail/2312691",
           "source": "财联社热门",
@@ -134,29 +182,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时21分]"
-        },
-        {
-          "title": "著名社会学家及哲学家尤尔根·哈贝马斯（Jürgen Habermas）逝世，如何评价他的生平及贡献？",
-          "url": "https://www.zhihu.com/question/2016277381732663354",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
-          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
         },
         {
           "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
@@ -194,8 +219,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 13时59分]"
         },
         {
           "title": "2026年春运 全国民航旅客量和航班量再创历史同期新高",
@@ -203,11 +228,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时59分]"
         }
       ]
     }
