@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T13:59:06.359238+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-15T14:50:34.911609+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时50分]"
         },
         {
           "title": "伊朗启动“真实承诺-4”第52轮军事行动",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时50分]"
         },
         {
           "title": "黄海部分海域执行军事任务",
@@ -44,6 +46,30 @@
           "time_info": "[09时07分 ~ 12时21分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗西北部有20人因向以色列提供军事地点信息而被捕。",
+          "url": "https://flash.jin10.com/detail/20260315131755330800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时50分]"
+        },
+        {
+          "title": "法国外交部：不会向霍尔木兹海峡增派军事力量",
+          "url": "https://flash.jin10.com/detail/20260315130350921800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时50分]"
+        },
+        {
           "title": "伊朗第51轮军事行动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AC%AC51%E8%BD%AE%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -53,17 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 12时21分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗西北部有20人因向以色列提供军事地点信息而被捕。",
-          "url": "https://flash.jin10.com/detail/20260315131755330800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "日本“再军事化”动作升级",
@@ -86,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "法国外交部：不会向霍尔木兹海峡增派军事力量",
-          "url": "https://flash.jin10.com/detail/20260315130350921800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "俄驻英国大使馆指责伦敦试图使北极军事化",
@@ -156,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时50分]"
         },
         {
           "title": "著名社会学家及哲学家尤尔根·哈贝马斯（Jürgen Habermas）逝世，如何评价他的生平及贡献？",
@@ -188,11 +192,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32768221",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 14时50分]"
         },
         {
           "title": "现代社会为什么没有出现像达芬奇这样全能的人了呢？",
@@ -219,8 +224,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时50分]"
         },
         {
           "title": "2026年春运 全国民航旅客量和航班量再创历史同期新高",
@@ -229,11 +234,12 @@
           "ranks": [
             1,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时50分]"
         }
       ]
     }
