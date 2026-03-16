@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-16T18:42:19.358075+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-03-16T19:38:08.965184+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "餐饮与升级类商品增速领先，中国1—2月社会消费品零售同比增速2.8%",
+          "url": "https://wallstreetcn.com/articles/3767574",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时00分 ~ 19时38分]"
+        },
         {
           "title": "国家统计局：1—2月份社会消费品零售总额86079亿元 同比增长2.8%",
           "url": "https://www.cls.cn/detail/2313725",
@@ -21,15 +32,15 @@
           "time_info": "[14时12分 ~ 17时52分]"
         },
         {
-          "title": "餐饮与升级类商品增速领先，中国1—2月社会消费品零售同比增速2.8%",
-          "url": "https://wallstreetcn.com/articles/3767574",
-          "source": "华尔街见闻",
+          "title": "【李强主持召开国务院第十一次全体会议】李强指出，国务院及各部门要始终保持战略定力、更加积极主动作为，以更高标准当好贯彻党中央决策部署的执行者、行动派、实干家。这个“更高标准”，当前重点要体现在三个方面：一是体现在对形势变化的敏锐把握上，既要树立底线思维，更要增强进取意识，善于变中寻机、化危为机，牢牢把握发展主动权。二是体现在攻坚克难的更大实效上，不拖不绕、直面困难，深入打好“组合拳”，不断夯实发展基础、增强经济韧性。三是体现在破解长期问题的持续努力上，针对我国经济转型升级的阶段性特征，围绕解决事关全局的矛盾和问题，久久为功、善作善成，不断取得突破。 李强指出，关于今年和“十五五”经济社会发展工作，党中央作了战略部署，政府工作报告和“十五五”规划纲要作了具体安排，要不折不扣推动落实，特别是要抓好一批牵引性、撬动性强的重点工作。一是纵深推进全国统一大市场建设，二是积极谋划推动服务业扩能提质，三是加快发展新一代智能制造，四是系统推进重大基础设施网络建设，五是更大力度投资于人、服务于民生，六是更好应对新形势下的外部冲击挑战。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3070896",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时00分 ~ 18时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "赖清德致辞错误百出，蒋万安：一言一行应以团结社会为念",
@@ -39,14 +50,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 19时38分]"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：沙特王储与阿联酋总统通电话，双方强调必须结束军事升级。",
@@ -80,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "俄罗斯外交部长：所有参与乌克兰军事行动的肯尼亚公民均系自愿参与。",
+          "url": "https://flash.jin10.com/detail/20260316185511364800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -107,22 +129,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            28
+            28,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 19时38分]"
         },
         {
           "title": "市值重登千亿大关！存储龙头创历史新高，年内新增千亿股盘点，这些方向占比较高",
           "url": "https://www.cls.cn/detail/2314314",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时38分]"
         }
       ]
     }
