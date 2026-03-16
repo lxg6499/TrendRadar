@@ -1,40 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:02:28.825083+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-03-16T16:54:53.285918+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "社会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家统计局：1—2月份社会消费品零售总额86079亿元 同比增长2.8%",
-          "url": "https://www.cls.cn/detail/2313725",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时02分]"
-        },
-        {
-          "title": "餐饮与升级类商品增速领先，中国1—2月社会消费品零售同比增速2.8%",
-          "url": "https://wallstreetcn.com/articles/3767574",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时00分 ~ 16时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场消息：沙特王储与阿联酋总统通电话，双方强调必须结束军事升级。",
@@ -54,9 +25,50 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "市场消息：科威特外交大臣与约旦方面讨论了地区军事冲突的不断升级，以及由此对地区和国际安全与稳定造成的严重影响和令人担忧的后果。",
+          "url": "https://flash.jin10.com/detail/20260316163428468800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家统计局：1—2月份社会消费品零售总额86079亿元 同比增长2.8%",
+          "url": "https://www.cls.cn/detail/2313725",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 16时54分]"
+        },
+        {
+          "title": "餐饮与升级类商品增速领先，中国1—2月社会消费品零售同比增速2.8%",
+          "url": "https://wallstreetcn.com/articles/3767574",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时00分 ~ 16时54分]"
         }
       ]
     },
