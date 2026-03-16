@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T17:52:15.653729+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-03-16T18:42:19.358075+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时00分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[16时00分 ~ 18时42分]"
         },
         {
           "title": "赖清德致辞错误百出，蒋万安：一言一行应以团结社会为念",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时42分]"
         }
       ]
     },
@@ -85,7 +85,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时28分 ~ 16时02分]"
+        },
+        {
+          "title": "市值重登千亿大关！存储龙头创历史新高，年内新增千亿股盘点，这些方向占比较高",
+          "url": "https://www.cls.cn/detail/2314314",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     }
