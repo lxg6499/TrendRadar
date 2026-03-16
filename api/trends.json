@@ -1,22 +1,51 @@
 {
-  "generated_at": "2026-03-16T09:07:44.629752+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-16T12:28:22.139389+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
           "url": "https://wallstreetcn.com/articles/3767545",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 12时28分]"
+        },
+        {
+          "title": "道曼如何打破21年英超历史",
+          "url": "https://search.bilibili.com/all?keyword=%E9%81%93%E6%9B%BC%E5%A6%82%E4%BD%95%E6%89%93%E7%A0%B421%E5%B9%B4%E8%8B%B1%E8%B6%85%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：沙特王储与阿联酋总统通电话，双方强调必须结束军事升级。",
+          "url": "https://flash.jin10.com/detail/20260316115129356800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
