@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:42:26.669685+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-03-17T18:37:39.015931+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "据以色列官员称，伊朗巴斯基准军事部队指挥官古拉姆雷扎·索莱马尼（Gholamreza Soleimani）也是以色列夜间在伊朗发动袭击的目标。",
@@ -19,6 +19,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "伊朗外交部：霍尔木兹海峡的局势不能脱离该地区的整体局势来考虑，因为海峡航运中断是由美国和犹太复国主义政权强加的战争造成的。任何关心和平与安全的国家或国际组织都必须负责任地、毫不留情地谴责这两个政权的罪行，并要求它们停止对伊朗人民的军事侵略。",
+          "url": "https://flash.jin10.com/detail/20260317182322495800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我曾多次试图说明，在长达四年的全面军事行动中，俄罗斯积累了丰富的经验：包括战场经验、新技术应用、长期陆地作战的经验以及军事工业基础。",
           "url": "https://flash.jin10.com/detail/20260317153049861800",
           "source": "金十数据",
@@ -30,13 +41,24 @@
           "time_info": "15时45分"
         },
         {
+          "title": "伊朗外交部：外交部长指出，美国和以色列对伊朗的军事侵略公然违反了《联合国宪章》的基本原则和规则以及国际法，并提醒联合国和秘书长有责任根据《宪章》第七章，坚决、明确地谴责这种侵略行为，并追究侵略者的责任。",
+          "url": "https://flash.jin10.com/detail/20260317182233643800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "欧盟呼吁结束对伊军事行动",
           "url": "https://wallstreetcn.com/livenews/3071556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -110,7 +132,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家能源局：2026年1-2月，全社会用电量累计16546亿千瓦时，同比增长6.1%",
@@ -122,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐呼吁国际社会关注该地区和霍尔木兹海峡不安全的主要根源，即美国和犹太复国主义政权的军事侵略。",
+          "url": "https://flash.jin10.com/detail/20260317182252312800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "国家能源局：2026年1—2月份全社会用电量同比增长6.1%",
@@ -153,7 +186,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -180,11 +213,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 18时37分]"
         },
         {
           "title": "A股医药股震荡拉升，基蛋生物封涨停，荣昌生物涨近7%，股价创历史新高，三生国健、苑东生物、悦康药业、君实生物、必贝特、益方生物跟涨。",
