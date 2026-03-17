@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T19:34:53.392472+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-03-17T20:37:47.606451+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -225,11 +225,12 @@
           "ranks": [
             16,
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时45分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时45分 ~ 20时37分]"
         },
         {
           "title": "A股医药股震荡拉升，基蛋生物封涨停，荣昌生物涨近7%，股价创历史新高，三生国健、苑东生物、悦康药业、君实生物、必贝特、益方生物跟涨。",
