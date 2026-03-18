@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:34:11.433903+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-03-18T17:40:27.396280+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时40分]"
         },
         {
           "title": "以军称空袭伊朗军事指挥中心和弹道导弹阵地",
