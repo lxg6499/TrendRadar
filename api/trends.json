@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:36:14.967493+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-03-18T20:38:51.225021+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "战火下的文明之殇：美以军事打击下，伊朗哪些世界遗产被毁？",
@@ -15,11 +15,12 @@
             20,
             17,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 20时38分]"
         },
         {
           "title": "以军称空袭伊朗军事指挥中心和弹道导弹阵地",
@@ -43,6 +44,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "以色列外长：以色列在当前军事行动中“已经胜利”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783864",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "白宫称特朗普拒绝重启与伊朗谈判，希望军事行动继续推进，伊朗战事还将持续多久？未来将如何变化？",
+          "url": "https://www.zhihu.com/question/2017167860183609549",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
