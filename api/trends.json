@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-18T15:43:57.883723+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-03-18T16:34:11.433903+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
       "match_count": 3,
       "titles": [
+        {
+          "title": "战火下的文明之殇：美以军事打击下，伊朗哪些世界遗产被毁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784550",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 16时34分]"
+        },
         {
           "title": "以军称空袭伊朗军事指挥中心和弹道导弹阵地",
           "url": "https://wallstreetcn.com/livenews/3072155",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 14时46分]"
-        },
-        {
-          "title": "战火下的文明之殇：美以军事打击下，伊朗哪些世界遗产被毁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32784550",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时43分]"
         },
         {
           "title": "白宫：非常有信心4到6周达成伊朗军事解决方案",
@@ -55,7 +55,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
