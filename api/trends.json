@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:28:25.396548+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-03-19T19:26:07.530578+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
+          "url": "https://www.zhihu.com/question/2017913786695186154",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         }
       ]
     },
