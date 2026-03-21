@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:00:47.230012+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-21T13:39:08.354577+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时00分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时39分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时00分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时39分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 13时39分]"
         },
         {
           "title": "据华尔街日报：伊朗向位于印度洋中部的美英联合军事基地迪戈加西亚发射了两枚中程弹道导弹。两枚伊朗导弹均未击中迪戈加西亚基地；一枚在飞行中失败，美军军舰向另一枚发射了拦截导弹。",
@@ -125,8 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 13时00分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时39分]"
         }
       ]
     },
@@ -140,11 +141,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时39分]"
         }
       ]
     }
