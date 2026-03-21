@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:27:51.783452+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-03-21T15:25:13.133639+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时25分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时25分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -40,11 +40,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 15时25分]"
+        },
+        {
+          "title": "英国授权美军使用其军事基地实施打击，伊朗称将行使自卫权回应，如何解读英国此举？对当前局势有哪些影响？",
+          "url": "https://www.zhihu.com/question/2018593420218688532",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时25分]"
         },
         {
           "title": "据华尔街日报：伊朗向位于印度洋中部的美英联合军事基地迪戈加西亚发射了两枚中程弹道导弹。两枚伊朗导弹均未击中迪戈加西亚基地；一枚在飞行中失败，美军军舰向另一枚发射了拦截导弹。",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "英国授权美军使用其军事基地实施打击，伊朗称将行使自卫权回应，如何解读英国此举？对当前局势有哪些影响？",
-          "url": "https://www.zhihu.com/question/2018593420218688532",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
@@ -138,11 +139,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时25分]"
         }
       ]
     },
