@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T18:15:03.581083+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-03-22T19:13:50.928293+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 19时13分]"
         },
         {
           "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
@@ -27,8 +27,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时44分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[13时44分 ~ 19时13分]"
+        },
+        {
+          "title": "美军欲夺哈尔克岛，军事专家推演了三种可能",
+          "url": "https://wallstreetcn.com/articles/3768080",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时13分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "美军欲夺哈尔克岛，军事专家推演了三种可能",
-          "url": "https://wallstreetcn.com/articles/3768080",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军队无人机袭击了以色列特拉维夫本-古里安国际机场的犹太军事基础设施。",
@@ -71,11 +72,12 @@
           "url": "https://www.cls.cn/detail/2320568",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时13分]"
         },
         {
           "title": "官方披露：军事爱好者屡入废弃军事阵地",
@@ -137,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 19时13分]"
         },
         {
           "title": "我刚出社会，谁能告诉我为何人跟人之间存在那么多问题？",
