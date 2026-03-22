@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T21:36:42.334722+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-03-22T22:17:16.663309+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时36分]"
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时17分]"
         },
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时17分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -86,11 +86,12 @@
           "url": "https://flash.jin10.com/detail/20260322212406137800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时17分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军队无人机袭击了以色列特拉维夫本-古里安国际机场的犹太军事基础设施。",
@@ -139,6 +140,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "黄海部分海域执行军事任务",
+          "url": "https://www.toutiao.com/trending/7619131353380552723/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "以军说对伊朗军事行动已到半途",
           "url": "https://flash.jin10.com/detail/20260322090645158800",
           "source": "金十数据",
@@ -181,6 +193,17 @@
           "time_info": "[17时19分 ~ 18时15分]"
         },
         {
+          "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32810459",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时17分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：美国总统特朗普希望国际社会对抗伊朗政权。",
           "url": "https://flash.jin10.com/detail/20260322191315599800",
           "source": "金十数据",
@@ -190,17 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
-        },
-        {
-          "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810459",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         }
       ]
     },
