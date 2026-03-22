@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T16:19:32.517459+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-03-22T17:20:14.924405+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 17时20分]"
+        },
+        {
+          "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802326",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时02分 ~ 16时19分]"
+          "time_info": "[13时44分 ~ 17时20分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -31,17 +42,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802326",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时44分 ~ 16时19分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军队无人机袭击了以色列特拉维夫本-古里安国际机场的犹太军事基础设施。",
           "url": "https://flash.jin10.com/detail/20260322125152328800",
           "source": "金十数据",
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 15时31分]"
+        },
+        {
+          "title": "美军欲夺哈尔克岛，军事专家推演了三种可能",
+          "url": "https://wallstreetcn.com/articles/3768080",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时20分]"
         },
         {
           "title": "官方披露：军事爱好者屡入废弃军事阵地",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "美军欲夺哈尔克岛，军事专家推演了三种可能",
-          "url": "https://wallstreetcn.com/articles/3768080",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
@@ -113,7 +114,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】金融法草案向社会公开征求意见；关于霍尔木兹海峡通行，伊朗表态",
@@ -125,8 +126,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 17时20分]"
+        },
+        {
+          "title": "我刚出社会，谁能告诉我为何人跟人之间存在那么多问题？",
+          "url": "https://www.zhihu.com/question/2018134856740120175",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         }
       ]
     },
