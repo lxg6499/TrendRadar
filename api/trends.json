@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T16:39:49.266731+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-03-23T17:50:16.568391+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -31,6 +31,18 @@
           "time_info": "[09时04分 ~ 14时03分]"
         },
         {
+          "title": "中方强烈呼吁立即停止军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时50分]"
+        },
+        {
           "title": "古巴：正为美可能发起军事侵略做准备",
           "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%EF%BC%9A%E6%AD%A3%E4%B8%BA%E7%BE%8E%E5%8F%AF%E8%83%BD%E5%8F%91%E8%B5%B7%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%81%9A%E5%87%86%E5%A4%87",
           "source": "百度热搜",
@@ -44,13 +56,24 @@
           "time_info": "[09时04分 ~ 14时03分]"
         },
         {
+          "title": "中方强烈呼吁立即停止军事行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
           "title": "中国政府中东问题特使：中东已经够乱了 有关当事方应立即停止军事行动",
           "url": "https://wallstreetcn.com/livenews/3075024",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -64,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "中方强烈呼吁立即停止军事行动",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "外交部：中方强烈呼吁当事方立即停止军事行动",
@@ -94,7 +106,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -105,7 +117,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -113,18 +125,19 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "贝森特放言“必须先升级局势再缓和”，遭批“没读过历史书”",
           "url": "https://news.ifeng.com/c/8rirFRg93Bw",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 17时50分]"
         },
         {
           "title": "印度卢比兑美元跌至历史新低93.8350。 印度10年期国债收益率上行4个基点至6.78%。",
@@ -136,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "深圳今年前两月外贸进出口突破8242亿元 创历史同期新高",
+          "url": "https://wallstreetcn.com/livenews/3075058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "印度卢比开盘报93.83兑1美元，创历史新低，较前一交易日收盘下跌0.1%。",
@@ -152,7 +176,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英国首相斯塔默：反犹主义在我们的社会中没有立足之地。",
@@ -175,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "中国政府中东问题特使：维护霍尔木兹海峡及附近水域安全符合国际社会共同利益",
+          "url": "https://wallstreetcn.com/livenews/3075046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     }
