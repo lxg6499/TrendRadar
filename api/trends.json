@@ -1,235 +1,55 @@
 {
-  "generated_at": "2026-03-22T22:17:16.663309+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-03-23T09:04:33.161207+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
           "source": "财联社热门",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 20时02分]"
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
-          "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802326",
-          "source": "澎湃新闻",
+          "title": "古巴：正为美国可能发起军事侵略做准备",
+          "url": "https://news.ifeng.com/c/8riUA4Qnqug",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时44分 ~ 20时02分]"
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "美军欲夺哈尔克岛，军事专家推演了三种可能",
           "url": "https://wallstreetcn.com/articles/3768080",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 22时17分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
-          "url": "https://www.cls.cn/detail/2320568",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时17分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "内塔尼亚胡声称“各国都应加入对伊军事行动”",
-          "url": "https://flash.jin10.com/detail/20260322192358860800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "市场消息：美国财长贝森特称，美国总统特朗普会不惜一切代价在伊朗达成目标；有足够的钱来支持军事行动。",
-          "url": "https://flash.jin10.com/detail/20260322212406137800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时17分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗军队无人机袭击了以色列特拉维夫本-古里安国际机场的犹太军事基础设施。",
-          "url": "https://flash.jin10.com/detail/20260322125152328800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时31分]"
-        },
-        {
-          "title": "官方披露：军事爱好者屡入废弃军事阵地",
-          "url": "https://www.toutiao.com/trending/7619847317315239974/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "步步惊心！军事专家推演美军夺取哈尔克岛的3种可能",
-          "url": "https://news.ifeng.com/c/8rgBOOpKs9b",
-          "source": "凤凰网",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "09时04分"
         },
         {
-          "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
-          "url": "https://www.zhihu.com/question/2018961388341588269",
-          "source": "知乎",
+          "title": "古巴：正为美可能发起军事侵略做准备",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%EF%BC%9A%E6%AD%A3%E4%B8%BA%E7%BE%8E%E5%8F%AF%E8%83%BD%E5%8F%91%E8%B5%B7%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%81%9A%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            16
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "黄海部分海域执行军事任务",
-          "url": "https://www.toutiao.com/trending/7619131353380552723/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "以军说对伊朗军事行动已到半途",
-          "url": "https://flash.jin10.com/detail/20260322090645158800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】金融法草案向社会公开征求意见；关于霍尔木兹海峡通行，伊朗表态",
-          "url": "https://www.cls.cn/detail/2320219",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 20时02分]"
-        },
-        {
-          "title": "我刚出社会，谁能告诉我为何人跟人之间存在那么多问题？",
-          "url": "https://www.zhihu.com/question/2018134856740120175",
-          "source": "知乎",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 18时15分]"
-        },
-        {
-          "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810459",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时17分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：美国总统特朗普希望国际社会对抗伊朗政权。",
-          "url": "https://flash.jin10.com/detail/20260322191315599800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "杜兰特超越乔丹位列历史得分榜第五",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E8%B6%85%E8%B6%8A%E4%B9%94%E4%B8%B9%E4%BD%8D%E5%88%97%E5%8E%86%E5%8F%B2%E5%BE%97%E5%88%86%E6%A6%9C%E7%AC%AC%E4%BA%94%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "09时04分"
         }
       ]
     }
