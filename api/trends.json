@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T14:03:20.958178+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-03-23T15:53:53.399612+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "外交部：中方强烈呼吁当事方立即停止军事行动",
+          "url": "https://flash.jin10.com/detail/20260323153758243800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
@@ -68,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 14时03分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 15时53分]"
         },
         {
           "title": "印度卢比兑美元跌至历史新低93.8350。 印度10年期国债收益率上行4个基点至6.78%。",
@@ -97,8 +108,19 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英国首相斯塔默：反犹主义在我们的社会中没有立足之地。",
+          "url": "https://flash.jin10.com/detail/20260323153813658800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
         {
           "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_32810459",
