@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:50:16.568391+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-03-23T18:41:02.861008+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -19,6 +19,18 @@
           "time_info": "09时04分"
         },
         {
+          "title": "中方强烈呼吁立即停止军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时41分]"
+        },
+        {
           "title": "古巴：正为美国可能发起军事侵略做准备",
           "url": "https://news.ifeng.com/c/8riUA4Qnqug",
           "source": "凤凰网",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 14时03分]"
-        },
-        {
-          "title": "中方强烈呼吁立即停止军事行动",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时50分]"
         },
         {
           "title": "古巴：正为美可能发起军事侵略做准备",
@@ -111,6 +111,17 @@
           "time_info": "16时39分"
         },
         {
+          "title": "国际原子能机构（IAEA）：在最近关于伊朗布什尔核电站附近军事活动的令人担忧的报道后，总干事格罗西今天与俄罗斯国家原子能公司总经理利哈乔夫进行了电话交谈，并获得了最新情况。总干事重申，任何军事行动都不应危及核电站及其工作人员的物理完整性和安全，他们必须能够在安全的条件下进行重要工作。",
+          "url": "https://flash.jin10.com/detail/20260323182438815800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "中国政府中东问题特使：中国谴责一切无差别攻击平民和非军事目标的情况",
           "url": "https://flash.jin10.com/detail/20260323162428075800",
           "source": "金十数据",
@@ -125,7 +136,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贝森特放言“必须先升级局势再缓和”，遭批“没读过历史书”",
@@ -157,9 +168,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
+        },
+        {
+          "title": "数据显示：由于中东战争升级，亚洲石脑油利润空间创下历史新高，对布伦特原油的价差达到每公吨429.35美元。",
+          "url": "https://flash.jin10.com/detail/20260323181427253800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "印度卢比开盘报93.83兑1美元，创历史新低，较前一交易日收盘下跌0.1%。",
@@ -207,7 +229,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         }
