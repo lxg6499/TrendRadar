@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-24T18:38:38.900730+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-03-24T19:36:41.038043+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗称已开展「真实承诺 -4」第 78 轮军事行动，称或将进一步扩大行动规模，未来冲突格局将如何变化？",
+          "url": "https://www.zhihu.com/question/2019729199187916365",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://lxg6499.github.io/TrendRadar/img/news.jpg"
 }
