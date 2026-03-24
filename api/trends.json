@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T20:38:22.230997+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-03-24T22:10:03.982924+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时10分]"
         },
         {
           "title": "法国武装部队总参谋长：美方军事行动影响法国安全",
@@ -26,7 +26,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
