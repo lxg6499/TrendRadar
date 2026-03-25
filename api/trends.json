@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:44:20.602034+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-03-25T16:35:35.292694+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中上协：2月全市场总市值再创历史新高，突破116.8万亿",
@@ -14,9 +14,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "让日本的年轻一代了解历史真相",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%97%A5%E6%9C%AC%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%B8%80%E4%BB%A3%E4%BA%86%E8%A7%A3%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "中上协：截至2月底全市场总市值再创历史新高突破116.8万亿 同比增长34%",
@@ -25,7 +36,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
