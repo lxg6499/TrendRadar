@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T09:02:06.969953+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-25T12:08:08.605092+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=iOS26.4%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 12时08分]"
         }
       ]
     }
