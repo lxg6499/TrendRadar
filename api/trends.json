@@ -1,8 +1,85 @@
 {
-  "generated_at": "2026-03-27T18:35:27.754025+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-03-27T19:33:29.952945+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "历史",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "民族败类必将被钉在历史耻辱柱上",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%97%8F%E8%B4%A5%E7%B1%BB%E5%BF%85%E5%B0%86%E8%A2%AB%E9%92%89%E5%9C%A8%E5%8E%86%E5%8F%B2%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            2,
+            1,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 15时50分]"
+        },
+        {
+          "title": "洲际交易所（ICE）：包括石油、天然气及布伦特原油在内的所有大宗商品和能源产品的持仓量均创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260327193144087800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
+          "url": "https://www.cls.cn/detail/2327080",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时33分]"
+        },
+        {
+          "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
+          "url": "https://wallstreetcn.com/articles/3768553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3077947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "LSEG数据显示，亚洲10ppm含硫柴油利润率创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260327180926284800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "军事",
       "match_count": 4,
@@ -20,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 19时33分]"
         },
         {
           "title": "俄称普京未与商界讨论“捐款支持特别军事行动”议题",
@@ -30,7 +107,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -55,60 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "民族败类必将被钉在历史耻辱柱上",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%97%8F%E8%B4%A5%E7%B1%BB%E5%BF%85%E5%B0%86%E8%A2%AB%E9%92%89%E5%9C%A8%E5%8E%86%E5%8F%B2%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            2,
-            1,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 15时50分]"
-        },
-        {
-          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
-          "url": "https://www.cls.cn/detail/2327080",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3077947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "LSEG数据显示，亚洲10ppm含硫柴油利润率创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260327180926284800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         }
       ]
     },
