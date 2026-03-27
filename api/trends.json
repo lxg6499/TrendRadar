@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T12:22:52.020013+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-03-27T14:05:31.946612+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时05分]"
         },
         {
           "title": "伊朗或开辟新战线 胡塞武装：已为军事行动做好准备",
@@ -29,6 +30,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "民族败类必将被钉在历史耻辱柱上",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%97%8F%E8%B4%A5%E7%B1%BB%E5%BF%85%E5%B0%86%E8%A2%AB%E9%92%89%E5%9C%A8%E5%8E%86%E5%8F%B2%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            2,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时05分]"
+        },
+        {
+          "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3077947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         }
       ]
     },
@@ -46,25 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "民族败类必将被钉在历史耻辱柱上",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%97%8F%E8%B4%A5%E7%B1%BB%E5%BF%85%E5%B0%86%E8%A2%AB%E9%92%89%E5%9C%A8%E5%8E%86%E5%8F%B2%E8%80%BB%E8%BE%B1%E6%9F%B1%E4%B8%8A",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时22分]"
         }
       ]
     }
