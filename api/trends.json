@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T16:36:59.147486+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-03-27T17:42:29.565629+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             8,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 17时42分]"
         },
         {
           "title": "黎巴嫩将就以色列在黎南部军事行动向安理会提出紧急申诉",
