@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T20:33:00.896610+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-03-27T22:02:39.425019+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,20 @@
           "time_info": "[09时09分 ~ 15时50分]"
         },
         {
+          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
+          "url": "https://www.cls.cn/detail/2327080",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 22时02分]"
+        },
+        {
           "title": "洲际交易所（ICE）：包括石油、天然气及布伦特原油在内的所有大宗商品和能源产品的持仓量均创下历史新高。",
           "url": "https://flash.jin10.com/detail/20260327193144087800",
           "source": "金十数据",
@@ -34,28 +48,16 @@
           "time_info": "19时33分"
         },
         {
-          "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
-          "url": "https://www.cls.cn/detail/2327080",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 20时33分]"
-        },
-        {
           "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
           "url": "https://wallstreetcn.com/articles/3768553",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时02分]"
         },
         {
           "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
@@ -83,7 +85,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美最新民调显示：近六成美国人认为对伊朗军事行动“过头”",
@@ -133,12 +135,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "航行警告！渤海军事演习",
+          "url": "https://flash.jin10.com/detail/20260327213029757800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "王毅同加拿大外长阿南德通电话：美国和伊朗都有重启谈判的意愿，国际社会应鼓励双方重回谈判桌，寻求政治解决的有效途径",
@@ -150,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "大学生如何社会化",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A6%82%E4%BD%95%E7%A4%BE%E4%BC%9A%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     }
