@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:33:29.952945+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-03-27T20:33:00.896610+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -29,7 +29,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 20时33分]"
         },
         {
           "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
@@ -52,9 +53,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时33分]"
         },
         {
           "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
@@ -97,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时09分 ~ 20时33分]"
         },
         {
           "title": "俄称普京未与商界讨论“捐款支持特别军事行动”议题",
