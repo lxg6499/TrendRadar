@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-03-28T13:17:11.253173+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-28T14:43:14.019142+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "胡塞武装：已准备好直接军事干预美以伊战争",
+          "url": "https://news.ifeng.com/c/8rr7yhrsP5X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：消息人士称，乔治·H·W·布什号航空母舰将部署到美国中央司令部的责任区，该司令部是监督美国对伊朗军事行动的主要作战司令部。",
+          "url": "https://flash.jin10.com/detail/20260328062414512800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 3,
@@ -14,11 +53,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 14时43分]"
         },
         {
           "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
@@ -42,34 +82,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "胡塞武装：已准备好直接军事干预美以伊战争",
-          "url": "https://news.ifeng.com/c/8rr7yhrsP5X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 13时17分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：消息人士称，乔治·H·W·布什号航空母舰将部署到美国中央司令部的责任区，该司令部是监督美国对伊朗军事行动的主要作战司令部。",
-          "url": "https://flash.jin10.com/detail/20260328062414512800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         }
       ]
     },
