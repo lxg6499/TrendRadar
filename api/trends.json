@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:25:24.514896+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-03-28T18:19:21.435304+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时19分]"
         },
         {
           "title": "胡塞武装称打击以色列重要军事目标",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 18时19分]"
         },
         {
           "title": "伊朗教育部：美以军事打击已致252名学生和教师死亡",
@@ -43,6 +44,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 16时24分]"
+        },
+        {
+          "title": "俄2025年秋季征兵13.5万人 承诺不派往特别军事行动区域",
+          "url": "https://flash.jin10.com/detail/20260328164051171800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "胡塞武装称打击以色列重要军事目标 军事行动将持续一段时间",
@@ -66,17 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 14时43分]"
-        },
-        {
-          "title": "俄2025年秋季征兵13.5万人 承诺不派往特别军事行动区域",
-          "url": "https://flash.jin10.com/detail/20260328164051171800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "航行警告！北部湾军事训练",
@@ -107,7 +109,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
