@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-28T09:01:43.576725+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-28T11:36:52.015528+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
       "match_count": 3,
       "titles": [
-        {
-          "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
-          "url": "https://wallstreetcn.com/articles/3768553",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
         {
           "title": "收盘价创历史新高！“宁王”市值剑指2万亿，成交额连日超百亿，这些股也获资金关注",
           "url": "https://www.cls.cn/detail/2327080",
@@ -30,22 +19,46 @@
           "time_info": "09时01分"
         },
         {
+          "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
+          "url": "https://wallstreetcn.com/articles/3768553",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
+        },
+        {
           "title": "苹果正式停产下架 Mac Pro，确定无后继产品，如何评价该产品线 20 年的历史落幕？",
           "url": "https://www.zhihu.com/question/2020810589144884963",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时36分]"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "胡塞武装：已准备好直接军事干预美以伊战争",
+          "url": "https://news.ifeng.com/c/8rr7yhrsP5X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士称，乔治·H·W·布什号航空母舰将部署到美国中央司令部的责任区，该司令部是监督美国对伊朗军事行动的主要作战司令部。",
           "url": "https://flash.jin10.com/detail/20260328062414512800",
