@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:25:12.365528+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-03-29T18:20:33.263316+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时20分]"
         },
         {
           "title": "国产摩托创历史！张雪机车WSBK夺冠",
@@ -51,11 +52,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时20分]"
         }
       ]
     },
@@ -82,11 +84,12 @@
           "url": "https://flash.jin10.com/detail/20260329165110485800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         }
       ]
     }
