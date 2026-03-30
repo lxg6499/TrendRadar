@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T16:14:04.089233+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-03-30T18:03:47.098254+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 18时03分]"
         },
         {
           "title": "以军称正打击“整个德黑兰”的军事设施",
@@ -76,7 +76,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
