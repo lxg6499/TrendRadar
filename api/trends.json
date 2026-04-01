@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T19:41:42.910862+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-04-01T20:46:03.733090+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 20时46分]"
         },
         {
           "title": "日本历史首胜英格兰",
@@ -95,7 +95,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -137,7 +137,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -170,7 +170,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
@@ -199,7 +199,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
