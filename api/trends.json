@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T16:07:38.301080+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-04-01T17:56:25.960857+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 16时07分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时56分]"
         },
         {
           "title": "“张雪机车”两连冠创造历史，老板张雪的企业估值超10亿元",
@@ -91,7 +91,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "军事机密泄露竟是因为运动手表",
@@ -100,11 +100,12 @@
           "ranks": [
             22,
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 17时56分]"
         },
         {
           "title": "以色列高级将领称，伊朗的导弹发射能力已被削弱。伊朗的指挥链大部分已被摧毁。在黎巴嫩的军事行动将持续必要的时间。",
@@ -116,13 +117,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "英国首相斯塔默：北约是最有效的军事联盟。",
+          "url": "https://flash.jin10.com/detail/20260401173652761800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "假如人类繁衍后代的方式是孵蛋，现代社会会有什么大改变？",
+          "url": "https://www.zhihu.com/question/1993161450408155083",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
         {
           "title": "外交部：打击网、赌、电、诈是国际社会的共同责任",
           "url": "https://wallstreetcn.com/livenews/3080722",
@@ -130,7 +153,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
