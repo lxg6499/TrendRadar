@@ -1,229 +1,39 @@
 {
-  "generated_at": "2026-04-01T22:23:30.424361+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-04-02T09:05:27.238989+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "历史",
-      "match_count": 10,
+      "keyword_group": "军事",
+      "match_count": 1,
       "titles": [
         {
-          "title": "历史首次！国有四大行去年私人银行客户数据集体“隐身”，头部股份行获客依旧凶猛",
-          "url": "https://www.cls.cn/detail/2331796",
-          "source": "财联社热门",
+          "title": "以媒说以色列担忧美国可能宣布结束对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3081189",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时19分 ~ 20时46分]"
-        },
-        {
-          "title": "日本历史首胜英格兰",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E9%A6%96%E8%83%9C%E8%8B%B1%E6%A0%BC%E5%85%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 16时07分]"
-        },
-        {
-          "title": "河南一高中近半历史老师无学生可教，媒体称若选科完全被就业市场牵引，新高考意义或被弱化，如何理解此观点？",
-          "url": "https://www.zhihu.com/question/2022348639914259478",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "“张雪机车”两连冠创造历史，老板张雪的企业估值超10亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865634",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时37分]"
-        },
-        {
-          "title": "特朗普历史性现身最高法院 出席出生公民权政策庭审",
-          "url": "https://flash.jin10.com/detail/20260401220235838800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "单季度首破100万辆次 “北上”港澳单牌车创历史同期新高",
-          "url": "https://flash.jin10.com/detail/20260401182938364800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "8家券商跻身“百亿净利俱乐部”，历史性大扩容",
-          "url": "https://www.cls.cn/detail/2331062",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "美国加州柴油价格再创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3080591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "单季度首破100万辆次 “北上”港澳单牌车创历史同期新高",
-          "url": "https://wallstreetcn.com/livenews/3080856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "印度卢比跌破历史新低 高油价压力下市场押注破“100”大关",
-          "url": "https://flash.jin10.com/detail/20260401132319655800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
-      "keyword_group": "军事",
-      "match_count": 5,
+      "keyword_group": "历史",
+      "match_count": 1,
       "titles": [
         {
-          "title": "军事机密泄露竟是因为运动手表",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            2,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 17时56分]"
-        },
-        {
-          "title": "法国国防部长助理：北约是一个关乎欧洲-大西洋地区安全的军事联盟，而非用于在霍尔木兹海峡开展不尊重国际法的行动。",
-          "url": "https://flash.jin10.com/detail/20260401192543975800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "以色列高级将领称，伊朗的导弹发射能力已被削弱。伊朗的指挥链大部分已被摧毁。在黎巴嫩的军事行动将持续必要的时间。",
-          "url": "https://flash.jin10.com/detail/20260401133812487800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "英国首相斯塔默：北约是最有效的军事联盟。",
-          "url": "https://flash.jin10.com/detail/20260401173652761800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "加拿大总理谴责以在黎巴嫩军事行动",
-          "url": "https://www.toutiao.com/trending/7623165627176075291/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "假如人类繁衍后代的方式是孵蛋，现代社会会有什么大改变？",
-          "url": "https://www.zhihu.com/question/1993161450408155083",
+          "title": "巴菲特称近期市场下跌与历史上真正的买点相比不值一提，股市估值仍未有吸引力，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2022610592674981247",
           "source": "知乎",
           "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 22时23分]"
-        },
-        {
-          "title": "李强在四川调研时强调 着力推进新型电网建设 加快能源结构调整优化 为经济社会高质量发展提供有力支撑",
-          "url": "https://wallstreetcn.com/livenews/3080887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "外交部：打击网、赌、电、诈是国际社会的共同责任",
-          "url": "https://wallstreetcn.com/livenews/3080722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "09时05分"
         }
       ]
     }
