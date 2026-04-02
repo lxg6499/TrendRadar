@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T17:48:16.490148+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-04-02T18:39:59.335829+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时48分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[16时48分 ~ 18时39分]"
         },
         {
           "title": "以媒：以色列担忧美国可能宣布结束对伊朗军事行动",
@@ -44,6 +45,28 @@
           "time_info": "09时05分"
         },
         {
+          "title": "美军事重镇被曝大批士兵流连夜店，称即将部署要花光所有钱！",
+          "url": "https://news.ifeng.com/c/8rzvMvpSGl5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "马克龙：通过军事行动“解放”霍尔木兹海峡不现实",
+          "url": "https://wallstreetcn.com/livenews/3081517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "特朗普鼓动他国“抢石油” 外交部：海峡通航受阻根源是美以对伊朗非法军事行动",
           "url": "https://wallstreetcn.com/livenews/3081417",
           "source": "华尔街见闻-快讯",
@@ -64,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "法国总统马克龙：通过军事手段解放霍尔木兹海峡是不现实的。只有与伊朗协商才能重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260402180747557800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "特朗普鼓动他国“抢石油” 外交部：海峡通航受阻根源是美以对伊朗非法军事行动",
@@ -91,8 +125,19 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "印尼财长：燃油价格上涨对经济增长和社会稳定构成“风险”。",
+          "url": "https://flash.jin10.com/detail/20260402182520785800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
         {
           "title": "富宝资讯：碳酸锂期货盘面震荡，富宝碳酸锂社会总库存10.06万吨，环增0.28%",
           "url": "https://flash.jin10.com/detail/20260402171318449800",
@@ -100,7 +145,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         }
