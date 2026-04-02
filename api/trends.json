@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T19:36:59.910891+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-02T20:41:17.647084+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 20时41分]"
         },
         {
           "title": "据伊朗媒体Fars News：军事袭击了影响伊朗首都德黑兰与卡拉杰市之间的高速公路B1桥。",
@@ -27,7 +28,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -52,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时41分]"
         },
         {
           "title": "以媒说以色列担忧美国可能宣布结束对伊朗军事行动",
@@ -95,7 +96,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
