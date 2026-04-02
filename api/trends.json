@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T20:41:17.647084+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-04-02T22:14:03.409862+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,23 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 22时14分]"
+        },
+        {
+          "title": "美军事重镇被曝大批士兵流连夜店，称即将部署要花光所有钱！",
+          "url": "https://news.ifeng.com/c/8rzvMvpSGl5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 22时14分]"
         },
         {
           "title": "据伊朗媒体Fars News：军事袭击了影响伊朗首都德黑兰与卡拉杰市之间的高速公路B1桥。",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时56分 ~ 17时48分]"
-        },
-        {
-          "title": "美军事重镇被曝大批士兵流连夜店，称即将部署要花光所有钱！",
-          "url": "https://news.ifeng.com/c/8rzvMvpSGl5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 20时41分]"
         },
         {
           "title": "以媒说以色列担忧美国可能宣布结束对伊朗军事行动",
@@ -147,6 +148,45 @@
       ]
     },
     {
+      "keyword_group": "历史",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Blue Owl股价下跌7.6%，创盘中历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3081643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "巴菲特称近期市场下跌与历史上真正的买点相比不值一提，股市估值仍未有吸引力，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2022610592674981247",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "蓝猫资本美股股价下跌7.6%，创历史最低盘中价。",
+          "url": "https://flash.jin10.com/detail/20260402214652637800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会",
       "match_count": 2,
       "titles": [
@@ -171,23 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴菲特称近期市场下跌与历史上真正的买点相比不值一提，股市估值仍未有吸引力，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2022610592674981247",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
         }
       ]
     }
