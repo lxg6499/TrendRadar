@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:32:00.644652+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-04-03T19:29:19.117265+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美军事重镇被曝大批士兵流连夜店，称即将部署要花光所有钱！",
@@ -47,9 +47,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "挪威外长：多国反对军事重开霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260403184544823800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗革命卫队：我们谴责这一不人道的行为；美国在该地区的基地和部队，以及在被占领的巴勒斯坦领土上的犹太复国主义政权的军事中心，都是我们强有力的目标。",
+          "url": "https://flash.jin10.com/detail/20260403183809402800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
@@ -124,11 +146,12 @@
             7,
             18,
             8,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 19时29分]"
         }
       ]
     },
