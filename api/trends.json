@@ -1,175 +1,44 @@
 {
-  "generated_at": "2026-04-03T22:34:49.582035+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-04-04T09:02:31.839179+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美军事重镇被曝大批士兵流连夜店，称即将部署要花光所有钱！",
-          "url": "https://news.ifeng.com/c/8rzvMvpSGl5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "波兰军方：与俄罗斯对乌克兰发动的空袭有关的军事航空行动已经结束；未发生任何侵犯波兰领空的行为。",
-          "url": "https://flash.jin10.com/detail/20260403171944988800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "梅德韦杰夫：欧盟正考虑组建一支完整军事力量",
-          "url": "https://wallstreetcn.com/livenews/3082102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "巴林国防军：自伊朗军事打击开始以来，巴林拦截并摧毁了188枚导弹和445架无人机。",
-          "url": "https://flash.jin10.com/detail/20260403175728903800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "挪威外长：多国反对军事重开霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260403184544823800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "伊朗革命卫队：我们谴责这一不人道的行为；美国在该地区的基地和部队，以及在被占领的巴勒斯坦领土上的犹太复国主义政权的军事中心，都是我们强有力的目标。",
-          "url": "https://flash.jin10.com/detail/20260403183809402800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
       "match_count": 3,
       "titles": [
         {
-          "title": "《数据产权登记工作指引（试行）》（公开征求意见稿）向社会公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3082236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时34分]"
-        },
-        {
-          "title": "中国代表呼吁国际社会支持阿拉伯国家加强团结协作",
-          "url": "https://wallstreetcn.com/livenews/3081969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "国家数据局综合司发布关于向社会公开征求《数据产权登记工作指引（试行）》（公开征求意见稿）意见的公告",
-          "url": "https://flash.jin10.com/detail/20260403213007837800",
+          "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
+          "url": "https://flash.jin10.com/detail/20260404083528794800",
           "source": "金十数据",
           "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗：250年历史无法威胁6000年文明",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A250%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%97%A0%E6%B3%95%E5%A8%81%E8%83%816000%E5%B9%B4%E6%96%87%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时16分]"
+          "time_info": "09时02分"
         },
         {
-          "title": "A股CPO概念股涨势扩大，腾景科技逼近20cm涨停，股价续创历史新高，德科立、易天股份、亨通光电、中瓷电子、华盛昌、通宇通讯等多股涨停，光库科技、长光华芯、炬光科技均涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3081921",
+          "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
+          "url": "https://wallstreetcn.com/livenews/3082358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示",
-          "url": "https://wallstreetcn.com/livenews/3082121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时32分]"
+          "time_info": "09时02分"
         },
         {
-          "title": "工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示",
-          "url": "https://flash.jin10.com/detail/20260403172226953800",
-          "source": "金十数据",
+          "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
+          "url": "https://news.ifeng.com/c/8s2hFPtxRop",
+          "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "09时02分"
         }
       ]
     },
@@ -179,21 +48,31 @@
       "titles": [
         {
           "title": "Anthropic误删数千GitHub仓库",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E8%AF%AF%E5%88%A0%E6%95%B0%E5%8D%83GitHub%E4%BB%93",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            7,
-            18,
-            8,
-            21,
-            17,
-            16,
-            19
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时16分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧元、英镑在非农日跌约0.2%，土耳其里拉继续创历史新低",
+          "url": "https://wallstreetcn.com/livenews/3082347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     }
