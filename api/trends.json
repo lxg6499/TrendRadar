@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-04T19:18:55.443940+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-04-04T20:26:08.129638+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会",
       "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
+          "url": "https://www.cls.cn/detail/2335312",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时26分]"
+        },
         {
           "title": "清明假期第一天 全社会跨区域人员流动量预计约2.96亿人次",
           "url": "https://wallstreetcn.com/livenews/3082380",
@@ -35,20 +50,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 16时26分]"
-        },
-        {
-          "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
-          "url": "https://www.cls.cn/detail/2335312",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
@@ -186,6 +187,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 12时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
+          "url": "https://www.zhihu.com/question/2023674219897123334",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         }
       ]
     }
