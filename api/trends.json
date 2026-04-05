@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T15:46:08.949701+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-04-05T16:29:28.979744+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 16时29分]"
         },
         {
           "title": "前自卫官：日本正走向“可实战”的军事体系",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时29分]"
         },
         {
           "title": "美媒：战机被击落事件彻底戳破了美国政府的虚假军事神话",
@@ -61,11 +61,12 @@
           "url": "https://wallstreetcn.com/livenews/3082563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
@@ -123,11 +124,25 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 16时29分]"
+        },
+        {
+          "title": "历史课被弃选 有老师“无人可教”",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E8%AF%BE%E8%A2%AB%E5%BC%83%E9%80%89+%E6%9C%89%E8%80%81%E5%B8%88%E2%80%9C%E6%97%A0%E4%BA%BA%E5%8F%AF%E6%95%99%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时29分]"
         },
         {
           "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
@@ -143,16 +158,16 @@
           "time_info": "[12时26分 ~ 15时46分]"
         },
         {
-          "title": "历史课被弃选 有老师“无人可教”",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E8%AF%BE%E8%A2%AB%E5%BC%83%E9%80%89+%E6%9C%89%E8%80%81%E5%B8%88%E2%80%9C%E6%97%A0%E4%BA%BA%E5%8F%AF%E6%95%99%E2%80%9D",
-          "source": "百度热搜",
+          "title": "申裕斌创造韩国女乒历史",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E5%88%9B%E9%80%A0%E9%9F%A9%E5%9B%BD%E5%A5%B3%E4%B9%92%E5%8E%86%E5%8F%B2%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            21
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：美军完成了美国历史上最大胆的搜救行动之一。",
@@ -165,17 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 14时08分]"
-        },
-        {
-          "title": "申裕斌创造韩国女乒历史",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E5%88%9B%E9%80%A0%E9%9F%A9%E5%9B%BD%E5%A5%B3%E4%B9%92%E5%8E%86%E5%8F%B2%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "历史上有哪些刚刚发明出来，就被取代或淘汰的东西？",
@@ -192,7 +196,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
@@ -200,11 +204,23 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 16时29分]"
+        },
+        {
+          "title": "今天全社会跨区域人员流动量预计超2.6亿人次",
+          "url": "https://wallstreetcn.com/livenews/3082576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
