@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T17:28:02.610206+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-04-05T18:21:22.433483+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 18时21分]"
         },
         {
           "title": "前自卫官：日本正走向“可实战”的军事体系",
@@ -26,22 +27,24 @@
           "source": "凤凰网",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时07分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[14时07分 ~ 18时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯向伊朗分享了其以色列能源系统的卫星情报，总计约50至53处设施。这些情报被用于协助伊朗发动袭击。相关目标为民用基础设施，并不涉及军事性质。这类似于乌克兰在俄罗斯攻击下的处境，当时我们的能源电网或供水系统成为打击目标。",
           "url": "https://flash.jin10.com/detail/20260405170521786800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
         },
         {
           "title": "美媒：战机被击落事件彻底戳破了美国政府的虚假军事神话",
@@ -139,8 +142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 18时21分]"
         },
         {
           "title": "历史课被弃选 有老师“无人可教”",
@@ -153,8 +156,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时07分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[14时07分 ~ 18时21分]"
         },
         {
           "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
@@ -208,7 +211,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
@@ -221,8 +224,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 18时21分]"
         },
         {
           "title": "今天全社会跨区域人员流动量预计超2.6亿人次",
@@ -230,11 +233,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时21分]"
+        },
+        {
+          "title": "祭祖在现代社会是否被视为一种迷信行为？我们传承的究竟是一种形式，还是一种精神内核？",
+          "url": "https://www.zhihu.com/question/1966394156785075250",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
