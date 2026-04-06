@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T18:49:18.441630+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-04-06T19:39:17.369093+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 18时49分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 19时39分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -31,8 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 18时49分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 19时39分]"
         },
         {
           "title": "孙颖莎4-1王曼昱 3连冠创历史",
@@ -93,7 +94,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗两天击落 12 架美军战机，包括 2 架 C-130 运输机等，这个军事水平如何？对战局影响多大？",
@@ -103,8 +104,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 19时39分]"
         },
         {
           "title": "央视军事三百万粉丝了",
@@ -118,6 +119,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时15分 ~ 18时49分]"
+        },
+        {
+          "title": "国际原子能机构：可以确认，近期在伊朗布什尔核电站附近发生了军事打击。",
+          "url": "https://flash.jin10.com/detail/20260406190423312800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "联黎部队警告其驻地附近的军事行动或引发回击",
