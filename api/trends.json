@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T14:23:35.234178+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-04-06T16:15:57.747699+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "世界杯女单决赛孙颖莎战胜王曼昱，创历史实现三连冠",
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             14,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 16时15分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
@@ -29,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 16时15分]"
         },
         {
           "title": "孙颖莎4-1王曼昱 3连冠创历史",
@@ -50,7 +51,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "沙特将销往亚洲的油价溢价上调至历史高位",
+          "url": "https://wallstreetcn.com/livenews/3082745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "印尼盾兑美元跌至历史新低，报17028。",
@@ -80,8 +92,19 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "央视军事三百万粉丝了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E4%B8%89%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
         {
           "title": "伊朗两天击落 12 架美军战机，包括 2 架 C-130 运输机等，这个军事水平如何？对战局影响多大？",
           "url": "https://www.zhihu.com/question/2024438239881159390",
@@ -90,8 +113,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 16时15分]"
+        },
+        {
+          "title": "联黎部队警告其驻地附近的军事行动或引发回击",
+          "url": "https://wallstreetcn.com/livenews/3082754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "特朗普威胁升级军事行动 金价承压",
@@ -111,7 +145,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
