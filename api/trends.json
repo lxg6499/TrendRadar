@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-04-06T12:33:03.778185+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-04-06T14:23:35.234178+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
-          "url": "https://www.cls.cn/detail/2335367",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时33分]"
-        },
         {
           "title": "世界杯女单决赛孙颖莎战胜王曼昱，创历史实现三连冠",
           "url": "https://m.thepaper.cn/newsDetail_forward_32909286",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时23分]"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时23分]"
         },
         {
           "title": "孙颖莎4-1王曼昱 3连冠创历史",
@@ -40,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "历史会如何对待一个毫无天赋、只能堆砌时间精力争取遥不可及的成果的科研人？",
+          "url": "https://www.zhihu.com/question/1985645806070560623",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "《出埃及记》中，摩西率众渡过红海的传奇经历，对应的历史真相与细节是怎样的？",
@@ -59,9 +72,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗两天击落 12 架美军战机，包括 2 架 C-130 运输机等，这个军事水平如何？对战局影响多大？",
+          "url": "https://www.zhihu.com/question/2024438239881159390",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普威胁升级军事行动 金价承压",
+          "url": "https://flash.jin10.com/detail/20260406082712632800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "据伊朗米赞通讯社：伊朗处决一名被指控在1月抗议活动中袭击军事设施的男子。",
+          "url": "https://flash.jin10.com/detail/20260406125424733800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
@@ -86,34 +138,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗两天击落 12 架美军战机，包括 2 架 C-130 运输机等，这个军事水平如何？对战局影响多大？",
-          "url": "https://www.zhihu.com/question/2024438239881159390",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普威胁升级军事行动 金价承压",
-          "url": "https://flash.jin10.com/detail/20260406082712632800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
