@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-06T09:10:57.882944+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-06T12:33:03.778185+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "孙颖莎4-1王曼昱 3连冠创历史",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4-1%E7%8E%8B%E6%9B%BC%E6%98%B1+3%E8%BF%9E%E5%86%A0%E5%88%9B%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
@@ -26,15 +15,27 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时33分]"
         },
         {
           "title": "世界杯女单决赛孙颖莎战胜王曼昱，创历史实现三连冠",
           "url": "https://m.thepaper.cn/newsDetail_forward_32909286",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时33分]"
+        },
+        {
+          "title": "孙颖莎4-1王曼昱 3连冠创历史",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4-1%E7%8E%8B%E6%9B%BC%E6%98%B1+3%E8%BF%9E%E5%86%A0%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,13 +51,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "印尼盾兑美元跌至历史新低，报17028。",
+          "url": "https://flash.jin10.com/detail/20260406111418419800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "媒体：社会当有容纳失败之雅量",
+          "url": "https://www.toutiao.com/trending/7625454955612081670/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
         {
           "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
           "url": "https://www.cls.cn/detail/2335312",
@@ -72,8 +95,19 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "伊朗两天击落 12 架美军战机，包括 2 架 C-130 运输机等，这个军事水平如何？对战局影响多大？",
+          "url": "https://www.zhihu.com/question/2024438239881159390",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
         {
           "title": "特朗普威胁升级军事行动 金价承压",
           "url": "https://flash.jin10.com/detail/20260406082712632800",
