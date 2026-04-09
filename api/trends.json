@@ -1,78 +1,62 @@
 {
-  "generated_at": "2026-04-08T22:26:21.521144+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-04-09T09:01:28.598321+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "历史",
-      "match_count": 12,
+      "keyword_group": "军事",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
-          "url": "https://wallstreetcn.com/articles/3769438",
-          "source": "华尔街见闻",
+          "title": "美国前陆军雇员被控向记者泄露机密军事信息",
+          "url": "https://flash.jin10.com/detail/20260409083852293800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 22时26分]"
-        },
-        {
-          "title": "清明档扑街,票房惨创历史新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352895&amp;topic_name=%E6%B8%85%E6%98%8E%E6%A1%A3%E6%89%91%E8%A1%97%2C%E7%A5%A8%E6%88%BF%E6%83%A8%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 22时26分]"
-        },
-        {
-          "title": "康康登顶VCT历史击杀数排行",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BA%B7%E5%BA%B7%E7%99%BB%E9%A1%B6VCT%E5%8E%86%E5%8F%B2%E5%87%BB%E6%9D%80%E6%95%B0%E6%8E%92%E8%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时04分"
+          "time_info": "09时01分"
         },
         {
-          "title": "伊朗代表：中俄坚定站在历史正确一边",
-          "url": "https://www.toutiao.com/trending/7625259328320261674/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            19,
-            17,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 20时47分]"
-        },
-        {
-          "title": "全球陷入抢油恐慌：即期布伦特价格创历史新高",
-          "url": "https://www.cls.cn/detail/2337177",
+          "title": "美政府被曝考虑从部分北约国家撤出军事部署",
+          "url": "https://www.cls.cn/detail/2338537",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 14时13分]"
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
+        {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "韩国国防部：韩美将于4月10日至24日举行大规模空中军事演习。",
+          "url": "https://flash.jin10.com/detail/20260409081701273800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 4,
+      "titles": [
         {
           "title": "胡锡进：这180度大转折，伊朗创造了历史",
           "url": "https://news.ifeng.com/c/8sA0kCFW17z",
@@ -81,251 +65,58 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 22时26分]"
-        },
-        {
-          "title": "伊朗代表：中俄站在历史正确的一边",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%EF%BC%9A%E4%B8%AD%E4%BF%84%E7%AB%99%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%B8%80%E8%BE%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时25分]"
-        },
-        {
-          "title": "伊朗：此次战争几乎所有目标已实现，敌人“遭受历史性和彻底失败”，“在最多15天内通过政治谈判巩固胜利成果”",
-          "url": "https://wallstreetcn.com/articles/3769438",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "伊朗代表：中俄坚定站在历史正确一边，对两国表示深切感谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32923236",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 22时26分]"
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
           "url": "https://www.cls.cn/detail/2338302",
           "source": "财联社热门",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "伊朗代表：中俄坚定站在历史正确一边，对两国表示深切感谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32923236",
+          "source": "澎湃新闻",
+          "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "费城半导体指数一度触及历史新高，上涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3084401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "费城半导体指数触及历史新高，上涨6%。",
-          "url": "https://flash.jin10.com/detail/20260408214026543800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "伊朗称美国已原则上承诺履行以下义务：不再进行军事行动、承认伊朗对霍尔木兹海峡持续控制权、支付损失赔偿等",
-          "url": "https://www.cls.cn/detail/2337744",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 20时47分]"
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "美国副总统万斯：对伊朗的军事目标已达成，特朗普向伊朗发出了最后通牒。",
-          "url": "https://flash.jin10.com/detail/20260408174709025800",
-          "source": "金十数据",
+          "title": "清明档扑街,票房惨创历史新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352895&amp;topic_name=%E6%B8%85%E6%98%8E%E6%A1%A3%E6%89%91%E8%A1%97%2C%E7%A5%A8%E6%88%BF%E6%83%A8%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "法国宣布推出360亿欧元计划，以增强其军事和核威慑能力。",
-          "url": "https://flash.jin10.com/detail/20260408181600417800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗宣布胜利，称美已承诺不再进行军事行动、承认伊对霍尔木兹海峡持续控制权等，后续双方谈判空间如何？",
-          "url": "https://www.zhihu.com/question/2025225658276622837",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 22时26分]"
-        },
-        {
-          "title": "美国副总统万斯：伊朗局势进展良好。 美国已实现在伊朗的军事目标。 伊朗已同意开放霍尔木兹海峡。 特朗普曾要求其争取达成诚信协议。 如果伊朗撒谎或作弊，将面临严重后果。 美国对伊朗有巨大的经济筹码。 特朗普迫切希望与伊朗取得进展。",
-          "url": "https://wallstreetcn.com/livenews/3084228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时46分]"
-        },
-        {
-          "title": "伊朗最高领袖军事顾问：武装部队的手仍扣在扳机上",
-          "url": "https://news.ifeng.com/c/8s9t6gOt8vy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时46分]"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟呼吁以色列停止在黎巴嫩的军事行动。",
-          "url": "https://flash.jin10.com/detail/20260408181409317800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "伊朗驻日内瓦联合国大使表示，以色列必须遵守在黎巴嫩的停火协议；任何持续的军事行动都将使局势更加复杂，并带来严重后果。",
-          "url": "https://flash.jin10.com/detail/20260408203817213800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "伊朗驻日内瓦联合国大使表示，由于双方信任度严重不足，伊朗将审慎对待与美国的和平谈判，同时仍保持军事备战状态。",
-          "url": "https://flash.jin10.com/detail/20260408203800186800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "欧盟敦促以色列尽快停止针对黎巴嫩的军事行动",
-          "url": "https://wallstreetcn.com/livenews/3084278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "美国总统特朗普8日表示，如果美国同伊朗谈判不顺，美方将能轻易恢复对伊朗的军事行动。",
-          "url": "https://flash.jin10.com/detail/20260408175626363800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     },
     {
       "keyword_group": "ios",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "据AXIOS网站：消息人士称，在特朗普的周二晚上8点最后通牒到期前，自战争爆发以来，伊朗最高领袖穆杰塔巴首次指示其谈判代表着手达成协议。",
-          "url": "https://flash.jin10.com/detail/20260408191343492800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
         {
           "title": "iOS26 真的审美倒退了吗？",
           "url": "https://www.zhihu.com/question/1952699473550636735",
           "source": "知乎",
           "ranks": [
-            9
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黎方谴责以军空袭“野蛮” 呼吁国际社会遏制侵略",
-          "url": "https://wallstreetcn.com/livenews/3084403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }
