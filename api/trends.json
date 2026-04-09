@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-04-09T15:07:28.241893+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-04-09T16:57:07.993797+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 16时57分]"
+        },
+        {
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时57分]"
+        },
         {
           "title": "美国前陆军雇员被控向记者泄露机密军事信息",
           "url": "https://flash.jin10.com/detail/20260409083852293800",
@@ -31,38 +56,27 @@
           "time_info": "[09时00分 ~ 15时07分]"
         },
         {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 15时07分]"
-        },
-        {
-          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
-          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时07分]"
-        },
-        {
           "title": "美国被曝将从部分北约国家撤出军事部署，因其未能对美以提供帮助，欧洲局势可能如何变化？北约有解体风险吗？",
           "url": "https://www.zhihu.com/question/2025480538157315795",
           "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时57分]"
+        },
+        {
+          "title": "国防部：日本军事扩张野心暴露无遗",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E9%87%8E%E5%BF%83%E6%9A%B4%E9%9C%B2%E6%97%A0%E9%81%97",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时07分]"
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "巴基斯坦强烈谴责以色列对黎巴嫩持续军事行动",
@@ -110,11 +124,12 @@
           "ranks": [
             15,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 15时07分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 16时57分]"
         },
         {
           "title": "为什么中国历史上没有出现如欧洲的纹章、日本的家徽一类的标识？",
@@ -125,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时57分]"
         },
         {
           "title": "伊朗代表：中俄坚定站在历史正确一边，对两国表示深切感谢",
@@ -180,7 +195,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
