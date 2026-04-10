@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:13:45.147647+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-04-10T18:08:56.609474+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "迅销集团股价涨幅扩大至9.3%，至历史新高。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "霍尔木兹海峡“迟迟未通”，“全球最重要现货油价”升至147美元，创历史新高！",
+          "url": "https://wallstreetcn.com/articles/3769632",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "迅销公司股价延续涨势，最新上涨9.3%，创历史新高。",
@@ -53,7 +64,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
