@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T20:27:42.835014+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-04-11T21:45:46.437147+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国男篮历史上最强的十个人，打 NBA 能进季后赛吗？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时45分]"
         },
         {
           "title": "中信证券：互联网板块估值回落至历史低位 2026年关注两条主线",
@@ -56,47 +56,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时29分 ~ 19时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 20时27分]"
         },
         {
-          "title": "沙特国防部：根据沙特与巴基斯坦两国签署的防御协定，一支来自巴基斯坦的军事部队已抵达阿卜杜勒阿齐兹国王空军基地。巴基斯坦部队包括战斗机。",
-          "url": "https://flash.jin10.com/detail/20260411175725099800",
-          "source": "金十数据",
+          "title": "美国 3 月 CPI 创近两年最大涨幅，工厂订单连续第二个月停滞，4 月消费者信心降至历史新低，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2026247933318768336",
+          "source": "知乎",
           "ranks": [
-            2,
-            12,
-            24
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "ios",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -113,6 +89,28 @@
           "time_info": "[12时09分 ~ 15时41分]"
         },
         {
+          "title": "据AXIOS：美国海军舰艇穿越霍尔木兹海峡的行动未与伊朗进行协调。",
+          "url": "https://flash.jin10.com/detail/20260411204602243800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "据AXIOS：一名美国官员表示，周六，有几艘美国海军舰艇穿越霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260411204313099800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "黎巴嫩与美国要求以色列“暂停”战斗。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3086120",
           "source": "华尔街见闻-快讯",
@@ -122,6 +120,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 21时45分]"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗高级军事官员否认有关任何美国船只穿越霍尔木兹海峡的报道。",
+          "url": "https://flash.jin10.com/detail/20260411212437934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "沙特国防部：根据沙特与巴基斯坦两国签署的防御协定，一支来自巴基斯坦的军事部队已抵达阿卜杜勒阿齐兹国王空军基地。巴基斯坦部队包括战斗机。",
+          "url": "https://flash.jin10.com/detail/20260411175725099800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时27分]"
         }
       ]
     },
