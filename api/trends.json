@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T13:52:17.052257+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-11T14:44:52.210305+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时44分]"
         },
         {
           "title": "中信证券：互联网板块估值回落至历史低位 2026年关注两条主线",
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时44分]"
         }
       ]
     },
@@ -43,11 +44,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时44分]"
         },
         {
           "title": "黎巴嫩与美国要求以色列“暂停”战斗。（Axios）",
@@ -92,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 14时44分]"
         }
       ]
     }
