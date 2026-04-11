@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T14:44:52.210305+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-04-11T15:41:58.337433+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
           "ranks": [
             11,
             18,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时41分]"
         },
         {
           "title": "黎巴嫩与美国要求以色列“暂停”战斗。（Axios）",
@@ -91,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 15时41分]"
         }
       ]
     }
