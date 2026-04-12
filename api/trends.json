@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T16:34:59.292847+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-04-12T17:35:09.069765+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 17时35分]"
         },
         {
           "title": "美国 3 月 CPI 创近两年最大涨幅，工厂订单连续第二个月停滞，4 月消费者信心降至历史新低，对此你怎么看？",
@@ -40,11 +40,12 @@
           "url": "https://flash.jin10.com/detail/20260412154431456800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时35分]"
         }
       ]
     }
