@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-04-12T17:35:09.069765+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-04-12T18:27:14.839116+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "分析师：伊朗军事工业的技术发展难以阻挡",
+          "url": "https://flash.jin10.com/detail/20260412174844117800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "航行警告 渤海海峡黄海北部执行军事任务",
+          "url": "https://flash.jin10.com/detail/20260412154431456800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时27分]"
+        },
+        {
+          "title": "对话｜美伊谈判分歧显著存军事升级可能性，霍尔木兹海峡控制权是关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954784",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 2,
@@ -15,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 18时27分]"
         },
         {
           "title": "美国 3 月 CPI 创近两年最大涨幅，工厂订单连续第二个月停滞，4 月消费者信心降至历史新低，对此你怎么看？",
@@ -28,24 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "航行警告 渤海海峡黄海北部执行军事任务",
-          "url": "https://flash.jin10.com/detail/20260412154431456800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时35分]"
         }
       ]
     }
