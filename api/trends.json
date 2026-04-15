@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T20:52:23.321397+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-04-15T22:24:16.973329+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "硫酸价格狂飙，单月价格翻倍创历史新高：上游企业一季度预增，下游成本承压",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 22时24分]"
         },
         {
           "title": "存储芯片迎“历史性”时刻：三大龙头齐破千亿，机构称缺货持续至2027年",
@@ -62,12 +63,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国大型银行一季度股票回购支出创历史新高",
+          "url": "https://flash.jin10.com/detail/20260415220024425800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国台办：和平统一将给台湾经济社会发展创造巨大机遇",
@@ -76,7 +88,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -91,6 +103,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时44分 ~ 20时52分]"
+        },
+        {
+          "title": "香港14岁男学生是黑社会成员",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF14%E5%B2%81%E7%94%B7%E5%AD%A6%E7%94%9F%E6%98%AF%E9%BB%91%E7%A4%BE%E4%BC%9A%E6%88%90%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "中央社会工作部：全面加强新就业群体服务管理",
