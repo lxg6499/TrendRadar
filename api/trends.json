@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T18:04:35.755661+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-04-16T19:47:30.393520+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 18时04分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 19时47分]"
         },
         {
           "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
@@ -75,7 +75,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
