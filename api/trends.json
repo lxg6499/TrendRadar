@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T20:57:03.903208+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-04-16T22:48:41.799612+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3770007",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 20时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 22时48分]"
         },
         {
           "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
