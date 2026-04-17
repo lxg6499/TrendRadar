@@ -1,123 +1,22 @@
 {
-  "generated_at": "2026-04-16T22:48:41.799612+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-04-17T09:15:33.715293+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3770007",
+          "title": "台积电Q1净利润同比增58%，毛利率历史性突破66%，资本支出111亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770116",
           "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 22时48分]"
-        },
-        {
-          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
-          "url": "https://www.cls.cn/detail/2345486",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "日经225指数突破59000点，日内涨幅扩大至1.6%。 日经指数迈向历史收盘新高，抹去伊朗战争爆发以来的跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3088846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "A股商业航天概念反复走强，神剑股份触及涨停，股价续创历史新高，中环海陆、爱乐达、理工导航、九丰能源、巨力索具等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3089027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "烧烤季热度上升，美国肉牛价格飙升至历史新高",
-          "url": "https://wallstreetcn.com/livenews/3088831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗最高领袖军事顾问：美勿充当霍尔木兹海峡“警察”",
-          "url": "https://wallstreetcn.com/livenews/3089201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "伊朗最高领袖军事顾问：美勿充当霍尔木兹海峡“警察”",
-          "url": "https://flash.jin10.com/detail/20260416174448173800",
-          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：伊朗导弹发射装置已准备好击沉所有美国军舰。",
-          "url": "https://flash.jin10.com/detail/20260416154624493800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家统计局：一季度社会消费品零售总额127695亿元，同比增长2.4%",
-          "url": "https://www.cls.cn/detail/2345692",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "time_info": "09时15分"
         }
       ]
     }
