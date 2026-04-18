@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T20:31:41.443487+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-04-18T21:54:02.257470+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
@@ -15,11 +15,23 @@
             8,
             6,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 21时54分]"
+        },
+        {
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 21时54分]"
         },
         {
           "title": "北大毕业生10年后互爆黑历史",
@@ -36,17 +48,6 @@
           "time_info": "[09时08分 ~ 19时25分]"
         },
         {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时51分 ~ 20时31分]"
-        },
-        {
           "title": "广西三月三假期首日 铁路旅客发送量创历史新高",
           "url": "https://flash.jin10.com/detail/20260418132834303800",
           "source": "金十数据",
@@ -56,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "美国总统特朗普：宣布进行历史性改革，以加快基于迷幻药物的医疗研究和治疗的可及性。",
+          "url": "https://flash.jin10.com/detail/20260418211035700800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
@@ -72,7 +84,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英法宣布牵头霍尔木兹海峡安全通航行动，已有12国愿提供军事资源",
@@ -81,22 +93,52 @@
           "ranks": [
             17,
             15,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时54分]"
         },
         {
           "title": "美国总统特朗普：有没有人关注过西班牙这个国家的糟糕情况。他们的财务数字，尽管几乎没有为北约和他们的军事防御做出贡献，实在是糟糕透了。真让人难过！",
           "url": "https://flash.jin10.com/detail/20260418201503825800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时54分]"
+        },
+        {
+          "title": "起底日本近期军事动作",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%B7%E5%BA%95%E6%97%A5%E6%9C%AC%E8%BF%91%E6%9C%9F%E5%86%9B%E4%BA%8B%E5%8A%A8%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS记者：一名美国国防部官员称，自（当地时间）周六早上以来，伊朗伊斯兰革命卫队已在霍尔木兹海峡对商船发动了至少三次袭击。",
+          "url": "https://flash.jin10.com/detail/20260418204403286800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "21时54分"
         }
       ]
     }
