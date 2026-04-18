@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T19:25:13.241126+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-04-18T20:31:41.443487+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 19时25分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 20时31分]"
         },
         {
           "title": "北大毕业生10年后互爆黑历史",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 20时31分]"
         },
         {
           "title": "广西三月三假期首日 铁路旅客发送量创历史新高",
@@ -71,7 +72,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英法宣布牵头霍尔木兹海峡安全通航行动，已有12国愿提供军事资源",
@@ -83,8 +84,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时31分]"
+        },
+        {
+          "title": "美国总统特朗普：有没有人关注过西班牙这个国家的糟糕情况。他们的财务数字，尽管几乎没有为北约和他们的军事防御做出贡献，实在是糟糕透了。真让人难过！",
+          "url": "https://flash.jin10.com/detail/20260418201503825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     }
