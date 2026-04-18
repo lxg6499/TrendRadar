@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-18T15:51:28.718041+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-18T16:34:47.098639+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
       "match_count": 5,
       "titles": [
+        {
+          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2028181845926318977",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 16时34分]"
+        },
         {
           "title": "北大毕业生10年后互爆黑历史",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F10%E5%B9%B4%E5%90%8E%E4%BA%92%E7%88%86%E9%BB%91%E5%8E%86%E5%8F%B2",
@@ -21,16 +33,15 @@
           "time_info": "[09时08分 ~ 15时51分]"
         },
         {
-          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2028181845926318977",
-          "source": "知乎",
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时51分]"
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时34分]"
         },
         {
           "title": "广西三月三假期首日 铁路旅客发送量创历史新高",
@@ -44,17 +55,6 @@
           "time_info": "14时06分"
         },
         {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
           "url": "https://www.zhihu.com/question/2028393471682029120",
           "source": "知乎",
@@ -64,6 +64,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英法宣布牵头霍尔木兹海峡安全通航行动，已有12国愿提供军事资源",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32998701",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
