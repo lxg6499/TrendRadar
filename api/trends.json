@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T12:20:17.976939+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-18T14:06:02.280005+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "北大毕业生10年后互爆黑历史",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时06分]"
         },
         {
           "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
@@ -26,9 +27,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时06分]"
+        },
+        {
+          "title": "广西三月三假期首日 铁路旅客发送量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260418132834303800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "14时06分"
         },
         {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
