@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:36:53.331161+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-18T18:28:47.679170+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时28分]"
         },
         {
           "title": "北大毕业生10年后互爆黑历史",
@@ -26,11 +26,12 @@
           "ranks": [
             22,
             24,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 17时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 18时28分]"
         },
         {
           "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 18时28分]"
         },
         {
           "title": "广西三月三假期首日 铁路旅客发送量创历史新高",
@@ -80,8 +81,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时28分]"
         }
       ]
     }
