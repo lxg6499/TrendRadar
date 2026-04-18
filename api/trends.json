@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-04-18T09:08:48.003631+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-18T12:20:17.976939+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "北大毕业生10年后互爆黑历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F10%E5%B9%B4%E5%90%8E%E4%BA%92%E7%88%86%E9%BB%91%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时20分]"
+        },
+        {
+          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2028181845926318977",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
         {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
           "url": "https://www.zhihu.com/question/2028393471682029120",
           "source": "知乎",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "北大毕业生10年后互爆黑历史",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F10%E5%B9%B4%E5%90%8E%E4%BA%92%E7%88%86%E9%BB%91%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
