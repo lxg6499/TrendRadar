@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T21:54:02.257470+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-04-18T22:32:00.364049+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时20分 ~ 21时54分]"
+          "appearance_count": 14,
+          "time_info": "[12时20分 ~ 22时32分]"
         },
         {
           "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 21时54分]"
+          "appearance_count": 11,
+          "time_info": "[15时51分 ~ 22时32分]"
         },
         {
           "title": "北大毕业生10年后互爆黑历史",
@@ -48,6 +48,18 @@
           "time_info": "[09时08分 ~ 19时25分]"
         },
         {
+          "title": "美国总统特朗普：宣布进行历史性改革，以加快基于迷幻药物的医疗研究和治疗的可及性。",
+          "url": "https://flash.jin10.com/detail/20260418211035700800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时32分]"
+        },
+        {
           "title": "广西三月三假期首日 铁路旅客发送量创历史新高",
           "url": "https://flash.jin10.com/detail/20260418132834303800",
           "source": "金十数据",
@@ -57,17 +69,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
-        },
-        {
-          "title": "美国总统特朗普：宣布进行历史性改革，以加快基于迷幻药物的医疗研究和治疗的可及性。",
-          "url": "https://flash.jin10.com/detail/20260418211035700800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
         },
         {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
@@ -94,11 +95,12 @@
             17,
             15,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时54分]"
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 22时32分]"
         },
         {
           "title": "美国总统特朗普：有没有人关注过西班牙这个国家的糟糕情况。他们的财务数字，尽管几乎没有为北约和他们的军事防御做出贡献，实在是糟糕透了。真让人难过！",
@@ -134,11 +136,12 @@
           "url": "https://flash.jin10.com/detail/20260418204403286800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时32分]"
         }
       ]
     }
