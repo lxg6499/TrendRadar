@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T15:59:16.475086+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-04-19T16:46:34.060607+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             25,
             26,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时46分]"
         },
         {
           "title": "皇家社会击败马竞夺冠",
