@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-19T09:17:31.223448+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T12:40:52.348418+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "皇家社会击败马竞夺冠",
+          "url": "https://www.douyin.com/hot/2471236",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "国王杯皇家社会击败马竞夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E7%8E%8B%E6%9D%AF%E7%9A%87%E5%AE%B6%E7%A4%BE%E4%BC%9A%E5%87%BB%E8%B4%A5%E9%A9%AC%E7%AB%9E%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "军事",
       "match_count": 1,
