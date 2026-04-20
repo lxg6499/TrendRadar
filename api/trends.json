@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T20:57:36.932592+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-04-20T22:28:25.903836+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“中国式安全”打破“低信任社会”的西方偏见",
@@ -75,11 +75,23 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 20时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 22时28分]"
+        },
+        {
+          "title": "外交部：中方愿于2027年4月在上海承办亚太经社会第83届年会",
+          "url": "https://wallstreetcn.com/livenews/3091164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "国家能源局：3月份，全社会用电量8595亿千瓦时，同比增长3.5%。 1～3月，全社会用电量累计25141亿千瓦时，同比增长5.2%。",
@@ -96,8 +108,19 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美菲启动军事演习 中方回应",
+          "url": "https://www.douyin.com/hot/2472810",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
         {
           "title": "媒体：警惕日本“军事暴走”风险",
           "url": "https://www.toutiao.com/trending/7629571105527218219/",
