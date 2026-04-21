@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T16:46:27.549910+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-04-21T18:08:17.915133+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -79,7 +79,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         }
@@ -87,8 +87,19 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "又见“大象”起舞！建行股价创历史新高，板块持续破净状态，这些标的股息率较高",
+          "url": "https://www.cls.cn/detail/2350766",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
         {
           "title": "韩国KOSPI指数日内涨幅达2.00%，创下历史新高。",
           "url": "https://flash.jin10.com/detail/20260421080936248800",
