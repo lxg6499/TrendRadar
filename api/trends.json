@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T12:38:14.879490+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-04-21T14:27:45.004114+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 14时27分]"
         },
         {
           "title": "最新民调显示，特朗普当前支持率为 37% ，超六成美国人反对扩大对伊军事行动，这一数据意味什么？",
@@ -53,11 +54,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 14时27分]"
         }
       ]
     },
