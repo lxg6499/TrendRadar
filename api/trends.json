@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T16:26:45.916043+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-04-23T18:12:14.297928+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
@@ -28,8 +28,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时12分]"
+        },
+        {
+          "title": "我国白银进口量创历史纪录，3 月超过去 10 年同比均值近 3 倍，银锭进口暴增，市场发生了什么？",
+          "url": "https://www.zhihu.com/question/2029837660173209696",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
+          "title": "“晴天一身土雨天一身泥”已成历史",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%99%B4%E5%A4%A9%E4%B8%80%E8%BA%AB%E5%9C%9F%E9%9B%A8%E5%A4%A9%E4%B8%80%E8%BA%AB%E6%B3%A5%E2%80%9D%E5%B7%B2%E6%88%90%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "A股工业气体概念震荡回升，和远气体涨停，华特气体一度涨超8%，续创历史新高，金宏气体、蜀道装备、中船特气、杭氧股份跟涨。",
