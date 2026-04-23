@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-23T09:18:31.459864+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-23T12:40:31.560379+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美官员披露：伊朗保留的军事能力远超美方此前声明",
+          "url": "https://news.ifeng.com/c/8sYFid5LBTu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "德国发布国家军事战略，欲打造欧洲最强军队",
+          "url": "https://news.ifeng.com/c/8sXdXXhCyNa",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 2,
@@ -12,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2352859",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 12时40分]"
         },
         {
           "title": "欧美有哪些传统食物可以反映历史上人民生活的艰难时期？",
@@ -24,23 +53,6 @@
           "source": "知乎",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "德国发布国家军事战略，欲打造欧洲最强军队",
-          "url": "https://news.ifeng.com/c/8sXdXXhCyNa",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
