@@ -1,245 +1,50 @@
 {
-  "generated_at": "2026-04-22T23:28:08.584327+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-04-23T09:18:31.459864+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
-          "url": "https://www.cls.cn/detail/2352172",
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
           "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时09分 ~ 23时28分]"
-        },
-        {
-          "title": "A股总市值达117万亿元，创历史新高",
-          "url": "https://flash.jin10.com/detail/20260422174445477800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "创业板综指持续走强，盘中拉升涨超1.2%，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3092351",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "09时18分"
         },
         {
-          "title": "纳斯达克综合指数再度刷新盘中历史新高，现涨1.25%。",
-          "url": "https://flash.jin10.com/detail/20260422232050281800",
-          "source": "金十数据",
+          "title": "欧美有哪些传统食物可以反映历史上人民生活的艰难时期？",
+          "url": "https://www.zhihu.com/question/2008864356834748154",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "韩国首尔综指上涨0.2%，创下6,404.03点的历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3092181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "创业板指午后涨超1%，权重股新易盛涨逾4%，股价续创历史新高，总市值突破6000亿，该股年初至今涨近40%，自去年4月21日至今累计涨超890%。",
-          "url": "https://wallstreetcn.com/livenews/3092313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "一季度长三角区域进出口总值创历史同期新高",
-          "url": "https://wallstreetcn.com/livenews/3092308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "英法开多国军事会议讨论霍尔木兹海峡通航问题",
-          "url": "https://wallstreetcn.com/livenews/3092713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "伊朗表示同意暂停军事战斗，但战争仍未结束，控制霍尔木兹海峡是宝贵筹码，核与导弹能力不容谈判，如何解读？",
-          "url": "https://www.zhihu.com/question/2030216929756045327",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 19时48分]"
-        },
-        {
-          "title": "伊朗同意暂停军事战斗",
-          "url": "https://www.toutiao.com/trending/7631352803570748954/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 14时35分]"
-        },
-        {
-          "title": "伊朗：同意暂停军事战斗但战争未结束",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%90%8C%E6%84%8F%E6%9A%82%E5%81%9C%E5%86%9B%E4%BA%8B%E6%88%98%E6%96%97%E4%BD%86%E6%88%98%E4%BA%89%E6%9C%AA%E7%BB%93%E6%9D%9F",
-          "source": "百度热搜",
+          "title": "德国发布国家军事战略，欲打造欧洲最强军队",
+          "url": "https://news.ifeng.com/c/8sXdXXhCyNa",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "英国将主导召开霍尔木兹军事规划会议",
-          "url": "https://flash.jin10.com/detail/20260422082127430800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "日本军事战略或将出现三大转折",
-          "url": "https://www.toutiao.com/trending/7631509831093849636/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么外国人会普遍相信中国存在所谓「社会信用分」？",
-          "url": "https://www.zhihu.com/question/1989385996874297867",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 23时28分]"
-        },
-        {
-          "title": "广西发行3年期一般债地方债，规模107.2100亿元，发行利率1.3800%，边际倍数1.75倍，倍数预期1.38； 广西发行20年期社会事业专项地方债，规模58.3300亿元，发行利率2.3400%，边际倍数1.30倍，倍数预期2.37； 广西发行30年期轨交专项地方债，规模25.3300亿元，发行利率2.4300%，边际倍数3.37倍，倍数预期2.42； 广西发行20年期收费公路专项地方债，规模20.7500亿元，发行利率2.3600%，边际倍数1.01倍，倍数预期2.37。",
-          "url": "https://wallstreetcn.com/livenews/3092407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "我国封建社会沉迷使用卯榫结构，而非性价比更高的石材，是因为技术原因吗？",
-          "url": "https://www.zhihu.com/question/1967760582427017557",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普考虑延长对《琼斯法案》的豁免令，以简化美国石油运输。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3092185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普正考虑延长琼斯法案的豁免时间，以放宽美国石油运输限制。",
-          "url": "https://flash.jin10.com/detail/20260422084955380800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3092463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "09时18分"
         }
       ]
     }
