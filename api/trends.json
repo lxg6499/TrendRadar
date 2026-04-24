@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T19:50:44.002249+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-04-24T20:50:07.901059+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,19 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031049898246628283",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
         {
           "title": "日本军事妄动不断 多国“亮剑”示警",
           "url": "https://www.toutiao.com/trending/7632085337808486446/",
