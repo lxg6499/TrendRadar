@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T16:56:01.161982+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-04-24T18:14:16.452536+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "库存逼近历史新低！股市一片狂欢，油市却仍如开战初期般糟糕",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "课本里没细写的历史巨震",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%BE%E6%9C%AC%E9%87%8C%E6%B2%A1%E7%BB%86%E5%86%99%E7%9A%84%E5%8E%86%E5%8F%B2%E5%B7%A8%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "创历史同期新高 今年一季度义乌外贸进出口突破2000亿元",
