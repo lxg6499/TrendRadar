@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T19:29:09.846192+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-04-25T20:33:02.520341+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本一军事博物馆重新开放，时间点让人起疑",
@@ -19,17 +19,42 @@
           "time_info": "[12时25分 ~ 17时39分]"
         },
         {
+          "title": "法国与希腊续签防务协议，深化军事合作",
+          "url": "https://flash.jin10.com/detail/20260425200339030800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "马里军方：武装身份不明的“恐怖组织”袭击了首都及国内多个军事据点。",
           "url": "https://flash.jin10.com/detail/20260425165833669800",
           "source": "金十数据",
           "ranks": [
             2,
             11,
-            20
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 20时33分]"
+        },
+        {
+          "title": "阿塞拜疆总统：与乌克兰总统泽连斯基讨论了能源和军事工业合作。",
+          "url": "https://flash.jin10.com/detail/20260425173054972800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时29分]"
+          "time_info": "[18时33分 ~ 20时33分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -42,18 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 14时13分]"
-        },
-        {
-          "title": "阿塞拜疆总统：与乌克兰总统泽连斯基讨论了能源和军事工业合作。",
-          "url": "https://flash.jin10.com/detail/20260425173054972800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时29分]"
         }
       ]
     },
@@ -81,11 +94,12 @@
             12,
             9,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 20时33分]"
         }
       ]
     }
