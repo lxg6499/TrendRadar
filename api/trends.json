@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-25T14:13:43.126077+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-04-25T15:58:09.173956+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
       "match_count": 2,
       "titles": [
+        {
+          "title": "日本一军事博物馆重新开放，时间点让人起疑",
+          "url": "https://news.ifeng.com/c/8sbc0yZiqZV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时58分]"
+        },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
           "url": "https://www.zhihu.com/question/2031049898246628283",
@@ -18,35 +29,36 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 14时13分]"
-        },
-        {
-          "title": "日本一军事博物馆重新开放，时间点让人起疑",
-          "url": "https://news.ifeng.com/c/8sbc0yZiqZV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时13分]"
         }
       ]
     },
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "疾风骤雨中三枚历史首金光芒闪耀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%BE%E9%A3%8E%E9%AA%A4%E9%9B%A8%E4%B8%AD%E4%B8%89%E6%9E%9A%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91%E5%85%89%E8%8A%92%E9%97%AA%E8%80%80%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
         {
           "title": "为什么近年来没有像《琅琊榜》这么高质量的历史剧？",
           "url": "https://www.zhihu.com/question/2001474692335294112",
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时58分]"
         }
       ]
     }
