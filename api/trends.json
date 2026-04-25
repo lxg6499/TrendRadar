@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T15:58:09.173956+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-25T16:43:16.736464+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时43分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 16时43分]"
         },
         {
           "title": "为什么近年来没有像《琅琊榜》这么高质量的历史剧？",
@@ -54,11 +54,12 @@
           "ranks": [
             15,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时43分]"
         }
       ]
     }
