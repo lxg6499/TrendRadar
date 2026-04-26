@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:34:54.560735+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-04-26T19:31:52.076700+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 19时31分]"
         },
         {
           "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
@@ -58,6 +58,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "顶级军事家的水平有多恐怖呢？",
+          "url": "https://www.zhihu.com/question/1913175360163516962",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 19时31分]"
+        },
+        {
           "title": "兵韬志略｜美菲“肩并肩”军演规模再创纪录，挑动军事对抗的意图明显",
           "url": "https://m.thepaper.cn/newsDetail_forward_33041614",
           "source": "澎湃新闻",
@@ -69,17 +80,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时19分 ~ 16时09分]"
-        },
-        {
-          "title": "顶级军事家的水平有多恐怖呢？",
-          "url": "https://www.zhihu.com/question/1913175360163516962",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 18时34分]"
         }
       ]
     },
