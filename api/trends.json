@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:31:52.076700+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-04-26T20:35:37.157909+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "目前新高考为何把历史放在文科方向必修？",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "历史性突破！人类马拉松首次“破2”",
+          "url": "https://sports.ifeng.com/c/8sdIIraO7e5",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "马拉松迎来历史性突破，肯尼亚选手萨维实现“破2”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058264",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国总统特朗普在社交平台表示，如果不能通过《拯救美国法案》，将会导致美国参议院历史上某个政党面临最糟糕的结果——那将是一种无法挽回的亡命之愿！！！同样，对于“冗长辩论阻挠议事程序”——现在就终止它！！！",
@@ -65,8 +87,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 20时35分]"
         },
         {
           "title": "兵韬志略｜美菲“肩并肩”军演规模再创纪录，挑动军事对抗的意图明显",
@@ -85,7 +107,7 @@
     },
     {
       "keyword_group": "ios",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据AXIOS记者：美国总统特朗普被其安保人员从白宫记者晚宴上撤离。",
@@ -97,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "据AXIOS：在伊朗战争期间，以色列向阿联酋提供了“铁穹”防空系统及部队。",
+          "url": "https://flash.jin10.com/detail/20260426193302727800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     }
