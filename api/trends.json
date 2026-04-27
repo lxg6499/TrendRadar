@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T20:13:59.981452+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-04-27T22:54:00.575525+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 20时13分]"
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 22时54分]"
         },
         {
           "title": "MSCI新兴市场股票指数攀升至历史新高。",
