@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T18:02:43.035899+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-04-27T20:13:59.981452+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.douyin.com/hot/2479984",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 20时13分]"
         },
         {
           "title": "MSCI新兴市场股票指数攀升至历史新高。",
