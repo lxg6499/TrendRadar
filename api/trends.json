@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T15:29:29.204355+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-27T18:02:43.035899+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 18时02分]"
+        },
+        {
+          "title": "再次被山西的历史底蕴震撼到了",
+          "url": "https://www.douyin.com/hot/2479984",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 18时02分]"
         },
         {
           "title": "MSCI新兴市场股票指数攀升至历史新高。",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "再次被山西的历史底蕴震撼到了",
-          "url": "https://www.douyin.com/hot/2479984",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         },
         {
           "title": "鸿篇历史小说《金瓯缺》遭删减？人文社辟谣：无删减，系字数算法差异",
