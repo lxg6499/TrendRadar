@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T09:27:42.927014+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-28T13:19:12.583567+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://www.cls.cn/detail/2357436",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时19分]"
         },
         {
           "title": "美称知晓停火期间以在黎军事行动 不支持以长期设立“缓冲区”",
@@ -67,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本首相高市早苗：从外国人秩序共生社会推进担当大臣小野田纪美获悉了1月新制定的“外国人接纳与有序共生的综合应对措施”的进展，确认各项工作正在稳步推进。",
+          "url": "https://flash.jin10.com/detail/20260428125007006800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
