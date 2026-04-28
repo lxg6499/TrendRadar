@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T18:08:14.554182+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-04-28T20:18:39.253703+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 20时18分]"
         },
         {
           "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
