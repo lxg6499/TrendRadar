@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T13:03:07.178634+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-04-29T15:54:04.423848+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -25,11 +25,23 @@
           "source": "今日头条",
           "ranks": [
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时54分]"
+        },
+        {
+          "title": "评论员：日本军事暴走正全面提速",
+          "url": "https://www.toutiao.com/trending/7634045440665108486/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "美国总统特朗普：美国已在军事上击败伊朗。",
@@ -49,7 +61,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -96,8 +108,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时54分]"
         },
         {
           "title": "有没有比较有趣冷门的历史小趣事？",
