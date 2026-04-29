@@ -1,67 +1,22 @@
 {
-  "generated_at": "2026-04-28T23:13:22.420148+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-04-29T09:31:23.557607+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "中国代表：霍尔木兹海峡受阻源于美以非法军事行动",
-          "url": "https://www.cls.cn/detail/2357436",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时19分]"
-        },
-        {
-          "title": "战损曝光！中东战火下美军事资产“损失惨重” 五角大楼试图掩盖成本引质疑",
-          "url": "https://www.cls.cn/detail/2357606",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
         {
           "title": "白士杰将携日本侵华军事档案回国",
           "url": "https://www.toutiao.com/trending/7633738542858112558/",
           "source": "今日头条",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：黎巴嫩军事消息人士称，由于以色列的密集轰炸，纳布提耶地区的村庄正进行大规模撤离。",
-          "url": "https://flash.jin10.com/detail/20260428152109677800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "马里军事领导人阿西米·戈伊塔会见了俄罗斯驻马里大使。",
-          "url": "https://flash.jin10.com/detail/20260428223939101800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -70,85 +25,20 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "美国总统特朗普：美国已在军事上击败伊朗。",
+          "url": "https://flash.jin10.com/detail/20260429090017847800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美称知晓停火期间以在黎军事行动 不支持以长期设立“缓冲区”",
-          "url": "https://flash.jin10.com/detail/20260428082039323800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 23时13分]"
-        },
-        {
-          "title": "再次被山西的历史底蕴震撼到了",
-          "url": "https://www.douyin.com/hot/2479984",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 18时08分]"
-        },
-        {
-          "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
-          "url": "https://news.ifeng.com/c/8sfVke59zNW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "外交部：日方参拜靖国神社严重践踏历史正义 中方严厉谴责",
-          "url": "https://flash.jin10.com/detail/20260428152300755800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "中信建投：二级债基份额再创历史新高，转债供需矛盾尖锐",
-          "url": "https://wallstreetcn.com/livenews/3095294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "09时31分"
         }
       ]
     },
@@ -163,20 +53,48 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
-          "title": "日本首相高市早苗：从外国人秩序共生社会推进担当大臣小野田纪美获悉了1月新制定的“外国人接纳与有序共生的综合应对措施”的进展，确认各项工作正在稳步推进。",
-          "url": "https://flash.jin10.com/detail/20260428125007006800",
+          "title": "开局良好 一季度我国社会物流总额同比增长6.2%",
+          "url": "https://flash.jin10.com/detail/20260429090141779800",
           "source": "金十数据",
           "ranks": [
-            21
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "有没有比较有趣冷门的历史小趣事？",
+          "url": "https://www.zhihu.com/question/328348392",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         }
       ]
     }
