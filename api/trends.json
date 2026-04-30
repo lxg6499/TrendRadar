@@ -1,155 +1,51 @@
 {
-  "generated_at": "2026-04-29T23:50:08.625550+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-04-30T09:29:29.037088+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%B0%86%E6%90%BA%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E5%86%9B%E4%BA%8B%E6%A1%A3%E6%A1%88%E5%9B%9E%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            28,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时03分]"
-        },
-        {
-          "title": "白士杰将携日本侵华军事档案回国",
-          "url": "https://www.toutiao.com/trending/7633738542858112558/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 15时54分]"
-        },
-        {
-          "title": "克里姆林宫：由于“乌克兰恐怖活动”的风险，今年红场年度军事阅兵式规模将缩减。",
-          "url": "https://flash.jin10.com/detail/20260429174144743800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "伊朗：将以前所未有的军事行动回应美",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 23时50分]"
-        },
-        {
-          "title": "伊朗：将以前所未有军事行动回应美",
-          "url": "https://www.toutiao.com/trending/7633112393258172443/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时49分 ~ 23时50分]"
-        },
-        {
-          "title": "评论员：日本军事暴走正全面提速",
-          "url": "https://www.toutiao.com/trending/7634045440665108486/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
-        },
-        {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://flash.jin10.com/detail/20260429204031265800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国总统特朗普：美国已在军事上击败伊朗。",
-          "url": "https://flash.jin10.com/detail/20260429090017847800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "阿根廷与美国举行海军联合军事演习",
-          "url": "https://wallstreetcn.com/livenews/3096197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "美、布两油短线持续拉升，最新报105.75和107.79美元/桶。伊朗警告称，若美继续扣押伊船只，将采取前所未有的军事行动。",
-          "url": "https://flash.jin10.com/detail/20260429203139392800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时29分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "如何看待原清华副教授‌郑毓煌称公立大学是纳税人建的，呼吁大学向社会开放？你赞同吗？",
-          "url": "https://www.zhihu.com/question/2032499109517420421",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 23时50分]"
-        },
-        {
-          "title": "五一全社会流动预计超15亿人次",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%85%A8%E7%A4%BE%E4%BC%9A%E6%B5%81%E5%8A%A8%E9%A2%84%E8%AE%A1%E8%B6%8515%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
         {
           "title": "一季度社会物流总额同比增长6.2%",
           "url": "https://www.douyin.com/hot/2483827",
@@ -158,110 +54,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时49分 ~ 23时50分]"
-        },
-        {
-          "title": "开局良好 一季度我国社会物流总额同比增长6.2%",
-          "url": "https://flash.jin10.com/detail/20260429090141779800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时29分"
         },
         {
-          "title": "谁在借网络平台给日本社会“投毒”",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E5%9C%A8%E5%80%9F%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0%E7%BB%99%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 15时54分]"
-        },
-        {
-          "title": "重返2万亿市值！“宁王”股价逼近历史新高，板块热度持续攀升，这些股高量成交",
-          "url": "https://www.cls.cn/detail/2359682",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 23时50分]"
-        },
-        {
-          "title": "有没有比较有趣冷门的历史小趣事？",
-          "url": "https://www.zhihu.com/question/328348392",
+          "title": "如何看待原清华副教授‌郑毓煌称公立大学是纳税人建的，呼吁大学向社会开放？你赞同吗？",
+          "url": "https://www.zhihu.com/question/2032499109517420421",
           "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
-        {
-          "title": "美国能源部：石油出口突破600万桶/日创历史新高，净进口出现负值",
-          "url": "https://wallstreetcn.com/livenews/3096784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "“宁王”股价逼近历史新高",
-          "url": "https://www.toutiao.com/trending/7633680064605798441/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普会见石油公司高层，讨论伊朗战争的影响，雪佛龙首席执行官也出席了与特朗普的会议。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3096459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "09时29分"
         }
       ]
     }
