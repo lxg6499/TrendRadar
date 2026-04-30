@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T13:19:21.068707+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-04-30T15:56:42.770562+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时56分]"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -73,18 +73,47 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "中学历史教师买卖玩具枪获利五千元，被认定为真枪，获刑 3 年，家属申诉被驳回，这样量刑你觉得合理吗？",
+          "url": "https://www.zhihu.com/question/2032756732145951258",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
         {
           "title": "券商晨会精华：光纤光缆进入历史大周期",
           "url": "https://www.cls.cn/detail/2360360",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
+          "url": "https://wallstreetcn.com/articles/3771219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "15时56分"
         }
       ]
     }
