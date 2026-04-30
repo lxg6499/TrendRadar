@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T17:55:54.755891+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-04-30T19:23:15.429240+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 19时23分]"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -36,11 +36,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时23分]"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -93,11 +94,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 19时23分]"
         },
         {
           "title": "券商晨会精华：光纤光缆进入历史大周期",
