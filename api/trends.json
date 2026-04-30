@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T19:23:15.429240+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-04-30T21:13:47.833097+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 21时13分]"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -32,16 +32,39 @@
           "time_info": "09时29分"
         },
         {
+          "title": "白宫备忘录还呼吁人工智能公司尊重军事指挥链。",
+          "url": "https://flash.jin10.com/detail/20260430211037754800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
           "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时13分]"
+        },
+        {
+          "title": "专家：日菲走向军事同盟成大概率事件",
+          "url": "https://www.toutiao.com/trending/7633765316724932658/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -53,6 +76,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中学历史教师买卖玩具枪获利五千元，被认定为真枪，获刑 3 年，家属申诉被驳回，这样量刑你觉得合理吗？",
+          "url": "https://www.zhihu.com/question/2032756732145951258",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 21时13分]"
+        },
+        {
+          "title": "券商晨会精华：光纤光缆进入历史大周期",
+          "url": "https://www.cls.cn/detail/2360360",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时56分]"
+        },
+        {
+          "title": "日本民众为侵略历史流泪向中国道歉",
+          "url": "https://www.toutiao.com/trending/7634485585935257139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         }
       ]
     },
@@ -81,37 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中学历史教师买卖玩具枪获利五千元，被认定为真枪，获刑 3 年，家属申诉被驳回，这样量刑你觉得合理吗？",
-          "url": "https://www.zhihu.com/question/2032756732145951258",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 19时23分]"
-        },
-        {
-          "title": "券商晨会精华：光纤光缆进入历史大周期",
-          "url": "https://www.cls.cn/detail/2360360",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 15时56分]"
         }
       ]
     },
