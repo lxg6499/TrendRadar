@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-30T15:56:42.770562+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-04-30T17:55:54.755891+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 17时55分]"
+        },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
           "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
@@ -19,16 +32,15 @@
           "time_info": "09时29分"
         },
         {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
           "source": "澎湃新闻",
           "ranks": [
-            8,
-            6
+            16
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 15时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -80,11 +92,12 @@
           "url": "https://www.zhihu.com/question/2032756732145951258",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 17时55分]"
         },
         {
           "title": "券商晨会精华：光纤光缆进入历史大周期",
@@ -111,7 +124,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         }
