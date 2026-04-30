@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T09:29:29.037088+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-30T13:19:21.068707+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 13时19分]"
         },
         {
           "title": "法国小伙将携日本侵华军事档案回国",
@@ -67,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "券商晨会精华：光纤光缆进入历史大周期",
+          "url": "https://www.cls.cn/detail/2360360",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
