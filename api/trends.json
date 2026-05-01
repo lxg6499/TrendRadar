@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T19:54:32.510589+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-05-01T20:46:28.167760+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时46分]"
         },
         {
           "title": "福建舰两年8次海试 中国航母技术实现历史性跨越",
@@ -56,15 +56,38 @@
           "time_info": "[09时31分 ~ 17时23分]"
         },
         {
+          "title": "英国国王「查尔斯 III」在美国国会发表历史性演讲，他说了些什么，对当下国际经济和地缘局势有何影响？",
+          "url": "https://www.zhihu.com/question/2032801815587202536",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时46分]"
+        },
+        {
           "title": "比亚迪：四月汽车销量为321,123辆。海外销售突破13万辆，创历史新高。新能源汽车累计销售超1610万辆。",
           "url": "https://flash.jin10.com/detail/20260501191422174800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "为什么我们有这么多博物馆历史资料可以参考，但很多古装电视剧还是喜欢架空历史甚至捏造历史呢？",
+          "url": "https://www.zhihu.com/question/1906729272963475242",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "A股年度派现金额创历史新高",
@@ -89,17 +112,6 @@
           "time_info": "15时55分"
         },
         {
-          "title": "英国国王「查尔斯 III」在美国国会发表历史性演讲，他说了些什么，对当下国际经济和地缘局势有何影响？",
-          "url": "https://www.zhihu.com/question/2032801815587202536",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "中东战火改写全球航运，好望角油轮航运量创历史新高",
           "url": "https://flash.jin10.com/detail/20260501162510439800",
           "source": "金十数据",
@@ -109,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "极氪4月交付量创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%81%E6%B0%AA4%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "极氪月交付量创历史新高",
@@ -136,8 +159,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 20时46分]"
         },
         {
           "title": "美防长狡辩：对伊军事行动无需寻求国会授权",
@@ -148,19 +171,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时54分]"
-        },
-        {
-          "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
-          "url": "https://wallstreetcn.com/livenews/3097818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时46分]"
         },
         {
           "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
@@ -172,8 +184,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 20时46分]"
+        },
+        {
+          "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3097818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
@@ -241,22 +264,52 @@
           "url": "https://wallstreetcn.com/livenews/3097889",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时46分]"
         },
         {
           "title": "李强在广西调研时强调 加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
           "url": "https://wallstreetcn.com/livenews/3097884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据美国媒体Axios：伊朗已于周四通过巴基斯坦调解人，就美方对结束战争协议的最新修正案向美方作出了回应。",
+          "url": "https://flash.jin10.com/detail/20260501201947895800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗周四通过巴基斯坦向美国作出了回应。伊朗就美国对协议的最新修改作出回应。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3097902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     }
