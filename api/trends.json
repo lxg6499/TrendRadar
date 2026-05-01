@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T15:55:44.052360+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-05-01T17:23:52.964534+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 15时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 17时23分]"
+        },
+        {
+          "title": "美防长狡辩：对伊军事行动无需寻求国会授权",
+          "url": "https://news.ifeng.com/c/8sm0N7S9hq9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
@@ -26,9 +37,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时23分]"
         },
         {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
@@ -40,18 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时55分]"
         },
         {
           "title": "阿联酋国防部：古尔巴诺夫还了解了阿联酋的国家防务工业和军事生产能力，包括制造和现代技术的进展。",
@@ -74,12 +86,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "以色列军方：已摧毁黎巴嫩南部真主党的指挥总部和军事建筑。",
+          "url": "https://flash.jin10.com/detail/20260501164258346800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     },
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "火箭第五场战胜湖人，你觉得火箭有可能成为 NBA 历史上第一支 0:3 落后翻盘成功的球队吗？",
@@ -101,8 +124,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 17时23分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "A股年度派现金额创历史新高",
@@ -111,7 +145,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -122,9 +156,48 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "中东战火改写全球航运，好望角油轮航运量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260501162510439800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "极氪月交付量创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "5月1日全社会跨区域人员流动量预计超3.4亿人次",
+          "url": "https://flash.jin10.com/detail/20260501171902881800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
