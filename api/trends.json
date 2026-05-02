@@ -1,340 +1,144 @@
 {
-  "generated_at": "2026-05-01T22:12:06.726672+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-05-02T09:23:34.146101+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
           "url": "https://wallstreetcn.com/articles/3771450",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 22时12分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "福建舰两年8次海试 中国航母技术实现历史性跨越",
-          "url": "https://wallstreetcn.com/livenews/3097876",
+          "title": "历史首次，LNG Canada公司的单月出口量达到100万公吨",
+          "url": "https://wallstreetcn.com/livenews/3098087",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            16
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时54分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "火箭第五场战胜湖人，你觉得火箭有可能成为 NBA 历史上第一支 0:3 落后翻盘成功的球队吗？",
-          "url": "https://www.zhihu.com/question/2033172730695115981",
-          "source": "知乎",
+          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
+          "url": "https://wallstreetcn.com/livenews/3098085",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 13时31分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "为什么我们有这么多博物馆历史资料可以参考，但很多古装电视剧还是喜欢架空历史甚至捏造历史呢？",
-          "url": "https://www.zhihu.com/question/1906729272963475242",
-          "source": "知乎",
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时12分]"
-        },
-        {
-          "title": "日本民众为侵略历史流泪向中国道歉",
-          "url": "https://www.toutiao.com/trending/7634485585935257139/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 17时23分]"
-        },
-        {
-          "title": "英国国王「查尔斯 III」在美国国会发表历史性演讲，他说了些什么，对当下国际经济和地缘局势有何影响？",
-          "url": "https://www.zhihu.com/question/2032801815587202536",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 20时46分]"
-        },
-        {
-          "title": "比亚迪：四月汽车销量为321,123辆。海外销售突破13万辆，创历史新高。新能源汽车累计销售超1610万辆。",
-          "url": "https://flash.jin10.com/detail/20260501191422174800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "09时23分"
         },
         {
-          "title": "A股年度派现金额创历史新高",
-          "url": "https://flash.jin10.com/detail/20260501142838941800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "A股年度派现金额创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3097805",
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "09时23分"
         },
         {
-          "title": "中东战火改写全球航运，好望角油轮航运量创历史新高",
-          "url": "https://flash.jin10.com/detail/20260501162510439800",
-          "source": "金十数据",
+          "title": "历史上的东坡肉真的是清水炖肉吗？",
+          "url": "https://www.zhihu.com/question/656541152",
+          "source": "知乎",
           "ranks": [
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "极氪4月交付量创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E6%9E%81%E6%B0%AA4%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "极氪月交付量创历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "09时23分"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
           "url": "https://www.cls.cn/detail/2361658",
           "source": "财联社热门",
           "ranks": [
-            7,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 22时12分]"
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
-          "title": "美防长狡辩：对伊军事行动无需寻求国会授权",
-          "url": "https://news.ifeng.com/c/8sm0N7S9hq9",
+          "title": "美军在中东8国16处军事设施在袭击中受损",
+          "url": "https://news.ifeng.com/c/8smdIb4oxFt",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 22时12分]"
-        },
-        {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 22时12分]"
-        },
-        {
-          "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
-          "url": "https://wallstreetcn.com/livenews/3097818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "09时23分"
         },
         {
           "title": "以色列 24 小时接收 6500 吨装备，称或「很快需要」恢复对伊军事行动，美国将扮演怎样的角色？",
           "url": "https://www.zhihu.com/question/2033574598722188396",
           "source": "知乎",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
-        },
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "阿联酋国防部：古尔巴诺夫还了解了阿联酋的国家防务工业和军事生产能力，包括制造和现代技术的进展。",
-          "url": "https://flash.jin10.com/detail/20260501124232503800",
+          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502080556644800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "09时23分"
         },
         {
-          "title": "霍尔木兹海峡危机发酵！美方被曝酝酿军事选项，伊朗警告“痛苦打击”",
-          "url": "https://flash.jin10.com/detail/20260501082123887800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "以色列军方：已摧毁黎巴嫩南部真主党的指挥总部和军事建筑。",
-          "url": "https://flash.jin10.com/detail/20260501164258346800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "5月1日全社会跨区域人员流动量预计超3.4亿人次",
-          "url": "https://flash.jin10.com/detail/20260501171902881800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "哈马斯指责以色列持续违反停火协议 呼吁国际社会介入",
-          "url": "https://wallstreetcn.com/livenews/3097889",
+          "title": "美国封锁给伊朗造成48亿美元代价。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098060",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 20时46分]"
-        },
-        {
-          "title": "李强在广西调研时强调 加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
-          "url": "https://wallstreetcn.com/livenews/3097884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 20时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗周四通过巴基斯坦向美国作出了回应。伊朗就美国对协议的最新修改作出回应。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3097902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时12分]"
-        },
-        {
-          "title": "据美国媒体Axios：伊朗已于周四通过巴基斯坦调解人，就美方对结束战争协议的最新修正案向美方作出了回应。",
-          "url": "https://flash.jin10.com/detail/20260501201947895800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "美国于周一向伊朗提交了一份修订清单。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3097918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "09时23分"
         }
       ]
     }
