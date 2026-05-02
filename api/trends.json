@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:35:56.859797+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-05-02T20:39:14.339784+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 20时39分]"
         },
         {
           "title": "五一假期首日，琼州海峡客滚运输多项数据创单日历史新高",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 20时39分]"
         },
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -162,11 +163,12 @@
           "ranks": [
             3,
             5,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 20时39分]"
         },
         {
           "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
@@ -245,11 +247,12 @@
           "ranks": [
             2,
             4,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 20时39分]"
         }
       ]
     }
