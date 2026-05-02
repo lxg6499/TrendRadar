@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T20:39:14.339784+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-05-02T22:03:26.686461+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             1,
             3,
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 22时03分]"
         },
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -143,7 +144,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -164,11 +165,12 @@
             3,
             5,
             11,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 22时03分]"
         },
         {
           "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
@@ -204,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "日本军事动作与二战前高度相似",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E5%8A%A8%E4%BD%9C%E4%B8%8E%E4%BA%8C%E6%88%98%E5%89%8D%E9%AB%98%E5%BA%A6%E7%9B%B8%E4%BC%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
@@ -248,11 +261,12 @@
             2,
             4,
             10,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 22时03分]"
         }
       ]
     }
