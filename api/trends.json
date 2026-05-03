@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T20:38:30.293300+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-05-03T22:04:01.557534+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 20时38分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 22时04分]"
+        },
+        {
+          "title": "佩斯科夫：若乌不愿达成协议 俄将通过特别军事行动迫使其接受",
+          "url": "https://wallstreetcn.com/livenews/3098275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时04分]"
         },
         {
           "title": "佩斯科夫：若乌不愿达成协议 俄将通过特别军事行动迫使其接受",
@@ -27,19 +41,6 @@
             2,
             8,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时38分]"
-        },
-        {
-          "title": "佩斯科夫：若乌不愿达成协议 俄将通过特别军事行动迫使其接受",
-          "url": "https://wallstreetcn.com/livenews/3098275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -124,7 +125,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -146,6 +147,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时32分 ~ 22时04分]"
+        },
+        {
           "title": "中国小将吴宜泽创造历史 本人发声",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E5%90%B4%E5%AE%9C%E6%B3%BD%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2+%E6%9C%AC%E4%BA%BA%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -161,16 +175,17 @@
           "time_info": "[13时19分 ~ 19时33分]"
         },
         {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "《开罗宣言》是确认台湾作为中国不可分割领土的重要历史和法理依据。中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑。（人民日报）",
+          "url": "https://wallstreetcn.com/livenews/3098283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            22
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时32分 ~ 20时38分]"
+          "time_info": "[19时33分 ~ 22时04分]"
         },
         {
           "title": "14.8万人次！横琴口岸“五一”假期单日客流创历史新高",
@@ -184,18 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时19分 ~ 17时10分]"
-        },
-        {
-          "title": "《开罗宣言》是确认台湾作为中国不可分割领土的重要历史和法理依据。中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑。（人民日报）",
-          "url": "https://wallstreetcn.com/livenews/3098283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 20时38分]"
         },
         {
           "title": "横琴口岸“五一”假期单日客流创历史新高",
