@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T20:16:23.567244+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-05-04T22:59:59.159567+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "如何看待「中国首位百亿票房导演」陈思诚新片《10 间敢死队》预测票房仅 9540 万创历史新低？",
+          "url": "https://www.zhihu.com/question/2033317313668194512",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 22时59分]"
+        },
+        {
           "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨近3%",
           "url": "https://wallstreetcn.com/articles/3771519",
           "source": "华尔街见闻",
@@ -103,17 +115,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时25分 ~ 18时52分]"
-        },
-        {
-          "title": "如何看待「中国首位百亿票房导演」陈思诚新片《10 间敢死队》预测票房仅 9540 万创历史新低？",
-          "url": "https://www.zhihu.com/question/2033317313668194512",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时16分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
@@ -161,11 +162,12 @@
           "ranks": [
             6,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 20时16分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 22时59分]"
         },
         {
           "title": "哥伦比亚总统：反对对古巴进行任何形式的军事干预",
