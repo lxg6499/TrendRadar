@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T18:52:32.392701+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-05-04T20:16:23.567244+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -105,6 +105,17 @@
           "time_info": "[09时25分 ~ 18时52分]"
         },
         {
+          "title": "如何看待「中国首位百亿票房导演」陈思诚新片《10 间敢死队》预测票房仅 9540 万创历史新低？",
+          "url": "https://www.zhihu.com/question/2033317313668194512",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 20时16分]"
+        },
+        {
           "title": "和AI玩猜历史人物游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
-          "title": "如何看待「中国首位百亿票房导演」陈思诚新片《10 间敢死队》预测票房仅 9540 万创历史新低？",
-          "url": "https://www.zhihu.com/question/2033317313668194512",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "台湾证交所加权股价指数涨幅扩大至4.5%，至40,691.51点的历史新高。",
@@ -160,11 +160,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 20时16分]"
         },
         {
           "title": "哥伦比亚总统：反对对古巴进行任何形式的军事干预",
