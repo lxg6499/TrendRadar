@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T16:02:32.278354+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-05-06T18:14:27.861382+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -90,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 18时14分]"
         },
         {
           "title": "马上评｜中国斯诺克选手为何能频繁创造历史",
@@ -145,7 +145,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
