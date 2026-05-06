@@ -1,147 +1,111 @@
 {
-  "generated_at": "2026-05-05T21:18:17.952724+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-05-06T09:24:12.410859+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "社会",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "5月4日全社会跨区域人员流动量29936.9万人次",
-          "url": "https://wallstreetcn.com/livenews/3098726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "“五一”假期全社会跨区域人员流动量预计超15亿人次 日均比2025年同期增长4%",
-          "url": "https://wallstreetcn.com/livenews/3098741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 19时07分]"
-        },
-        {
-          "title": "阿联酋总统顾问安瓦尔：我们感谢并重视来自海湾、阿拉伯和国际社会对阿联酋的团结信息，谴责和指责“阴险的伊朗袭击”。",
-          "url": "https://flash.jin10.com/detail/20260505144506105800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：“自由计划”与“史诗之怒”是分开的，并且是临时性的。 美国的目标是保护航运免受伊朗侵略。 伊朗并不控制霍尔木兹海峡。 美国在开启霍尔木兹海峡行动中，不需要进入伊朗领空或水域。 美国的封锁措施仍然完全有效。 中央司令部及合作国家正在与数百艘船只、航运公司和保险公司保持积极沟通。 如果伊朗攻击商业船只，将面临压倒性的火力打击。 美国期望国际社会在适当时机挺身而出，并将很快移交相关责任。",
-          "url": "https://wallstreetcn.com/livenews/3098783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰用火烈鸟导弹袭击了距离约1500公里的俄罗斯切博克萨里军事工业设施。",
-          "url": "https://flash.jin10.com/detail/20260505173919649800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "市场消息：伊朗外交部发言人巴加埃将伊朗针对海湾阿拉伯国家的袭击描述为“防御性行动”，并指出这些行动仅针对被用于攻击伊朗的美国资产及基地。他表示，“美国在该地区的军事存在是一种累赘，除了制造不安全感之外，别无他用。”",
-          "url": "https://flash.jin10.com/detail/20260505205630654800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：提供巴林无人机交易及军事专业知识。",
-          "url": "https://flash.jin10.com/detail/20260505204614274800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "美情报评估显示：本轮军事打击未进一步削弱伊朗核能力",
-          "url": "https://wallstreetcn.com/livenews/3098669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "马上评｜中国斯诺克选手为何能频繁创造历史",
           "url": "https://m.thepaper.cn/newsDetail_forward_33098816",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 21时18分]"
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "“加长版”五一假期收官：春假联动下多地景区接待游客数创历史新高，游客人均打卡2.1个城市",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099873",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "韩国首尔综指首次站上7000点关口，盘初大涨逾4%。 SK海力士大涨逾9%，三星电子大涨逾8%，均创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3098997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "MSCI新兴市场指数上涨1.5%，触及历史新高；MSCI亚太指数（不含日本）上涨1.7%，创下历史新高；MSCI全球市场指数上涨0.2%，创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260506085132882800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
+          "url": "https://www.cls.cn/detail/2363208",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "美称对伊军事行动结束 伊朗否认",
+          "url": "https://www.toutiao.com/trending/7636544684365467190/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "美称对伊朗军事行动已结束",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%B7%B2%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     }
