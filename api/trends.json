@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T13:19:20.458235+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-05-07T16:08:58.796871+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -45,11 +45,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时08分]"
         },
         {
           "title": "如何看待天弘余额宝 7 日年化收益率跌破 1%，创历史新低？",
@@ -95,11 +96,12 @@
           "url": "https://www.zhihu.com/question/2035387121423364410",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时08分]"
         }
       ]
     }
