@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T15:07:07.844905+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-05-09T17:04:51.688254+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "《奔跑吧》收视率创节目历史最低",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "国防部：日方应拿出正视历史的态度",
+          "url": "https://www.toutiao.com/trending/7637787866668892166/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "国防部：日方应拿出正视历史的态度、真诚悔罪的行动",
+          "url": "https://flash.jin10.com/detail/20260509152804125800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "周五（5月8日），美股存储芯片与硬件供应链指数收涨8.05%，报188.37点，创收盘历史新高，本周累计上涨18.60%。 成分股悉数走高，Sandisk收涨16.60%，美光科技涨15.49%，应用材料、西部数据、拉姆研究、希捷科技、Rambus、泰瑞达TER涨6.04%-1.60%。",
