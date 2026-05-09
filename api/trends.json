@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T12:58:07.485192+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-05-09T15:07:07.844905+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "《奔跑吧》收视率创节目历史最低",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%94%E8%B7%91%E5%90%A7%E3%80%8B%E6%94%B6%E8%A7%86%E7%8E%87%E5%88%9B%E8%8A%82%E7%9B%AE%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 15时07分]"
+        },
+        {
           "title": "达利欧：美国经济正积累“致命斑块”，未来五年将迎历史性大变局",
           "url": "https://wallstreetcn.com/articles/3771816",
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
-        },
-        {
-          "title": "《奔跑吧》收视率创节目历史最低",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%A5%94%E8%B7%91%E5%90%A7%E3%80%8B%E6%94%B6%E8%A7%86%E7%8E%87%E5%88%9B%E8%8A%82%E7%9B%AE%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E",
-          "source": "百度热搜",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
