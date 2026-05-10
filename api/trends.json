@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-10T15:51:15.375908+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-05-10T17:18:53.058505+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
       "match_count": 4,
       "titles": [
+        {
+          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
+          "url": "https://wallstreetcn.com/articles/3771915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时18分]"
+        },
         {
           "title": "我国 4 月进出口贸易总额升至历史新高，美国 3 月贸易逆差持续扩大，中美贸易额持续下滑，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2036426362630697671",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
-          "url": "https://wallstreetcn.com/articles/3771915",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
         },
         {
           "title": "普京：坚决制止篡改二战历史图谋",
