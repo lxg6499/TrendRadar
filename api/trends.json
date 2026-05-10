@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T09:30:27.888301+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-10T13:25:09.168344+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我国 4 月进出口贸易总额升至历史新高，美国 3 月贸易逆差持续扩大，中美贸易额持续下滑，对此你怎么看？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "普京强调坚决制止篡改二战历史图谋",
+          "url": "https://www.toutiao.com/trending/7637823591953845803/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         }
       ]
     },
@@ -42,7 +53,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         }
