@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T13:46:18.892737+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-11T16:51:22.719396+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股PCB概念涨势扩大， 大族激光、广合科技涨停，创历史新高，此前宝鼎科技、红板科技、博敏电子、方正科技等涨停，鸿仕达涨超25%，四会富仕、新广益、迅捷兴均涨超10%。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -41,15 +41,48 @@
           "time_info": "09时48分"
         },
         {
+          "title": "沪指站上4200点创近11年新高，科创50创历史新高，芯片、半导体集体爆发、千亿巨头狂拉",
+          "url": "https://wallstreetcn.com/articles/3771947",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "【午报】沪指涨近1%站上4200点，科创50创历史新高，半导体芯片产业链再度爆发",
+          "url": "https://www.cls.cn/detail/2367653",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "铜价无视中东局势不确定性，有望创历史新高",
           "url": "https://flash.jin10.com/detail/20260511132640049800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "A股飙升见证历史",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%A3%99%E5%8D%87%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "两个令人不安的首次 再敲响历史警钟",
@@ -66,19 +99,64 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗外交部发言人：美国军事存在及其在该地区强加的战争对环境造成了极其严重且持久的影响。",
+          "url": "https://flash.jin10.com/detail/20260511162435490800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
           "url": "https://wallstreetcn.com/articles/3771940",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 16时51分]"
+        },
+        {
+          "title": "印尼获赠意大利退役航母，对东南亚军事格局及自身海军建设有何影响？",
+          "url": "https://www.zhihu.com/question/2033365566782690183",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "英媒曝英国海军护卫舰仅剩 5 艘，这对英国军事实力有何影响？",
+          "url": "https://www.zhihu.com/question/2035627942571663439",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "以称希望逐步摆脱对美军事援助依赖",
+          "url": "https://www.toutiao.com/trending/7638114772391280659/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     }
