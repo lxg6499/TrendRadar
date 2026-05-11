@@ -1,58 +1,44 @@
 {
-  "generated_at": "2026-05-10T22:14:29.123299+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-05-11T09:48:53.394797+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "加息、抗疫、硬刚总统：鲍威尔的美联储八年，功过如何写进历史？",
+          "url": "https://flash.jin10.com/detail/20260511093712757800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
         {
           "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
           "url": "https://wallstreetcn.com/articles/3771915",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            4,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 22时14分]"
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
-          "title": "我国 4 月进出口贸易总额升至历史新高，美国 3 月贸易逆差持续扩大，中美贸易额持续下滑，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2036426362630697671",
-          "source": "知乎",
+          "title": "两个令人不安的首次 再敲响历史警钟",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AA%E4%BB%A4%E4%BA%BA%E4%B8%8D%E5%AE%89%E7%9A%84%E9%A6%96%E6%AC%A1+%E5%86%8D%E6%95%B2%E5%93%8D%E5%8E%86%E5%8F%B2%E8%AD%A6%E9%92%9F",
+          "source": "百度热搜",
           "ranks": [
-            8
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "普京：坚决制止篡改二战历史图谋",
-          "url": "https://www.cls.cn/detail/2367064",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "普京强调坚决制止篡改二战历史图谋",
-          "url": "https://www.toutiao.com/trending/7637823591953845803/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -61,32 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "航行警告：舟山中块岛水域军事活动",
-          "url": "https://flash.jin10.com/detail/20260510212544779800",
-          "source": "金十数据",
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
-          "url": "https://flash.jin10.com/detail/20260510044333531800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时30分"
+          "time_info": "09时48分"
         }
       ]
     }
