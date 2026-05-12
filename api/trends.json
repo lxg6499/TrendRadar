@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-05-12T19:08:46.866523+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-05-12T21:29:13.315447+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 21时29分]"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://news.ifeng.com/c/8t46R4Ygpuq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "日本“再军事化”灰犀牛正奔袭而来",
+          "url": "https://www.toutiao.com/trending/7638904232317288457/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "美媒：特朗普正考虑恢复对伊军事行动 美官员质疑巴基斯坦传话效率",
+          "url": "https://flash.jin10.com/detail/20260512090011549800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于5月26日造访沃尔特·里德国家军事医疗中心，进行年度牙科和医疗评估。",
+          "url": "https://flash.jin10.com/detail/20260512084136309800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "德国将出资逾1000万欧元支持乌克兰建设军事训练中心",
+          "url": "https://wallstreetcn.com/livenews/3102119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 6,
@@ -14,7 +87,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -60,7 +133,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -78,70 +151,8 @@
       ]
     },
     {
-      "keyword_group": "军事",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://news.ifeng.com/c/8t46R4Ygpuq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 19时08分]"
-        },
-        {
-          "title": "美媒：特朗普正考虑恢复对伊军事行动 美官员质疑巴基斯坦传话效率",
-          "url": "https://flash.jin10.com/detail/20260512090011549800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普将于5月26日造访沃尔特·里德国家军事医疗中心，进行年度牙科和医疗评估。",
-          "url": "https://flash.jin10.com/detail/20260512084136309800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "德国将出资逾1000万欧元支持乌克兰建设军事训练中心",
-          "url": "https://wallstreetcn.com/livenews/3102119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
@@ -155,6 +166,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 19时08分]"
+        },
+        {
+          "title": "为什么如今的社会治安明显变好了？",
+          "url": "https://www.zhihu.com/question/1958151284281550245",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "中央社会工作部副部长柳拯履新中国红十字会党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157756",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         }
       ]
     }
