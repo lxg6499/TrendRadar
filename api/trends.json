@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-13T00:20:22.631574+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-13T09:49:21.151914+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "github",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2036544679387341657",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "社会",
       "match_count": 1,
