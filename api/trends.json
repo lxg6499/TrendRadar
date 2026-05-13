@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T19:20:28.393355+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-05-13T21:59:09.209056+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "不是演习！全球供应链压力爆表 “历史级混乱”正在重现？",
@@ -13,11 +13,34 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 21时59分]"
+        },
+        {
+          "title": "历史爱好者们，你们在历史猜猜看（When & Where）的这个 AI 猜图小游戏里能拿多少分？",
+          "url": "https://www.zhihu.com/question/2037605624997831504",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价续创历史新高至227.16美元，市值突破5.5万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260513213654141800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "创业板指涨2.63%刷新历史新高，算力产业链全线爆发",
