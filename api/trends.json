@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T16:48:10.692917+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-13T19:20:28.393355+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2369986",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时20分]"
         },
         {
           "title": "创业板指涨2.63%刷新历史新高，算力产业链全线爆发",
@@ -25,7 +26,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         }
