@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-14T19:06:10.578025+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-05-14T21:21:32.036250+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
       "match_count": 7,
       "titles": [
+        {
+          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
+          "url": "https://wallstreetcn.com/articles/3772243",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 21时21分]"
+        },
         {
           "title": "习近平：让2026年成为中美关系继往开来的历史性、标志性年份",
           "url": "https://www.cls.cn/detail/2370895",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 16时21分]"
-        },
-        {
-          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
-          "url": "https://wallstreetcn.com/articles/3772243",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 19时06分]"
         },
         {
           "title": "A股碳化硅概念再度拉升，露笑科技午后涨停，天岳先进逼近20cm涨停，股价续创历史新高，此前科创新材、晶升股份、天富能源涨停，光力科技、三安光电、晶盛机电等跟涨。",
@@ -119,8 +120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 19时06分]"
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时21分]"
         }
       ]
     }
