@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-15T19:15:13.002330+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-05-15T21:20:19.755319+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "历史上首次！复旦大学召开全校性的新文科建设大会，将主攻这些方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178486",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 21时20分]"
+        },
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
           "url": "https://wallstreetcn.com/articles/3772243",
@@ -42,17 +56,15 @@
           "time_info": "[13时43分 ~ 16时33分]"
         },
         {
-          "title": "历史上首次！复旦大学召开全校性的新文科建设大会，将主攻这些方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33178486",
-          "source": "澎湃新闻",
+          "title": "伊朗外长阿拉格齐：向印度外交部长苏杰生阐明，伊朗将始终履行作为霍尔木兹安全保护者的历史责任。",
+          "url": "https://flash.jin10.com/detail/20260515204633817800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 19时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "一座天坛，横跨51年：美国总统再次踏上中美交往的历史现场",
@@ -112,7 +124,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
@@ -132,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 21时20分]"
         },
         {
           "title": "英国卫生和社会福利大臣宣布辞职",
