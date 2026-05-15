@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T09:49:22.159310+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-05-15T13:43:25.659346+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
@@ -30,26 +30,39 @@
           "time_info": "[00时02分 ~ 09时49分]"
         },
         {
+          "title": "美元与油价正相关性达到历史极端水平！一文读懂：这意味着什么？",
+          "url": "https://www.cls.cn/detail/2372094",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "历史上首次！复旦大学召开全校性的新文科建设大会，将主攻这些方向",
           "url": "https://m.thepaper.cn/newsDetail_forward_33178486",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时43分]"
         },
         {
           "title": "一座天坛，横跨51年：美国总统再次踏上中美交往的历史现场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33174699",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 13时43分]"
         },
         {
           "title": "谷歌母公司Alphabet发行了外国发行人历史上规模最大的日元债券。 条款清单显示，Alphabet的日元债券发行总额最终定为5765亿日元。",
@@ -58,7 +71,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -73,11 +86,12 @@
           "url": "https://www.zhihu.com/question/2038010908488590805",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时43分]"
         },
         {
           "title": "英国卫生和社会福利大臣宣布辞职",
