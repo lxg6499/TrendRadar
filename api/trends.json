@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T19:41:29.406891+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-05-16T20:49:14.591725+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 20时49分]"
         },
         {
           "title": "巴勒斯坦“灾难日”当天 以空袭加沙称炸死哈马斯军事领导人",
@@ -75,11 +76,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时49分]"
         },
         {
           "title": "以军发布声明 证实其打死哈马斯在加沙地带军事指挥官",
@@ -87,11 +89,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时49分]"
         },
         {
           "title": "据路透社：哈马斯高级官员确认，军事部门首领Al-Haddad已去世。",
@@ -99,11 +102,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时49分]"
         },
         {
           "title": "哈马斯官员证实其军事领导人哈达德已身亡",
@@ -111,11 +115,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时49分]"
+        },
+        {
+          "title": "哈马斯官员证实其军事领导人已身亡",
+          "url": "https://www.toutiao.com/trending/7639920319281463346/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时41分]"
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "阿联酋外交部：阿联酋的所有行动均在其防御行动框架内，旨在保护其主权、平民和重要基础设施。阿联酋保留所有主权、法律、外交和军事权利，以应对任何“威胁或敌对行为”。",
@@ -162,11 +178,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 20时49分]"
         },
         {
           "title": "专家评摆拍盲道被撞：消耗社会信任",
@@ -203,7 +220,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
