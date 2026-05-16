@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T13:02:37.375964+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-05-16T15:43:43.800585+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "巴勒斯坦“灾难日”当天 以空袭加沙称炸死哈马斯军事领导人",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3104760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://flash.jin10.com/detail/20260516151231684800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "阿联酋外交部：阿联酋的所有行动均在其防御行动框架内，旨在保护其主权、平民和重要基础设施。阿联酋保留所有主权、法律、外交和军事权利，以应对任何“威胁或敌对行为”。",
@@ -39,6 +72,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马上评｜盲人女孩摆拍，伤害的是社会信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33186778",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "专家评摆拍盲道被撞：消耗社会信任",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AF%84%E6%91%86%E6%8B%8D%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%EF%BC%9A%E6%B6%88%E8%80%97%E7%A4%BE%E4%BC%9A%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
