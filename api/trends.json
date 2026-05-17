@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:04:16.897733+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-05-17T18:15:37.993027+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 18时15分]"
         },
         {
           "title": "英国前卫生和社会福利大臣称将竞选工党党首",
@@ -64,6 +65,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
+          "url": "https://wallstreetcn.com/articles/3772438",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
