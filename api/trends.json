@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T00:23:07.774974+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-19T09:55:54.871668+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "古巴国家主席：美对古军事威胁已构成国际犯罪",
@@ -14,9 +14,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -34,6 +56,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iOS27或6月发布",
+          "url": "https://s.weibo.com/weibo?q=%23iOS27%E6%88%966%E6%9C%88%E5%8F%91%E5%B8%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
