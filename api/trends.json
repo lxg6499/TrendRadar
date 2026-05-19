@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-19T09:55:54.871668+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-05-19T13:55:35.236936+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
       "match_count": 3,
       "titles": [
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 13时55分]"
+        },
         {
           "title": "古巴国家主席：美对古军事威胁已构成国际犯罪",
           "url": "https://wallstreetcn.com/livenews/3105525",
@@ -19,32 +31,22 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2374803",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 13时55分]"
         }
       ]
     },
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "微观察·中美元首北京会晤丨历史性的一页，要用历史的长镜头去端详",
@@ -56,6 +58,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "大外交丨特殊历史节点的第25次访华，普京在中俄关系的“播种好时节”来访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193810",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -70,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
