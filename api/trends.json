@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T19:51:16.570827+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-05-19T22:22:51.020810+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称将推迟对伊朗发动军事打击",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 13时55分]"
+        },
+        {
+          "title": "北约高级军事官员Grynkewich：美军兵力重新部署不会影响地区部署规划。",
+          "url": "https://flash.jin10.com/detail/20260519220903027800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "古巴国家主席：美对古军事威胁已构成国际犯罪",
@@ -54,6 +65,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "伊朗副外长：伊朗准备应对任何军事侵略。我们要么胜利，要么成为烈士。",
+          "url": "https://flash.jin10.com/detail/20260519220237139800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普对古巴动武意愿急升，军事选项摆上白宫桌面",
           "url": "https://flash.jin10.com/detail/20260519161458780800",
           "source": "金十数据",
@@ -68,7 +90,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微观察·中美元首北京会晤丨历史性的一页，要用历史的长镜头去端详",
@@ -91,8 +113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 22时22分]"
         },
         {
           "title": "中方：日本歪曲历史换不来宽容和信任",
@@ -104,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时50分 ~ 19时51分]"
+        },
+        {
+          "title": "如何看待廉价航空正在经历史上最严重危机，廉价航空面临的本质问题是什么？",
+          "url": "https://www.zhihu.com/question/2039654627079972752",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
