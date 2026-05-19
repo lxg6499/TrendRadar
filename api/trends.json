@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:55:35.236936+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-05-19T16:52:51.775640+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普称将推迟对伊朗发动军事打击",
@@ -41,6 +41,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 13时55分]"
+        },
+        {
+          "title": "伊朗驻伊拉克大使：伊朗的实力不仅体现在军事领域，伊朗的力量源于信仰、独立追求、人民的能力和历史经验。",
+          "url": "https://flash.jin10.com/detail/20260519163023735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "特朗普对古巴动武意愿急升，军事选项摆上白宫桌面",
+          "url": "https://flash.jin10.com/detail/20260519161458780800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
@@ -64,11 +86,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33193810",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 16时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局：2026年4月份全社会用电量同比增长6.0%",
+          "url": "https://wallstreetcn.com/livenews/3105909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "16时52分"
         }
       ]
     },
