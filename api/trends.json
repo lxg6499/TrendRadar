@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T09:55:31.903910+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-20T13:54:49.163528+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科创50指数盘初拉升涨逾2%再创历史新高。",
@@ -39,6 +39,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "A股机器人概念午后局部异动，上纬新材涨超10%，创历史新高，总市值超700亿元，浙江荣泰、伟创电气、胜蓝股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260520132201468800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝台社会掀起“出走潮” 国台办回应",
+          "url": "https://www.toutiao.com/trending/7641269912943525931/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
