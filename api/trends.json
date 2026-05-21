@@ -1,123 +1,22 @@
 {
-  "generated_at": "2026-05-20T22:25:18.110965+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-05-21T09:55:00.967052+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "历史",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "科创50指数盘初拉升涨逾2%再创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260520095209121800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "A股存储芯片板块延续强势，三孚股份、诚邦股份3连板，中科飞测涨超15%，股价续创历史新高，联芸科技、神工股份、华海清科跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3106358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 22时25分]"
-        },
-        {
-          "title": "如何看待廉价航空正在经历史上最严重危机，廉价航空面临的本质问题是什么？",
-          "url": "https://www.zhihu.com/question/2039654627079972752",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "A股机器人概念午后局部异动，上纬新材涨超10%，创历史新高，总市值超700亿元，浙江荣泰、伟创电气、胜蓝股份等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260520132201468800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "伊朗最高领袖说伊朗人民正在进行“历史性抵抗”",
-          "url": "https://wallstreetcn.com/livenews/3106745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国总统特朗普：白宫的舞厅正在建设中。这其实是一个非常“军事化”的综合体。屋顶实际上是一个无人机港口。这也是我们人民的一个强大军事阵地。",
-          "url": "https://flash.jin10.com/detail/20260520215630665800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）正在审查今年3月特朗普宣布推迟对伊朗进行军事打击前夕，原油期货交易量暴增的情况。作为调查的一部分，CFTC目前对至少三家公司进行关注。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3106339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
     {
       "keyword_group": "社会",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝台社会掀起“出走潮” 国台办回应",
-          "url": "https://www.toutiao.com/trending/7641269912943525931/",
-          "source": "今日头条",
+          "title": "洪洞大槐树景区致澎湃新闻及社会各界：诚恳致谢、全面整改、坚守初心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204232",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         }
       ]
     }
