@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:43:54.073976+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-05-22T19:35:57.856098+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "PCB概念股延续强势，鹏鼎控股涨停，股价续创历史新高，兴森科技、天承科技、景旺电子、胜宏科技、深南电路涨幅居前。",
@@ -41,6 +41,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "如果带一颗土豆回古代，会如何改变历史？",
+          "url": "https://www.zhihu.com/question/2038267783037899982",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "土耳其里拉兑美元跌约0.3%，创下45.7425的历史新低。",
           "url": "https://flash.jin10.com/detail/20260522130854139800",
           "source": "金十数据",
@@ -62,11 +73,12 @@
           "url": "https://www.zhihu.com/question/1913265157276153371",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 19时35分]"
         }
       ]
     },
