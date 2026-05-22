@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T09:55:54.919998+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-05-22T13:54:20.208603+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "PCB概念股延续强势，鹏鼎控股涨停，股价续创历史新高，兴森科技、天承科技、景旺电子、胜宏科技、深南电路涨幅居前。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "土耳其里拉兑美元跌约0.3%，创下45.7425的历史新低。",
+          "url": "https://flash.jin10.com/detail/20260522130854139800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
