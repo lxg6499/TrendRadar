@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T13:28:45.288660+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-05-23T16:02:11.678713+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
@@ -15,19 +15,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 16时02分]"
         },
         {
           "title": "据以色列第12频道：安全机构正在为特朗普可能在未来几天内决定对伊朗采取军事行动做好准备。",
           "url": "https://flash.jin10.com/detail/20260523131327066800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 16时02分]"
+        },
+        {
+          "title": "美伊分歧严重，美筹备新一轮军事打击，巴基斯坦赴伊斡旋，寻求延长停火",
+          "url": "https://wallstreetcn.com/articles/3772954",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时02分]"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时02分]"
         },
         {
           "title": "俄罗斯还是世界第二大军事强国吗？",
@@ -41,26 +65,15 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
-          "title": "美伊分歧严重，美筹备新一轮军事打击，巴基斯坦赴伊斡旋，寻求延长停火",
-          "url": "https://wallstreetcn.com/articles/3772954",
-          "source": "华尔街见闻",
+          "title": "航行警告 渤海海峡黄海北部执行军事任务",
+          "url": "https://flash.jin10.com/detail/20260523142203385800",
+          "source": "金十数据",
           "ranks": [
-            10
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "16时02分"
         },
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
