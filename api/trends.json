@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-23T19:03:03.308563+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-05-23T20:51:41.295091+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美伊分歧严重，美筹备新一轮军事打击，巴基斯坦赴伊斡旋，寻求延长停火",
+          "url": "https://wallstreetcn.com/articles/3772954",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 20时51分]"
+        },
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
           "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时46分 ~ 16时02分]"
-        },
-        {
-          "title": "美伊分歧严重，美筹备新一轮军事打击，巴基斯坦赴伊斡旋，寻求延长停火",
-          "url": "https://wallstreetcn.com/articles/3772954",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 19时03分]"
         },
         {
           "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
