@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-24T20:52:26.567587+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-05-24T22:18:22.626860+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美国在委内瑞拉举行军事演练",
+          "url": "https://news.ifeng.com/c/8tNtwAnmJXH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时10分 ~ 22时18分]"
+        },
         {
           "title": "波兰军方：由于俄罗斯远程航空兵对乌克兰实施打击的空中活动，波兰军事航空兵正在本国领空执行任务。",
           "url": "https://flash.jin10.com/detail/20260524090846515800",
@@ -19,28 +31,17 @@
           "time_info": "09时53分"
         },
         {
-          "title": "美国在委内瑞拉举行军事演练",
-          "url": "https://news.ifeng.com/c/8tNtwAnmJXH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时10分 ~ 20时52分]"
-        },
-        {
           "title": "俄称当日对乌打击仅针对军事目标不涉及民用设施",
           "url": "https://flash.jin10.com/detail/20260524192020284800",
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时18分]"
         },
         {
           "title": "美国在委内瑞拉举行军事演练",
@@ -109,11 +110,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时18分]"
         },
         {
           "title": "NBA历史上163次0-3落后无一翻盘",
@@ -156,8 +158,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 20时52分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 22时18分]"
         },
         {
           "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代。（央视）",
