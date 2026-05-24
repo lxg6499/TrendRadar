@@ -1,104 +1,61 @@
 {
-  "generated_at": "2026-05-23T22:23:45.317855+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-24T09:53:23.525495+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "军事",
-      "match_count": 8,
+      "keyword_group": "社会",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊分歧严重，美筹备新一轮军事打击，巴基斯坦赴伊斡旋，寻求延长停火",
-          "url": "https://wallstreetcn.com/articles/3772954",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时28分 ~ 22时23分]"
-        },
-        {
-          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
-          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 16时02分]"
-        },
-        {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 19时03分]"
-        },
-        {
-          "title": "据以色列第12频道：安全机构正在为特朗普可能在未来几天内决定对伊朗采取军事行动做好准备。",
-          "url": "https://flash.jin10.com/detail/20260523131327066800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 16时02分]"
-        },
-        {
-          "title": "俄罗斯还是世界第二大军事强国吗？",
-          "url": "https://www.zhihu.com/question/1913265157276153371",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "航行警告 渤海海峡黄海北部执行军事任务",
-          "url": "https://flash.jin10.com/detail/20260523142203385800",
-          "source": "金十数据",
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221203",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "09时53分"
         },
         {
-          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
-          "url": "https://flash.jin10.com/detail/20260523083401521800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
-          "url": "https://wallstreetcn.com/livenews/3108288",
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3108403",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "波兰军方：由于俄罗斯远程航空兵对乌克兰实施打击的空中活动，波兰军事航空兵正在本国领空执行任务。",
+          "url": "https://flash.jin10.com/detail/20260524090846515800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普称可能于24日决定是否恢复对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3108413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
@@ -107,15 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "道琼斯工业平均指数收于50,579.70点，创下历史新高，超过2月10日的前次最高收盘纪录。",
-          "url": "https://flash.jin10.com/detail/20260523041206444800",
-          "source": "金十数据",
+          "title": "古埃及的历史动不动就五千年六千年的，有什么根据吗？",
+          "url": "https://www.zhihu.com/question/36856643",
+          "source": "知乎",
           "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "09时53分"
         }
       ]
     }
