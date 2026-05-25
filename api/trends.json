@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T14:24:10.505650+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-25T19:02:35.152271+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -117,11 +117,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33226182",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 19时02分]"
         },
         {
           "title": "人力资源社会保障部召开《稳岗扩容提质行动方案》部署推进会",
@@ -130,7 +131,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
