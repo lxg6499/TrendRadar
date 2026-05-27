@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-27T00:34:27.469404+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-27T09:59:38.238252+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美以伊战争启示录｜5万 vs 200万：无人机的经济消耗战重塑军事逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33209209",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "初步评估显示哈马斯新任军事领导人被打死",
+          "url": "https://news.ifeng.com/c/8tSZlmvfhEr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "社会",
       "match_count": 1,
@@ -13,23 +41,6 @@
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美以伊战争启示录｜5万 vs 200万：无人机的经济消耗战重塑军事逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33209209",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
