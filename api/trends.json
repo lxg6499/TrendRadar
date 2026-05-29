@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T17:53:12.356713+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-29T20:38:14.074644+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -20,27 +20,17 @@
           "time_info": "[14时02分 ~ 17时53分]"
         },
         {
-          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
-          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 14时02分]"
-        },
-        {
           "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
           "url": "https://m.thepaper.cn/newsDetail_forward_33255027",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 20时38分]"
         },
         {
           "title": "近10年数据复盘：沪指6月上涨比例60%，哪些板块历史表现较佳？",
@@ -50,8 +40,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 20时38分]"
+        },
+        {
+          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
+          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 14时02分]"
         },
         {
           "title": "【焦点复盘】沪指午后深V回升小幅收涨，科技权重股全线发力，“易中天”三巨头齐创历史新高",
