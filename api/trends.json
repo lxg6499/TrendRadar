@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T00:33:20.202929+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-30T09:49:24.242018+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“军费消耗强度历史之最”，五张图看清美国对伊之战代价有多大",
@@ -34,11 +34,23 @@
           "url": "https://www.cls.cn/detail/2385536",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 09时49分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国正在进行历史性的国防工业基础制造动员。",
+          "url": "https://flash.jin10.com/detail/20260530085918460800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "09时49分"
         }
       ]
     },
