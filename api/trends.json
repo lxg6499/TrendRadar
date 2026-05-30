@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T13:38:26.332338+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-05-30T16:12:06.807573+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为中国式现代化铸魂：社会主义核心价值观的培育与践行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262871",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         }
       ]
     },
