@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T10:01:27.538332+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-31T14:16:53.314373+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "清华教授：美伊冲突让美国失分，多国怀疑其军事能力",
@@ -19,13 +19,46 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
+          "title": "据韩联社：韩国与日本在国防会谈中讨论双边军事后勤支持协议。",
+          "url": "https://flash.jin10.com/detail/20260531133134591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
+          "url": "https://flash.jin10.com/detail/20260531123548870800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "以军称已渡过利塔尼河 将对黎真主党军事行动推进至河北岸区域",
+          "url": "https://flash.jin10.com/detail/20260531122214161800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "据福克斯新闻：特朗普表示，与伊朗的协议非常接近，如果协议对美国不公平，将再次使用军事手段。",
           "url": "https://flash.jin10.com/detail/20260531091144086800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -36,22 +69,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 14时16分]"
+        },
+        {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
           "url": "https://wallstreetcn.com/articles/3773491",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
-          "url": "https://wallstreetcn.com/articles/3773496",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -68,11 +102,12 @@
           "url": "https://wallstreetcn.com/articles/3773502",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 14时16分]"
         }
       ]
     }
