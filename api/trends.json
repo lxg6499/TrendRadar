@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T10:09:20.099739+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-01T16:16:12.943779+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8tasq82NyDy",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 16时16分]"
         },
         {
           "title": "如何看待「随着卫冕冠军雷霆出局，NBA 将连续 8 年不同球队夺冠刷新历史记录」？",
@@ -56,6 +57,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         }
       ]
     }
