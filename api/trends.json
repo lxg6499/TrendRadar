@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-06-03T15:28:23.139180+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-03T20:27:40.773060+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
-          "title": "孙正义重登亚洲首富宝座 COMEX铜创下历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2388980",
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
           "source": "财联社热门",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 15时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
           "url": "https://wallstreetcn.com/articles/3773688",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 20时27分]"
+        },
+        {
+          "title": "孙正义重登亚洲首富宝座 COMEX铜创下历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2388980",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -47,7 +59,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -103,7 +115,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
