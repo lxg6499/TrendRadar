@@ -1,89 +1,61 @@
 {
-  "generated_at": "2026-06-03T20:27:40.773060+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-06-04T01:54:43.633971+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "历史",
-      "match_count": 7,
+      "keyword_group": "军事",
+      "match_count": 2,
       "titles": [
         {
-          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
-          "url": "https://www.cls.cn/detail/2389349",
-          "source": "财联社热门",
+          "title": "鲁比奥重申：美对伊军事行动已结束",
+          "url": "https://news.ifeng.com/c/8tfMZYWtV0J",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "鲁比奥重申美对伊军事行动已结束",
+          "url": "https://wallstreetcn.com/livenews/3113921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 FIFA 发言人称与央视达成的世界杯及多项赛事协议金额创历史纪录？",
+          "url": "https://www.zhihu.com/question/2045547417521624977",
+          "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "01时54分"
         },
         {
-          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
-          "url": "https://wallstreetcn.com/articles/3773688",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 20时27分]"
-        },
-        {
-          "title": "孙正义重登亚洲首富宝座 COMEX铜创下历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2388980",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 15时28分]"
-        },
-        {
-          "title": "美元兑印尼盾在早盘交易中升至17,895的历史高点。",
-          "url": "https://flash.jin10.com/detail/20260603101125437800",
-          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "集邦咨询：一季度存储器价格全面上涨，各类产品季增幅度将创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3113581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "新加坡基准股指一度上涨1.1%，创下5150.69点的历史新高。",
-          "url": "https://flash.jin10.com/detail/20260603095759616800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "A股CPO、光纤概念股延续涨势，天洋新材3连板，一博科技一字涨停，天孚通信涨近10%，股价创历史新高，亨通光电、意华股份、罗博特科涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3113398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "01时54分"
         }
       ]
     },
@@ -92,32 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "大厂 HR 转行做求职陪跑，每单收费过万，你看好这一新兴职业吗？「求职陪跑」生意可能带来哪些社会问题？",
-          "url": "https://www.zhihu.com/question/2045085354546419316",
-          "source": "知乎",
+          "title": "日本停留现金社会的唯一好处",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%81%9C%E7%95%99%E7%8E%B0%E9%87%91%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%94%AF%E4%B8%80%E5%A5%BD%E5%A4%84&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗最高领袖穆杰塔巴：在地区遭受最大规模军事行动和世界霸凌者的侵略、以及美国在其计划中遭遇耻辱性失败两个月后，波斯湾和霍尔木兹海峡正在翻开新的篇章。",
-          "url": "https://flash.jin10.com/detail/20260603151034335800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "01时54分"
         }
       ]
     }
