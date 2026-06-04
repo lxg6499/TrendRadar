@@ -1,40 +1,23 @@
 {
-  "generated_at": "2026-06-04T01:54:43.633971+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-04T10:15:49.932074+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "鲁比奥重申：美对伊军事行动已结束",
-          "url": "https://news.ifeng.com/c/8tfMZYWtV0J",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "鲁比奥重申美对伊军事行动已结束",
-          "url": "https://wallstreetcn.com/livenews/3113921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
         {
           "title": "如何看待 FIFA 发言人称与央视达成的世界杯及多项赛事协议金额创历史纪录？",
           "url": "https://www.zhihu.com/question/2045547417521624977",
@@ -51,7 +34,48 @@
           "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 10时15分]"
+        },
+        {
+          "title": "A股工业气体概念再度拉升，中船特气涨超15%，股价续创历史新高，华特气体、和远气体、三孚股份、广钢气体、凯美特气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鲁比奥重申：美对伊军事行动已结束",
+          "url": "https://news.ifeng.com/c/8tfMZYWtV0J",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 10时15分]"
+        },
+        {
+          "title": "鲁比奥重申美对伊军事行动已结束",
+          "url": "https://wallstreetcn.com/livenews/3113921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
