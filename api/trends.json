@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T18:39:05.798277+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-06-05T21:47:09.380997+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,24 @@
           "url": "https://news.ifeng.com/c/8ti70RXUlbb",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 21时47分]"
+        },
+        {
+          "title": "挪威附近发现 18 世纪沉船，载有中国瓷器等珍贵文物，对历史研究有哪些价值？",
+          "url": "https://www.zhihu.com/question/2045185863961802064",
+          "source": "知乎",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 21时47分]"
         },
         {
           "title": "A股玻璃基板概念反复活跃，沃格光电逼近涨停，再创历史新高，戈碧迦、凯盛科技、三峡新材、五方光电、彩虹股份涨幅靠前。",
@@ -41,37 +54,28 @@
           "time_info": "10时00分"
         },
         {
-          "title": "挪威附近发现 18 世纪沉船，载有中国瓷器等珍贵文物，对历史研究有哪些价值？",
-          "url": "https://www.zhihu.com/question/2045185863961802064",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 18时39分]"
-        },
-        {
           "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
           "url": "https://wallstreetcn.com/articles/3773916",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 21时47分]"
         },
         {
           "title": "北证历史第二赚新股！单签盈利规模超2万，这些新秀也成“大肉签”",
           "url": "https://www.cls.cn/detail/2391990",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 21时47分]"
         },
         {
           "title": "日本财务省官员：5月份外汇储备的降幅创下自2000年有数据可查以来的历史最大纪录。",
@@ -97,7 +101,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
