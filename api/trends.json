@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T10:00:17.856929+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-06-05T14:20:13.055318+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 14时20分]"
         },
         {
           "title": "A股玻璃基板概念反复活跃，沃格光电逼近涨停，再创历史新高，戈碧迦、凯盛科技、三峡新材、五方光电、彩虹股份涨幅靠前。",
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "挪威附近发现 18 世纪沉船，载有中国瓷器等珍贵文物，对历史研究有哪些价值？",
+          "url": "https://www.zhihu.com/question/2045185863961802064",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "日本财务省官员：5月份外汇储备的降幅创下自2000年有数据可查以来的历史最大纪录。",
@@ -36,7 +47,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         }
