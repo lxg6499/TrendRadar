@@ -1,22 +1,106 @@
 {
-  "generated_at": "2026-06-08T10:10:23.089535+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-08T15:19:46.303579+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 1,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "高考历史结束 考生直呼题目太创新",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E7%BB%93%E6%9D%9F+%E8%80%83%E7%94%9F%E7%9B%B4%E5%91%BC%E9%A2%98%E7%9B%AE%E5%A4%AA%E5%88%9B%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
         {
           "title": "高考历史",
           "url": "https://www.douyin.com/hot/2526768",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 15时19分]"
+        },
+        {
+          "title": "高考历史考试出现新题型",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E8%80%83%E8%AF%95%E5%87%BA%E7%8E%B0%E6%96%B0%E9%A2%98%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "高考历史",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "盲人摸象登上高考历史大题",
+          "url": "https://www.toutiao.com/trending/7647893809128541759/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "如何评价 2026 各地高考历史题，难度怎么样？",
+          "url": "https://www.zhihu.com/question/2047254423580012881",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "如何评价2026高考历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72026%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克民兵武装称将参与针对以色列的军事行动",
+          "url": "https://wallstreetcn.com/livenews/3115922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
