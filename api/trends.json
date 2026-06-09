@@ -1,84 +1,11 @@
 {
-  "generated_at": "2026-06-09T19:50:32.158912+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-06-09T22:12:24.456214+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "军事",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 16时54分]"
-        },
-        {
-          "title": "李在明谈“日韩军事合作”：伤痛记忆犹新，日方应诚心说句对不起",
-          "url": "https://news.ifeng.com/c/8toPy3BE7F7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "伊朗宣布停止对以色列的军事行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伊朗宣布停止对以色列的军事行动",
-          "url": "https://www.toutiao.com/trending/7648982898397154858/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "蔚来：关注到美国国防部将本公司列入其“中国军事企业”名单，公司相信被列入该名单缺乏正当依据",
-          "url": "https://wallstreetcn.com/livenews/3116533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "伊朗打击以色列两处军事基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股PCB概念股延续强势，金安国纪2连板，股价续创历史新高，瑞华泰、同宇新材涨超10%，美联新材、东材科技、华正新材涨超6%。",
@@ -145,12 +72,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "Nuvalent(NUVL.O)开盘涨39%，创下盘中历史新高。",
+          "url": "https://flash.jin10.com/detail/20260609213254935800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
     {
       "keyword_group": "ios",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
@@ -187,6 +125,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "iOS 27 迎来中国区功能更新，支持节假日调休闹钟，你觉得有哪些功能好用？还有哪些你期望更新的功能？",
+          "url": "https://www.zhihu.com/question/2047582801570915436",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "iOS27适配机型公布",
           "url": "https://s.weibo.com/weibo?q=%23iOS27%E9%80%82%E9%85%8D%E6%9C%BA%E5%9E%8B%E5%85%AC%E5%B8%83%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -204,7 +153,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -214,6 +163,79 @@
           "source": "微博",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 16时54分]"
+        },
+        {
+          "title": "李在明谈“日韩军事合作”：伤痛记忆犹新，日方应诚心说句对不起",
+          "url": "https://news.ifeng.com/c/8toPy3BE7F7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.toutiao.com/trending/7648982898397154858/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "蔚来：关注到美国国防部将本公司列入其“中国军事企业”名单，公司相信被列入该名单缺乏正当依据",
+          "url": "https://wallstreetcn.com/livenews/3116533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "伊朗打击以色列两处军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
