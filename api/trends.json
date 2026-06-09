@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-09T09:48:24.446848+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-09T13:56:39.253995+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
           "url": "https://wallstreetcn.com/articles/3774115",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 13时56分]"
+        },
+        {
+          "title": "李在明谈“日韩军事合作”：伤痛记忆犹新，日方应诚心说句对不起",
+          "url": "https://news.ifeng.com/c/8toPy3BE7F7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "伊朗宣布停止对以色列的军事行动",
@@ -41,13 +53,24 @@
           "time_info": "00时41分"
         },
         {
+          "title": "蔚来：关注到美国国防部将本公司列入其“中国军事企业”名单，公司相信被列入该名单缺乏正当依据",
+          "url": "https://wallstreetcn.com/livenews/3116533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "伊朗打击以色列两处军事基地",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -55,7 +78,7 @@
     },
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股PCB概念股延续强势，金安国纪2连板，股价续创历史新高，瑞华泰、同宇新材涨超10%，美联新材、东材科技、华正新材涨超6%。",
@@ -64,7 +87,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -91,6 +114,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "以现在的视角来看，软件开源是不是程序员历史最大的错误？",
+          "url": "https://www.zhihu.com/question/2031721033317790811",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "高考历史全国卷：创新考查方式",
           "url": "https://www.toutiao.com/trending/7648845205664579593/",
           "source": "今日头条",
@@ -105,7 +139,7 @@
     },
     {
       "keyword_group": "ios",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
@@ -123,11 +157,12 @@
           "url": "https://search.bilibili.com/all?keyword=iOS27%E5%9B%BD%E8%A1%8C%E7%89%88%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时56分]"
         },
         {
           "title": "iOS27 节假日闹钟上线",
@@ -136,9 +171,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "iOS27适配机型公布",
+          "url": "https://s.weibo.com/weibo?q=%23iOS27%E9%80%82%E9%85%8D%E6%9C%BA%E5%9E%8B%E5%85%AC%E5%B8%83%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "iOS27升级汇总",
@@ -147,7 +193,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
