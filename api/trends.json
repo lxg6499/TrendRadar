@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-09T00:41:58.183203+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-09T09:48:24.446848+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "伊朗宣布停止对以色列的军事行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
           "url": "https://wallstreetcn.com/articles/3774115",
           "source": "华尔街见闻",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 09时48分]"
+        },
+        {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -39,13 +39,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "伊朗打击以色列两处军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "A股PCB概念股延续强势，金安国纪2连板，股价续创历史新高，瑞华泰、同宇新材涨超10%，美联新材、东材科技、华正新材涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3116447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
         {
           "title": "如何评价2026高考历史",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72026%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2",
@@ -54,8 +76,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 09时48分]"
         },
         {
           "title": "如何评价 2026 各地高考历史题，难度怎么样？",
@@ -83,7 +105,7 @@
     },
     {
       "keyword_group": "ios",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
@@ -95,6 +117,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "iOS27国行版更新了什么",
+          "url": "https://search.bilibili.com/all?keyword=iOS27%E5%9B%BD%E8%A1%8C%E7%89%88%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "iOS27 节假日闹钟上线",
+          "url": "https://search.bilibili.com/all?keyword=iOS27%20%E8%8A%82%E5%81%87%E6%97%A5%E9%97%B9%E9%92%9F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "iOS27升级汇总",
+          "url": "https://s.weibo.com/weibo?q=%23iOS27%E5%8D%87%E7%BA%A7%E6%B1%87%E6%80%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     }
