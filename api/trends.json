@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T18:45:53.552232+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-06-10T22:13:43.157179+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "保加利亚总理宣布停止对乌军事援助",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "阿里、百度、蔚来、药明康德被美国防部列为中国军事企业，如何解读美方此举意图？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2047674064383079776",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "中方回应日方抹黑中国正常军事活动",
@@ -25,7 +36,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
