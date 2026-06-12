@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T15:09:58.019164+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-06-12T19:32:35.870218+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.cls.cn/detail/2397956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 19时32分]"
+        },
+        {
+          "title": "每天花100万美元够花2700年！今夜，人类历史上首位万亿富豪将诞生？",
+          "url": "https://www.cls.cn/detail/2398034",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 19时32分]"
         },
         {
           "title": "美加墨世界杯是梅西、 C 罗提升历史地位的最后机会吗？",
@@ -47,18 +60,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "每天花100万美元够花2700年！今夜，人类历史上首位万亿富豪将诞生？",
-          "url": "https://www.cls.cn/detail/2398034",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -80,7 +82,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -106,11 +108,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355102&amp;topic_name=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%95%B0%E6%8D%AE%E8%A2%AB%E6%8C%87%E7%94%A8%E4%BA%8E%E5%86%9B%E4%BA%8B",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 19时32分]"
         }
       ]
     },
