@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T19:32:35.870218+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-06-12T22:26:13.465723+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一文读懂“SpaceX首秀”：今晚投资者将如何见证历史？",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 15时09分]"
+        },
+        {
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "A股PCB概念股继续走强，金安国纪5天4板，股价续创历史新高，联瑞新材、美联新材、正业科技、天准科技涨超10%。",
@@ -112,8 +123,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 22时26分]"
         }
       ]
     },
