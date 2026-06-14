@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T10:09:00.847349+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T15:11:14.775510+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 15时11分]"
         },
         {
           "title": "宝可梦数据被指用于军事",
@@ -36,9 +37,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩洛哥派11位非本国出生球员创历史",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%E6%B4%BE11%E4%BD%8D%E9%9D%9E%E6%9C%AC%E5%9B%BD%E5%87%BA%E7%94%9F%E7%90%83%E5%91%98%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
         }
       ]
     }
