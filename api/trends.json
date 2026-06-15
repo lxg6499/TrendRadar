@@ -1,140 +1,44 @@
 {
-  "generated_at": "2026-06-14T23:02:36.864775+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-06-15T10:13:54.703262+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时08分 ~ 23时02分]"
-        },
         {
           "title": "周末要闻汇总：商务部回应美将部分中企列入“中国军事企业清单”；我国成功研制出三维多层片上电容",
           "url": "https://www.cls.cn/detail/2399208",
           "source": "财联社热门",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 23时02分]"
-        },
-        {
-          "title": "宝可梦数据被指用于军事",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355102&amp;topic_name=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%95%B0%E6%8D%AE%E8%A2%AB%E6%8C%87%E7%94%A8%E4%BA%8E%E5%86%9B%E4%BA%8B",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "黎巴嫩外交部：我们已向安理会提交申诉，控告以色列袭击黎军军事机制并导致军人殉职。",
-          "url": "https://flash.jin10.com/detail/20260614175504248800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时41分"
+          "time_info": "10时13分"
         },
         {
-          "title": "以军称将继续深化在黎军事行动",
-          "url": "https://wallstreetcn.com/livenews/3119250",
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "特朗普称若美伊未达成核协议将重启军事打击",
+          "url": "https://wallstreetcn.com/livenews/3119346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "大量日本民众抗议高市早苗政府军事扩张政策",
-          "url": "https://flash.jin10.com/detail/20260614195344098800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "以色列官员：我们已要求华盛顿不要限制我们在黎巴嫩的军事行动。",
-          "url": "https://flash.jin10.com/detail/20260614173534810800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "以军继续在黎巴嫩南部展开密集军事行动",
-          "url": "https://flash.jin10.com/detail/20260614043258600800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "摩洛哥派11位非本国出生球员创历史",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%B4%9B%E5%93%A5%E6%B4%BE11%E4%BD%8D%E9%9D%9E%E6%9C%AC%E5%9B%BD%E5%87%BA%E7%94%9F%E7%90%83%E5%91%98%E5%88%9B%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 18时41分]"
-        },
-        {
-          "title": "一个合格的历史本科生，阅读量应该是多少？",
-          "url": "https://www.zhihu.com/question/2037845554751870123",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "头条世界杯｜卡塔尔拿下历史首分，欧洲球队的面子挂不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376378",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "10时13分"
         }
       ]
     },
@@ -143,15 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据AXIOS网站记者：以色列和美国官员表示，以军在空袭黎巴嫩贝鲁特前不久已通知了美国中央司令部。",
-          "url": "https://flash.jin10.com/detail/20260614201934009800",
-          "source": "金十数据",
+          "title": "iOS27液态玻璃改了什么",
+          "url": "https://search.bilibili.com/all?keyword=iOS27%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E6%94%B9%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "10时13分"
         }
       ]
     }
