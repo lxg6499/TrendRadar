@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T16:17:11.810377+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-06-17T20:43:25.327120+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 20时43分]"
+        },
+        {
+          "title": "梅西帽子戏法,登顶历史射手榜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355225&amp;topic_name=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%2C%E7%99%BB%E9%A1%B6%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E6%A6%9C",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 20时43分]"
         },
         {
           "title": "美加墨世界杯的五个历史之最",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "梅西帽子戏法,登顶历史射手榜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355225&amp;topic_name=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%2C%E7%99%BB%E9%A1%B6%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E6%A6%9C",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "梅西上演帽子戏法，个人世界杯进球达到 16 个并列历史射手榜首位，怎样评价他的表现？梅西的上限在哪里？",
