@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T09:55:45.102520+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-23T13:56:15.691552+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -15,41 +15,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时56分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
           "url": "https://www.cls.cn/detail/2406186",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时56分]"
         },
         {
           "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
           "url": "https://wallstreetcn.com/articles/3775154",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时56分]"
         },
         {
           "title": "在佛得角与球迷见证历史",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%8E%E7%90%83%E8%BF%B7%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时56分]"
+        },
+        {
+          "title": "姆巴佩成世界杯历史射手榜第二位",
+          "url": "https://www.douyin.com/hot/2544231",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "上古神话里有没有实际上是真实历史的？",
@@ -72,6 +86,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "距军事分界线仅80多米，韩国防部：朝军设障碍物违反停战协定",
+          "url": "https://news.ifeng.com/c/8uBdxAlyev5",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
         }
       ]
     }
