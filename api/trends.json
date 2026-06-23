@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T13:56:15.691552+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-23T16:52:12.977151+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 16时52分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 16时52分]"
         },
         {
           "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
@@ -36,11 +36,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 16时52分]"
+        },
+        {
+          "title": "姆巴佩成世界杯历史射手榜第二位",
+          "url": "https://www.douyin.com/hot/2544231",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时52分]"
         },
         {
           "title": "在佛得角与球迷见证历史",
@@ -55,15 +68,26 @@
           "time_info": "[09时55分 ~ 13时56分]"
         },
         {
-          "title": "姆巴佩成世界杯历史射手榜第二位",
-          "url": "https://www.douyin.com/hot/2544231",
-          "source": "抖音",
+          "title": "姆巴佩打进世界杯第 16 球，追平克洛泽并列历史射手榜第 2，怎样评价他的表现？他能带领法国走多远？",
+          "url": "https://www.zhihu.com/question/2052664375802951188",
+          "source": "知乎",
           "ranks": [
-            16
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
+          "title": "精彩定格｜诸神先别黄昏了！38岁梅西18球登顶世界杯历史射手榜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33433607",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "上古神话里有没有实际上是真实历史的？",
