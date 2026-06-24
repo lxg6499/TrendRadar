@@ -1,130 +1,55 @@
 {
-  "generated_at": "2026-06-24T21:57:21.733893+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-06-25T00:07:48.326502+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "超越2021年茅台巅峰！“新股王”股价再创历史新高，2个月已完成30倍跃升",
+          "url": "https://www.cls.cn/detail/2408055",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
         {
           "title": "六届世界杯进球,C罗再创历史",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355596&amp;topic_name=%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%2CC%E7%BD%97%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2",
           "source": "贴吧",
           "ranks": [
-            1,
-            2,
-            3,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 21时57分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         },
         {
           "title": "国gal魔改历史,王安石成奸臣",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355598&amp;topic_name=%E5%9B%BDgal%E9%AD%94%E6%94%B9%E5%8E%86%E5%8F%B2%2C%E7%8E%8B%E5%AE%89%E7%9F%B3%E6%88%90%E5%A5%B8%E8%87%A3",
           "source": "贴吧",
           "ranks": [
-            4,
-            5,
-            7,
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 21时57分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         },
         {
-          "title": "超越2021年茅台巅峰！“新股王”股价再创历史新高，2个月已完成30倍跃升",
-          "url": "https://www.cls.cn/detail/2408055",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时57分]"
-        },
-        {
-          "title": "C罗创历史+双响！葡萄牙5-0狂胜",
-          "url": "https://www.toutiao.com/trending/7654232976662396938/",
-          "source": "今日头条",
+          "title": "加拿大第一季度汽油消费量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260624232532666800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "科创50指数涨超2%，华虹宏力涨超9%，股价续创历史新高，中芯国际涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3123749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国会两院历史性通过撤军决议，特朗普对伊军事政策遭遇强力制衡",
-          "url": "https://flash.jin10.com/detail/20260624093242995800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "路透社获得的文件显示，欧盟外交服务机构提出三年军事和民事任务，旨在为黎巴嫩军队提供建议和培训。欧盟可能在黎巴嫩开展的任务将侧重于加强陆地边境部队、提升情报和监视能力，以及强化海上安全能力。",
-          "url": "https://flash.jin10.com/detail/20260624185727015800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "普京谴责西方炒作俄罗斯军事威胁",
-          "url": "https://flash.jin10.com/detail/20260624130155310800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全国政协十四届常委会第十七次会议举行全体会议 围绕“坚持高质量发展，推动经济持续健康发展和社会全面进步”进行大会发言 王沪宁出席",
-          "url": "https://wallstreetcn.com/livenews/3123970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "00时07分"
         }
       ]
     }
