@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T13:54:30.193300+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-06-24T16:47:44.054852+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 16时47分]"
         },
         {
           "title": "国gal魔改历史,王安石成奸臣",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 16时47分]"
         },
         {
           "title": "C罗创历史+双响！葡萄牙5-0狂胜",
@@ -49,7 +51,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -77,7 +79,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
