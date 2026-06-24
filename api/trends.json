@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T19:35:47.303741+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-06-24T21:57:21.733893+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 21时57分]"
         },
         {
           "title": "国gal魔改历史,王安石成奸臣",
@@ -28,11 +29,24 @@
             4,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 21时57分]"
+        },
+        {
+          "title": "超越2021年茅台巅峰！“新股王”股价再创历史新高，2个月已完成30倍跃升",
+          "url": "https://www.cls.cn/detail/2408055",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时57分]"
         },
         {
           "title": "C罗创历史+双响！葡萄牙5-0狂胜",
@@ -44,17 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "超越2021年茅台巅峰！“新股王”股价再创历史新高，2个月已完成30倍跃升",
-          "url": "https://www.cls.cn/detail/2408055",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "科创50指数涨超2%，华虹宏力涨超9%，股价续创历史新高，中芯国际涨超6%。",
@@ -91,7 +94,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -119,7 +122,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
