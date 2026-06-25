@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-25T19:32:00.015688+08:00",
-  "total_titles_processed": 1095,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-06-25T21:54:02.337501+08:00",
+  "total_titles_processed": 1250,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
@@ -21,8 +19,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 21时54分]"
         },
         {
           "title": "国gal魔改历史,王安石成奸臣",
@@ -36,8 +34,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 21时54分]"
         },
         {
           "title": "河南 2026 高考分数线公布，历史 459 分，物理 419 分，600 分以上 37544 人，如何看待今年分数线？",
@@ -45,11 +43,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 21时54分]"
         },
         {
           "title": "人工智能热潮有望推动泰国今年出口额创历史新高",
@@ -85,6 +84,51 @@
           "time_info": "09时56分"
         },
         {
+          "title": "河北 2026 高考分数线公布，本科历史 485 分，物理 443 分，如何看待河北高考分数线？",
+          "url": "https://www.zhihu.com/question/2053125913840022462",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 21时54分]"
+        },
+        {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 21时54分]"
+        },
+        {
+          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
+          "url": "https://www.cls.cn/detail/2409229",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 21时54分]"
+        },
+        {
+          "title": "首次突破1.2万亿！电子板块成交额创历史新高，哪些股已成“百亿常客”？",
+          "url": "https://www.cls.cn/detail/2409166",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 21时54分]"
+        },
+        {
           "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
           "url": "https://www.zhihu.com/question/2050234299232641923",
           "source": "知乎",
@@ -95,50 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 13时56分]"
-        },
-        {
-          "title": "河北 2026 高考分数线公布，本科历史 485 分，物理 443 分，如何看待河北高考分数线？",
-          "url": "https://www.zhihu.com/question/2053125913840022462",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 19时31分]"
-        },
-        {
-          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3775467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
-        },
-        {
-          "title": "首次突破1.2万亿！电子板块成交额创历史新高，哪些股已成“百亿常客”？",
-          "url": "https://www.cls.cn/detail/2409166",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
-          "url": "https://www.cls.cn/detail/2409229",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
         },
         {
           "title": "A股存储芯片概念持续走强，北京君正20cm涨停，股价创历史新高，此前中微半导、太极实业涨停，佰维存储、华新科技涨超10%。",
@@ -187,11 +187,12 @@
             24,
             20,
             23,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 21时54分]"
         }
       ]
     }
