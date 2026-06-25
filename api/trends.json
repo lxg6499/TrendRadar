@@ -1,98 +1,33 @@
 {
-  "generated_at": "2026-06-25T21:54:02.337501+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-06-26T00:12:29.535747+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 14,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "六届世界杯进球,C罗再创历史",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355596&amp;topic_name=%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%2CC%E7%BD%97%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            14,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 21时54分]"
-        },
-        {
-          "title": "国gal魔改历史,王安石成奸臣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355598&amp;topic_name=%E5%9B%BDgal%E9%AD%94%E6%94%B9%E5%8E%86%E5%8F%B2%2C%E7%8E%8B%E5%AE%89%E7%9F%B3%E6%88%90%E5%A5%B8%E8%87%A3",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            13,
-            17,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 21时54分]"
-        },
         {
           "title": "河南 2026 高考分数线公布，历史 459 分，物理 419 分，600 分以上 37544 人，如何看待今年分数线？",
           "url": "https://www.zhihu.com/question/2053210118947169394",
           "source": "知乎",
           "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 21时54分]"
-        },
-        {
-          "title": "人工智能热潮有望推动泰国今年出口额创历史新高",
-          "url": "https://flash.jin10.com/detail/20260625132539964800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时12分"
         },
         {
-          "title": "超越2021年茅台巅峰！“新股王”股价再创历史新高，2个月已完成30倍跃升",
-          "url": "https://www.cls.cn/detail/2408055",
+          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
+          "url": "https://www.cls.cn/detail/2409229",
           "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "A股先进封装概念震荡走强，长电科技4天3板，续创历史新高，盛剑科技、国林科技、芯源微、中科飞测跟涨。",
-          "url": "https://flash.jin10.com/detail/20260625094219250800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "河北 2026 高考分数线公布，本科历史 485 分，物理 443 分，如何看待河北高考分数线？",
-          "url": "https://www.zhihu.com/question/2053125913840022462",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 21时54分]"
+          "time_info": "00时12分"
         },
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -102,20 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 21时54分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
-          "url": "https://www.cls.cn/detail/2409229",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 21时54分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "首次突破1.2万亿！电子板块成交额创历史新高，哪些股已成“百亿常客”？",
@@ -125,74 +48,86 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 21时54分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
-          "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
-          "url": "https://www.zhihu.com/question/2050234299232641923",
+          "title": "《英雄联盟》电竞历史上最经典和最灾难的解说名场面都是哪一场？",
+          "url": "https://www.zhihu.com/question/2052346552312488607",
           "source": "知乎",
           "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 13时56分]"
-        },
-        {
-          "title": "A股存储芯片概念持续走强，北京君正20cm涨停，股价创历史新高，此前中微半导、太极实业涨停，佰维存储、华新科技涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3124455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时12分"
         },
         {
-          "title": "加拿大第一季度汽油消费量创历史新高",
-          "url": "https://flash.jin10.com/detail/20260624232532666800",
-          "source": "金十数据",
+          "title": "六届世界杯进球,C罗再创历史",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355596&amp;topic_name=%E5%85%AD%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%2CC%E7%BD%97%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "贴吧",
           "ranks": [
-            11
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "00时12分"
         },
         {
-          "title": "存储芯片板块延续涨势，太极实业2连板，股价续创历史新高，汇成股份涨超10%，雅克科技、佰维存储、江波龙、长电科技、深科技、聚辰股份涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3124348",
-          "source": "华尔街见闻-快讯",
+          "title": "国gal魔改历史,王安石成奸臣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355598&amp;topic_name=%E5%9B%BDgal%E9%AD%94%E6%94%B9%E5%8E%86%E5%8F%B2%2C%E7%8E%8B%E5%AE%89%E7%9F%B3%E6%88%90%E5%A5%B8%E8%87%A3",
+          "source": "贴吧",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
+          "url": "https://flash.jin10.com/detail/20260625233908276800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
         {
           "title": "十五大军事成果盘点",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E5%A4%A7%E5%86%9B%E4%BA%8B%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
-            20,
-            23,
-            12,
-            5
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 21时54分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
+          "url": "https://flash.jin10.com/detail/20260626000257368800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     }
