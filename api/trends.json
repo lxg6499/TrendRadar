@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T16:21:13.094932+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-06-27T18:50:30.087920+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "男生立誓刷新学校历史 查分成功如愿",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时42分 ~ 16时21分]"
+        },
+        {
+          "title": "伊朗队自认已创造历史",
+          "url": "https://www.toutiao.com/trending/7655820057267814442/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "初步数据显示德国气温创历史最高纪录",
@@ -67,7 +78,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "古巴声明：这不是放弃社会主义",
@@ -77,8 +88,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 18时50分]"
+        },
+        {
+          "title": "中央社会工作部副部长贺志亮被查",
+          "url": "https://wallstreetcn.com/livenews/3125584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "中央社会工作部副部长贺志亮涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+          "url": "https://flash.jin10.com/detail/20260627180723740800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "丁薛祥在新疆调研时强调 突出优势特色培育壮大新动能 加快推进经济社会高质量发展",
@@ -105,8 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 18时50分]"
         }
       ]
     }
