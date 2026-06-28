@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T14:48:22.427151+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-28T17:49:49.555092+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33468303",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 17时49分]"
         },
         {
           "title": "全国律协：坚决拥护中国共产党领导、拥护我国社会主义法治，努力做党和人民满意的好律师",
           "url": "https://m.thepaper.cn/newsDetail_forward_33469598",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 17时49分]"
         },
         {
           "title": "热浪炙烤法国 高温冲击社会运行",
@@ -36,7 +38,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
@@ -52,11 +54,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 17时49分]"
         },
         {
           "title": "五角大楼“中国军事企业清单”达188家，专家称是滥杀无辜",
@@ -103,11 +106,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 17时49分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台称，伊朗西南部锡里克地区传出爆炸声，爆炸与多枚炮弹击中一座通信塔有关。美媒AXIOS网站称，美国对伊朗实施空袭。",
