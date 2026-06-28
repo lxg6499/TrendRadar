@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:49:49.555092+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-06-28T19:29:32.094002+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中央社会工作部副部长贺志亮，任上被查",
@@ -25,11 +25,23 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时29分]"
+        },
+        {
+          "title": "中国社会科学院原常务副院长、厦门大学党委原书记王洛林逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470539",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "热浪炙烤法国 高温冲击社会运行",
@@ -46,7 +58,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美军称打击10个伊朗军事目标",
@@ -71,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 14时48分]"
+        },
+        {
+          "title": "据阿曼通讯社：阿曼谴责今天凌晨对科威特领土发动的军事袭击。",
+          "url": "https://flash.jin10.com/detail/20260628173605809800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美国再对伊朗实施军事打击",
@@ -107,11 +130,12 @@
           "ranks": [
             2,
             15,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时29分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台称，伊朗西南部锡里克地区传出爆炸声，爆炸与多枚炮弹击中一座通信塔有关。美媒AXIOS网站称，美国对伊朗实施空袭。",
