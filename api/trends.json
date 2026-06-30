@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T14:03:01.029461+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-06-30T18:21:33.593454+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "头条世界杯｜‍️加拿大迎来历史性一天，洪明甫辞职谢罪",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -50,6 +50,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近3%，全市场超270股涨超10%，3200亿玻璃基板龙头创历史天量",
+          "url": "https://www.cls.cn/detail/2413064",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "欧洲斯托克600指数创历史新高，日内涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3126676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "佛得角世界杯小组赛三连平小组第二直接出线，历史上有类似的案例吗，对阵阿根廷有胜算吗？",
+          "url": "https://www.zhihu.com/question/2054159485770232792",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "6月全国各地经济社会发展观察",
+          "url": "https://www.toutiao.com/trending/7656756941809270794/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
