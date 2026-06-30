@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T20:59:09.354748+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-06-30T23:24:27.359557+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 23时24分]"
         },
         {
           "title": "佛得角世界杯小组赛三连平小组第二直接出线，历史上有类似的案例吗，对阵阿根廷有胜算吗？",
@@ -58,11 +59,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 23时24分]"
         },
         {
           "title": "日本世界杯淘汰赛历史0胜",
@@ -100,8 +102,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时24分]"
         },
         {
           "title": "以防长称美方施压迫使以军改变对黎真主党军事策略",
