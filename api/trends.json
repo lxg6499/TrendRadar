@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T15:02:48.143214+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-07-01T18:40:23.184089+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金逼近“死亡交叉”，算法抛压或将触发，但历史显示未必是坏信号",
@@ -29,6 +29,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 15时02分]"
+        },
+        {
+          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
+          "url": "https://www.cls.cn/detail/2414312",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我国全社会用电量迈上新里程碑",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%85%A8%E7%A4%BE%E4%BC%9A%E7%94%A8%E7%94%B5%E9%87%8F%E8%BF%88%E4%B8%8A%E6%96%B0%E9%87%8C%E7%A8%8B%E7%A2%91%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     },
