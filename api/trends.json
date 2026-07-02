@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-02T09:56:40.343574+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-07-02T13:46:06.488183+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国台办：民进党当局沦为民族败类，必遭历史清算",
+          "url": "https://news.ifeng.com/c/8uQZahaYFCP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
+        },
         {
           "title": "欧洲STOXX 600指数初步收跌0.52%，报638.42点，脱离收盘历史最高位。 欧元区STOXX 50指数初步收跌0.86%，报6272.94点。 富时泛欧绩优300指数初步收跌0.61%，报2556.07点。",
           "url": "https://wallstreetcn.com/livenews/3127520",
