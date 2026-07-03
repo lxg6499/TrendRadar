@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T21:25:40.014837+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-03T23:45:55.883305+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -21,16 +21,30 @@
           "time_info": "[13时38分 ~ 21时25分]"
         },
         {
+          "title": "2026 MSI 淘汰赛 G2 让二追三击败 TES 创造赛事历史，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056378622684967724",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时45分]"
+        },
+        {
           "title": "G2说我们会创造新的历史",
           "url": "https://search.bilibili.com/all?keyword=G2%20%E6%88%91%E4%BB%AC%E4%BC%9A%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时45分]"
         },
         {
           "title": "MSI历史首个让二追三",
@@ -38,23 +52,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 21时25分]"
-        },
-        {
-          "title": "2026 MSI 淘汰赛 G2 让二追三击败 TES 创造赛事历史，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2056378622684967724",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时45分]"
         },
         {
           "title": "C罗和莫德里奇创世界杯历史",
@@ -91,7 +94,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -119,7 +122,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
