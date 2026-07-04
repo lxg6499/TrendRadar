@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T21:13:13.391953+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-07-04T22:55:46.119447+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "首家公布半年净利200亿券商！创历史新高，国泰海通合并效能大举提升",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 21时13分]"
+          "appearance_count": 10,
+          "time_info": "[13时31分 ~ 22时55分]"
         },
         {
           "title": "人民日报：佛得角已经创造了历史",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时25分 ~ 16时16分]"
+        },
+        {
+          "title": "佛得角队的世界杯：虽败犹荣，“蓝鲨” 写下世界杯历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517808",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "阿根廷又创造历史",
