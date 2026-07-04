@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T18:46:05.279553+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-04T19:59:23.907532+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "首家公布半年净利200亿券商！创历史新高，国泰海通合并效能大举提升",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时31分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 19时59分]"
         },
         {
           "title": "人民日报：佛得角已经创造了历史",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时31分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 19时59分]"
         },
         {
           "title": "G2说我们会创造新的历史",
@@ -57,6 +58,18 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
+          "title": "广州白云国际机场口岸外籍客流占比突破四成创历史新高",
+          "url": "https://flash.jin10.com/detail/20260704155450294800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时59分]"
+        },
+        {
           "title": "萨拉赫勺子点球舀起埃及足球新历史",
           "url": "https://www.toutiao.com/trending/7658427347514691099/",
           "source": "今日头条",
@@ -79,15 +92,15 @@
           "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "广州白云国际机场口岸外籍客流占比突破四成创历史新高",
-          "url": "https://flash.jin10.com/detail/20260704155450294800",
-          "source": "金十数据",
+          "title": "历史常识有哪些？",
+          "url": "https://www.zhihu.com/question/266729905",
+          "source": "知乎",
           "ranks": [
-            21
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时59分"
         }
       ]
     },
@@ -106,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时16分 ~ 18时46分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰军方袭击了圣彼得堡附近的石油和军事设施。",
+          "url": "https://flash.jin10.com/detail/20260704155527633800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时59分]"
         },
         {
           "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
@@ -128,17 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰军方袭击了圣彼得堡附近的石油和军事设施。",
-          "url": "https://flash.jin10.com/detail/20260704155527633800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
