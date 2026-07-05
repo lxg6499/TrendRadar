@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T20:07:06.081411+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-07-05T22:23:02.738339+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "佛得角队的世界杯：虽败犹荣，“蓝鲨” 写下世界杯历史",
@@ -20,6 +20,34 @@
           "time_info": "[09时31分 ~ 18时55分]"
         },
         {
+          "title": "创非洲历史,摩洛哥轻取加拿大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355901&amp;topic_name=%E5%88%9B%E9%9D%9E%E6%B4%B2%E5%8E%86%E5%8F%B2%2C%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BD%BB%E5%8F%96%E5%8A%A0%E6%8B%BF%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            11,
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 22时23分]"
+        },
+        {
+          "title": "首家公布半年净利200亿券商！创历史新高，国泰海通合并效能大举提升",
+          "url": "https://www.cls.cn/detail/2417049",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 22时23分]"
+        },
+        {
           "title": "他们于无声处创造历史",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E4%BA%8E%E6%97%A0%E5%A3%B0%E5%A4%84%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -31,31 +59,15 @@
           "time_info": "[16时34分 ~ 20时07分]"
         },
         {
-          "title": "创非洲历史,摩洛哥轻取加拿大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355901&amp;topic_name=%E5%88%9B%E9%9D%9E%E6%B4%B2%E5%8E%86%E5%8F%B2%2C%E6%91%A9%E6%B4%9B%E5%93%A5%E8%BD%BB%E5%8F%96%E5%8A%A0%E6%8B%BF%E5%A4%A7",
-          "source": "贴吧",
+          "title": "据AXIOS：以色列总理内塔尼亚胡今天一致决定不遵守最高法院的一项裁决。这是以色列历史上首次发生此类事件，在十月大选前夕急剧加剧了宪法危机。",
+          "url": "https://flash.jin10.com/detail/20260705212607643800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            9,
-            11,
-            14,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 20时07分]"
-        },
-        {
-          "title": "首家公布半年净利200亿券商！创历史新高，国泰海通合并效能大举提升",
-          "url": "https://www.cls.cn/detail/2417049",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 20时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "挑战和AI玩猜历史人物",
