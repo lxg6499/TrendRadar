@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:55:16.375262+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-07-05T20:07:06.081411+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 20时07分]"
         },
         {
           "title": "创非洲历史,摩洛哥轻取加拿大",
@@ -38,11 +38,12 @@
             7,
             9,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 20时07分]"
         },
         {
           "title": "首家公布半年净利200亿券商！创历史新高，国泰海通合并效能大举提升",
@@ -53,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 20时07分]"
         },
         {
           "title": "挑战和AI玩猜历史人物",
