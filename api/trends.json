@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T16:34:47.461322+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-07-05T18:55:16.375262+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时55分]"
         },
         {
           "title": "他们于无声处创造历史",
@@ -26,9 +26,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时55分]"
         },
         {
           "title": "创非洲历史,摩洛哥轻取加拿大",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时55分]"
         },
         {
           "title": "首家公布半年净利200亿券商！创历史新高，国泰海通合并效能大举提升",
@@ -52,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时55分]"
         },
         {
           "title": "挑战和AI玩猜历史人物",
@@ -62,7 +63,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
