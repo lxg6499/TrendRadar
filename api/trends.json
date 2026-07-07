@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T09:44:53.868279+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-07T13:55:18.392625+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
           "title": "存储芯片涨价潮持续！三星Q2营业利润飙升18倍 再创历史新高",
           "url": "https://www.cls.cn/detail/2418641",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时55分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时55分]"
         },
         {
           "title": "日本不断篡改歪曲历史危害地区和平",
