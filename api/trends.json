@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T00:10:42.807710+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-11T09:36:48.518212+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://www.cls.cn/detail/2422969",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 09时36分]"
         },
         {
           "title": "【焦点复盘】科创50跌5.53%创成交额历史天量，个股炸板率激增至五成，TMT产业链大面积降温",
           "url": "https://www.cls.cn/detail/2423004",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 09时36分]"
         },
         {
           "title": "美联储报告：股票、公司债和住宅房地产的资产估值均高于历史常态水平。",
@@ -65,26 +67,53 @@
       ]
     },
     {
-      "keyword_group": "社会",
-      "match_count": 1,
+      "keyword_group": "ios",
+      "match_count": 5,
       "titles": [
         {
-          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
-          "url": "https://www.cls.cn/detail/2423220",
-          "source": "财联社热门",
+          "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3132269",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
+          "time_info": "09时36分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普与沙特王储于周五就地区问题进行会谈，包括美伊谈判。",
+          "url": "https://flash.jin10.com/detail/20260711082355439800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
+          "url": "https://flash.jin10.com/detail/20260711054133389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260711052235362800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
         {
           "title": "纳斯达克生物科技指数一度跌超3%，成分股Kyverna Therapeutics目前跌12.45%，Prime Medicine跌12.29%，Regenxbio跌11.18%，Solid Biosciences跌10.28%，SIGA Tech则涨2.29%，Mesoblast涨3.81%，Aardvark Therapeutics涨4.20%，First Tracks Biotherapeutics涨16.42%。",
           "url": "https://wallstreetcn.com/livenews/3132151",
@@ -95,6 +124,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
+          "url": "https://www.cls.cn/detail/2423220",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 09时36分]"
+        },
+        {
+          "title": "稻城亚丁景区：将免收3个月门票，降低交通服务费、对社会车辆实施预约限流通行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33558643",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "以媒：以色列应美国要求限制在黎巴嫩军事行动",
+          "url": "https://wallstreetcn.com/livenews/3132263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "以媒：以色列应美国要求限制在黎巴嫩军事行动",
+          "url": "https://flash.jin10.com/detail/20260711053038499800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     }
