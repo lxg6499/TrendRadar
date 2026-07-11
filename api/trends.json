@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T20:43:54.810129+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-07-11T22:16:17.756756+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -140,7 +140,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "克里姆林宫：一方是俄罗斯，另一方是乌克兰以及多个欧洲国家和美国，它们向乌克兰提供了数百万吨武器。这已不再是一场特别军事行动，而是一场全面战争。",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时12分 ~ 18时49分]"
+        },
+        {
+          "title": "张辽为何没有成为曹魏军事集团的核心？",
+          "url": "https://www.zhihu.com/question/368391476",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "以媒：以色列应美国要求限制在黎巴嫩军事行动",
@@ -191,8 +202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 20时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 22时16分]"
         },
         {
           "title": "稻城亚丁景区：将免收3个月门票，降低交通服务费、对社会车辆实施预约限流通行",
