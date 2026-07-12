@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:02:30.380866+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-07-12T20:44:45.362031+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             18,
             9,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 20时44分]"
         },
         {
           "title": "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？",
