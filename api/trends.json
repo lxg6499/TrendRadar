@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T20:44:45.362031+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-12T22:21:08.421263+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？",
+          "url": "https://www.cls.cn/detail/2423687",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 22时21分]"
+        },
+        {
           "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
           "url": "https://www.zhihu.com/question/2059608160646555311",
           "source": "知乎",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时28分 ~ 20时44分]"
-        },
-        {
-          "title": "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？",
-          "url": "https://www.cls.cn/detail/2423687",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 19时02分]"
         }
       ]
     },
