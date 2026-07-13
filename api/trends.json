@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-07-12T22:21:08.421263+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-07-13T09:19:42.631917+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "ios",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据AXIOS：美国官员表示，伊朗革命卫队的导弹击中了霍尔木兹海峡的一艘商船。",
-          "url": "https://flash.jin10.com/detail/20260712090833097800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "据AXIOS：美国官员表示，对伊朗打击的目标包括火箭和无人机发射场，以及空中监视雷达和导弹存储地点。",
-          "url": "https://flash.jin10.com/detail/20260712090500513800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "据AXIOS：美国一名官员表示，伊朗革命卫队袭击的货船当时正行驶在阿曼提议的、本应不受限制通行的南部航道上。",
-          "url": "https://flash.jin10.com/detail/20260712082827793800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
     {
       "keyword_group": "历史",
       "match_count": 2,
@@ -51,43 +12,22 @@
           "url": "https://www.cls.cn/detail/2423687",
           "source": "财联社热门",
           "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 22时21分]"
-        },
-        {
-          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
-          "url": "https://www.zhihu.com/question/2059608160646555311",
-          "source": "知乎",
-          "ranks": [
-            18,
-            9,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 20时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国中央司令部：于7月11日完成了本周第三轮对伊朗的打击。美军动用陆基和舰载战斗机、无人机及海军舰艇，以精确弹药打击了约140个伊朗军事目标。目标包括伊朗导弹和无人机基地、海军能力、弹药储存设施、通信网络以及沿海监视地点。",
-          "url": "https://flash.jin10.com/detail/20260712113603119800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "09时19分"
+        },
+        {
+          "title": "今年上半年全国铁路发送旅客23.48亿人次，创历史同期新高",
+          "url": "https://wallstreetcn.com/livenews/3132490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     }
