@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-13T13:20:30.897249+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-07-13T16:38:50.697041+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
         {
           "title": "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？",
           "url": "https://www.cls.cn/detail/2423687",
