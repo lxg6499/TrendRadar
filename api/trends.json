@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-14T00:17:09.604191+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-14T09:09:10.773258+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "关羽军事那么菜，为什么曹魏一直解决不了他，还被打得要迁离许都？",
+          "url": "https://www.zhihu.com/question/2048485715491738315",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 1,
@@ -14,7 +31,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         }
@@ -31,7 +48,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         }
