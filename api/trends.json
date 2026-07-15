@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T15:05:20.208556+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-07-15T17:45:28.623852+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "4809万千瓦，湖南电网负荷创历史新高",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "2026 年秋冬季将形成超强厄尔尼诺事件，或将刷新历史极值，会对我国带来哪些具体影响？",
+          "url": "https://www.zhihu.com/question/2060163465281648558",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "深圳机场今年出入境外国人创历史同期新高",
@@ -42,7 +53,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         }
