@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T12:35:58.638861+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-07-15T15:05:20.208556+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国1至6月社会融资规模增量 208400亿人民币，前值 174800亿人民币。",
+          "url": "https://wallstreetcn.com/livenews/3134160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
@@ -59,7 +76,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
