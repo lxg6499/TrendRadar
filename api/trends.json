@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-07-16T21:08:57.875152+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-07-16T23:23:09.336285+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "世界杯冠军奖金5000万美元 历史最高",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时23分]"
         },
         {
           "title": "较历史峰值收窄四成！电子板块成交额重返6月中旬水平，融资客月内动向表现分化",
           "url": "https://www.cls.cn/detail/2428550",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 23时23分]"
+        },
+        {
+          "title": "美国全国房地产经纪人协会（NAR）首席经济学家劳伦斯·云（Lawrence Yun）博士表示：近一年来的最高抵押贷款利率，加上创下历史新高的全国房屋中位价，共同导致房地产市场表现疲软，这对首次购房者来说尤其困难。",
+          "url": "https://wallstreetcn.com/livenews/3135136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "江苏电网用电负荷刷新历史极值 苏州居全国地市之首",
