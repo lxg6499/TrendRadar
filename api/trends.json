@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-16T19:23:45.112963+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-07-16T21:08:57.875152+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "世界杯冠军奖金5000万美元 历史最高",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
         {
           "title": "较历史峰值收窄四成！电子板块成交额重返6月中旬水平，融资客月内动向表现分化",
           "url": "https://www.cls.cn/detail/2428550",
@@ -14,9 +25,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 21时08分]"
         },
         {
           "title": "江苏电网用电负荷刷新历史极值 苏州居全国地市之首",
