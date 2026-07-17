@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:33:11.225132+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-07-17T19:12:39.263449+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国总统特朗普：我们的投资规模创历史新高，股市表现也处于最佳状态。",
@@ -25,7 +25,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "国防部：菲搞政治作秀改变不了历史",
+          "url": "https://www.toutiao.com/trending/7663415373880148010/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         }
       ]
     },
