@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T12:34:57.188322+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-07-18T14:51:10.187674+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2061043024537150852",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 14时51分]"
         }
       ]
     },
@@ -35,6 +36,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 12时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学历史有什么用？",
+          "url": "https://www.zhihu.com/question/20338058",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         }
       ]
     }
