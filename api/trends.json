@@ -1,140 +1,22 @@
 {
-  "generated_at": "2026-07-17T22:22:23.736588+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-07-18T09:11:21.833662+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "历史",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国总统特朗普：我们的投资规模创历史新高，股市表现也处于最佳状态。",
-          "url": "https://flash.jin10.com/detail/20260717090517561800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "SpaceX股价持续下跌 市值较历史高点蒸发逾1万亿美元",
-          "url": "https://flash.jin10.com/detail/20260717214933730800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "市场消息：在与以色列外长会面后，哥伦比亚政府将撤回在海牙国际法院参与对以色列的诉讼，并恢复哥伦比亚与以色列的历史性联盟关系。",
-          "url": "https://flash.jin10.com/detail/20260717165413845800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "历史首次 世界杯冠军将获冠军戒指",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E9%A6%96%E6%AC%A1+%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%B0%86%E8%8E%B7%E5%86%A0%E5%86%9B%E6%88%92%E6%8C%87",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "世界杯冠军奖金5000万美元 历史最高",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "国防部：菲搞政治作秀改变不了历史",
-          "url": "https://www.toutiao.com/trending/7663415373880148010/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国防部：望各方理性看待中俄军事合作",
-          "url": "https://www.toutiao.com/trending/7663393816196087851/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "伊朗革命卫队称打击美军驻科威特军事基地",
-          "url": "https://wallstreetcn.com/livenews/3135494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
       "match_count": 1,
       "titles": [
         {
-          "title": "胡锡进：印度人来得太多太猛了，西方发达社会都在反对",
-          "url": "https://news.ifeng.com/c/8uognbkc7t9",
-          "source": "凤凰网",
+          "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3135937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 17时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
-          "url": "https://www.zhihu.com/question/2061347069571477599",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "09时11分"
         }
       ]
     }
