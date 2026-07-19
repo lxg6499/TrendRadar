@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T19:02:22.744851+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-07-19T19:58:52.499053+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 19时58分]"
         },
         {
           "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时56分 ~ 19时02分]"
+        },
+        {
+          "title": "姆巴佩22球登顶世界杯历史射手榜",
+          "url": "https://www.douyin.com/hot/2576669",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 19时58分]"
         },
         {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
@@ -84,15 +95,17 @@
           "time_info": "[09时15分 ~ 12时56分]"
         },
         {
-          "title": "姆巴佩22球登顶世界杯历史射手榜",
-          "url": "https://www.douyin.com/hot/2576669",
-          "source": "抖音",
+          "title": "祛魅世界杯：一部权力与荣耀的历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613693",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            18,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时58分]"
         },
         {
           "title": "姆巴佩世界杯历史射手王",
@@ -117,27 +130,16 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "祛魅世界杯：一部权力与荣耀的历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613693",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时02分]"
-        },
-        {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
           "url": "https://www.douyin.com/hot/2576726",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时58分]"
         }
       ]
     },
@@ -181,8 +183,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 19时58分]"
         }
       ]
     }
