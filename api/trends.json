@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-19T15:20:17.672252+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-07-19T17:40:54.812096+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "姆巴佩成世界杯历史射手王",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时20分]"
-        },
         {
           "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
           "url": "https://www.zhihu.com/question/2062077879253295768",
@@ -28,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 17时40分]"
+        },
+        {
+          "title": "姆巴佩成世界杯历史射手王",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 17时40分]"
         },
         {
           "title": "姆巴佩：我宁愿不当这个历史射手王",
@@ -37,11 +38,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 17时40分]"
         },
         {
           "title": "姆巴佩加冕世界杯历史射手王",
@@ -87,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 17时40分]"
         },
         {
           "title": "姆巴佩世界杯历史射手王",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "祛魅世界杯：一部权力与荣耀的历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613693",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -154,8 +167,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 17时40分]"
         }
       ]
     }
