@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T13:24:29.252788+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-20T16:32:22.397302+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33618494",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 16时32分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 16时32分]"
         }
       ]
     }
