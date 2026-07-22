@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T20:19:57.794556+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-07-22T22:50:19.641061+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "澳外长宣称：中国要就军事建设做出保证",
@@ -42,6 +42,28 @@
           "time_info": "12时54分"
         },
         {
+          "title": "俄罗斯国防部澄清称，敖德萨港口内用于卸载和储存军事物资的港口基础设施遭到了打击。",
+          "url": "https://flash.jin10.com/detail/20260722224243786800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "哈马斯新任领导人：首要任务是停止以色列加沙军事行动",
+          "url": "https://wallstreetcn.com/livenews/3138262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "中方：导弹试射是例行军事训练活动",
           "url": "https://www.toutiao.com/trending/7665149511266779145/",
           "source": "今日头条",
@@ -51,6 +73,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国能源信息署（EIA）：上周美国航空煤油需求创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260722224904413800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 20时19分]"
+        },
+        {
+          "title": "证券交易印花税上半年进账1549亿，增幅97%创十年之最，距历史峰值仅一步之遥",
+          "url": "https://www.cls.cn/detail/2434164",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
@@ -68,24 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 20时19分]"
         }
       ]
     }
