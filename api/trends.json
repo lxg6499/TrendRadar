@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-23T18:08:14.559624+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-07-23T20:18:17.543142+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
+          "url": "https://news.ifeng.com/c/8uz562h6pLp",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 18时08分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将超过50个军事工业实体列入名单，包括参与俄罗斯远程无人机生产的关键参与者。",
+          "url": "https://flash.jin10.com/detail/20260723174515664800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引副省长的话称，第二次导弹袭击布什尔的目标是军事设施。",
+          "url": "https://flash.jin10.com/detail/20260723090411257800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "航行警告 台湾海峡军事演习",
+          "url": "https://wallstreetcn.com/livenews/3138583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "据国际文传电讯社：乌克兰总统泽连斯基称新的军事指挥官，国防部长将负责改善征兵工作。",
+          "url": "https://flash.jin10.com/detail/20260723193509198800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 5,
@@ -15,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 18时08分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 20时18分]"
         },
         {
           "title": "哈兰德亚马尔身价打破历史纪录",
@@ -65,57 +127,6 @@
       ]
     },
     {
-      "keyword_group": "军事",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
-          "url": "https://news.ifeng.com/c/8uz562h6pLp",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 18时08分]"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将超过50个军事工业实体列入名单，包括参与俄罗斯远程无人机生产的关键参与者。",
-          "url": "https://flash.jin10.com/detail/20260723174515664800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "伊朗媒体Fars News援引副省长的话称，第二次导弹袭击布什尔的目标是军事设施。",
-          "url": "https://flash.jin10.com/detail/20260723090411257800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "航行警告 台湾海峡军事演习",
-          "url": "https://wallstreetcn.com/livenews/3138583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "社会",
       "match_count": 1,
       "titles": [
@@ -124,11 +135,12 @@
           "url": "https://www.cls.cn/detail/2435048",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 20时18分]"
         }
       ]
     }
