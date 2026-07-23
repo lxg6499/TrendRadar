@@ -1,51 +1,11 @@
 {
-  "generated_at": "2026-07-23T13:01:14.363462+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-23T15:30:42.189338+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "军事",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
-          "url": "https://news.ifeng.com/c/8uz562h6pLp",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 13时01分]"
-        },
-        {
-          "title": "伊朗媒体Fars News援引副省长的话称，第二次导弹袭击布什尔的目标是军事设施。",
-          "url": "https://flash.jin10.com/detail/20260723090411257800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "航行警告 台湾海峡军事演习",
-          "url": "https://wallstreetcn.com/livenews/3138583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "哈兰德亚马尔身价打破历史纪录",
@@ -77,8 +37,59 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时30分]"
+        },
+        {
+          "title": "私募排排网数据显示，截至2026年7月22日，当前百亿私募数量已达154家，再度刷新历史纪录。",
+          "url": "https://flash.jin10.com/detail/20260723150443080800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
+          "url": "https://news.ifeng.com/c/8uz562h6pLp",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时30分]"
+        },
+        {
+          "title": "伊朗媒体Fars News援引副省长的话称，第二次导弹袭击布什尔的目标是军事设施。",
+          "url": "https://flash.jin10.com/detail/20260723090411257800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "航行警告 台湾海峡军事演习",
+          "url": "https://wallstreetcn.com/livenews/3138583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
