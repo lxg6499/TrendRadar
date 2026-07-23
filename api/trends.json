@@ -1,135 +1,61 @@
 {
-  "generated_at": "2026-07-22T22:50:19.641061+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-07-23T09:22:30.507598+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "澳外长宣称：中国要就军事建设做出保证",
-          "url": "https://news.ifeng.com/c/8uxc6goCNKL",
+          "title": "日本防卫大臣跑到英国，又炒“中俄军事威胁”",
+          "url": "https://news.ifeng.com/c/8uz562h6pLp",
           "source": "凤凰网",
           "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时54分]"
-        },
-        {
-          "title": "欧盟的地区军事行动告知与美国、沙特和以色列有关联的船只避开红海",
-          "url": "https://wallstreetcn.com/livenews/3138143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "09时22分"
         },
         {
-          "title": "英国新任首相批准美军使用英军事基地打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3137961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "俄罗斯国防部澄清称，敖德萨港口内用于卸载和储存军事物资的港口基础设施遭到了打击。",
-          "url": "https://flash.jin10.com/detail/20260722224243786800",
+          "title": "伊朗媒体Fars News援引副省长的话称，第二次导弹袭击布什尔的目标是军事设施。",
+          "url": "https://flash.jin10.com/detail/20260723090411257800",
           "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "哈马斯新任领导人：首要任务是停止以色列加沙军事行动",
-          "url": "https://wallstreetcn.com/livenews/3138262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "中方：导弹试射是例行军事训练活动",
-          "url": "https://www.toutiao.com/trending/7665149511266779145/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国能源信息署（EIA）：上周美国航空煤油需求创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260722224904413800",
-          "source": "金十数据",
+          "title": "哈兰德亚马尔身价打破历史纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BA%AB%E4%BB%B7%E6%89%93%E7%A0%B4%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 20时19分]"
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
-          "title": "证券交易印花税上半年进账1549亿，增幅97%创十年之最，距历史峰值仅一步之遥",
-          "url": "https://www.cls.cn/detail/2434164",
-          "source": "财联社热门",
+          "title": "美国“痛失”杨植麟，这是历史性风向标",
+          "url": "https://news.ifeng.com/c/8uyzwfRwRg0",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "社会对30岁太苛刻了",
-          "url": "https://s.weibo.com/weibo?q=%E7%A4%BE%E4%BC%9A%E5%AF%B930%E5%B2%81%E5%A4%AA%E8%8B%9B%E5%88%BB%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "09时22分"
         }
       ]
     }
