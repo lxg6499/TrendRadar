@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T20:09:33.041469+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-07-24T22:32:02.122152+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 20时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 22时32分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -59,36 +59,8 @@
       ]
     },
     {
-      "keyword_group": "社会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国社会稳定形势持续向好",
-          "url": "https://www.toutiao.com/trending/7665908759726129179/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时09分]"
-        },
-        {
-          "title": "社会本就存在尔虞我诈，为什么从小要给孩子灌输真善美，而不是教他们认清现实？",
-          "url": "https://www.zhihu.com/question/2058705447574582857",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 15时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王虹、邓煜获菲尔兹奖，中国数学实现历史性突破",
@@ -98,8 +70,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 20时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 22时32分]"
+        },
+        {
+          "title": "美加墨世界杯后，哈兰德、亚马尔身价达到惊人的 2.2 亿欧元，已突破历史，这是一个什么水平？",
+          "url": "https://www.zhihu.com/question/2063542544877753542",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "王虹、邓煜获菲尔兹奖 中国数学实现历史性突破",
@@ -111,6 +94,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国社会稳定形势持续向好",
+          "url": "https://www.toutiao.com/trending/7665908759726129179/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 22时31分]"
+        },
+        {
+          "title": "社会本就存在尔虞我诈，为什么从小要给孩子灌输真善美，而不是教他们认清现实？",
+          "url": "https://www.zhihu.com/question/2058705447574582857",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 15时23分]"
         }
       ]
     }
