@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T17:00:54.457504+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-07-27T20:19:36.580854+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         }
@@ -45,6 +45,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时59分 ~ 17时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界杯历史优秀球员盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E4%BC%98%E7%A7%80%E7%90%83%E5%91%98%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     }
