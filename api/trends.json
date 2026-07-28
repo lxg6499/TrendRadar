@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T12:49:38.821340+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-07-28T15:28:21.898985+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 15时28分]"
         },
         {
           "title": "东野圭吾小说历史地位如何",
@@ -25,20 +25,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 15时28分]"
         },
         {
           "title": "巴基斯坦，又拿下一个历史性协议",
           "url": "https://news.ifeng.com/c/8v7VOoXbt9T",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 15时28分]"
         },
         {
           "title": "世界杯历史优秀球员盘点",
@@ -46,11 +47,41 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 15时28分]"
+        },
+        {
+          "title": "青海兴海震后社会秩序总体平稳",
+          "url": "https://www.toutiao.com/trending/7667445270837202486/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -83,19 +114,19 @@
       ]
     },
     {
-      "keyword_group": "社会",
+      "keyword_group": "军事",
       "match_count": 1,
       "titles": [
         {
-          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "15时28分"
         }
       ]
     }
