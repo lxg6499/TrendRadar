@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:23:22.149883+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-07-29T20:53:15.221341+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 20时53分]"
         },
         {
           "title": "高市早苗黑历史，再被曝光",
@@ -88,11 +89,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 20时53分]"
         },
         {
           "title": "全国社会物流总额181.1万亿",
@@ -102,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时53分]"
         },
         {
           "title": "上半年全国社会物流总额超180万亿元",
@@ -123,7 +125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
@@ -139,11 +141,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 20时53分]"
         },
         {
           "title": "俄副外长批评日本高市政府“再军事化”道路",
@@ -163,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
