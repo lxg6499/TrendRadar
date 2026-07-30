@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:24:47.119896+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-07-30T18:08:02.661744+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 18时08分]"
         },
         {
           "title": "菲律宾出口创历史新高 美国仍是其最大市场",
@@ -48,7 +48,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -86,11 +86,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 18时08分]"
         }
       ]
     },
