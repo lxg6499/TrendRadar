@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T21:21:55.683014+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-07-31T23:51:49.545524+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩国首尔综指涨超16%，刷新历史最大单日盘中涨幅。",
@@ -19,6 +19,28 @@
           "time_info": "09时23分"
         },
         {
+          "title": "美国：5月石油出口创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3143355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
+          "url": "https://www.cls.cn/detail/2442689",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时51分]"
+        },
+        {
           "title": "莱茵河荷兰段水位降至历史最低",
           "url": "https://wallstreetcn.com/livenews/3142920",
           "source": "华尔街见闻-快讯",
@@ -28,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
-        },
-        {
-          "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
-          "url": "https://www.cls.cn/detail/2442689",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "芝商所（CME）：周四，EBS平台美元/日元的总交易量为1580亿美元，日元现货交易量达到1020亿美元，为十多年来的最高日交易量，日元期货成交量达到520亿美元，创历史新高。",
