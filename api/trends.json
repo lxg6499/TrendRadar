@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T19:14:56.646363+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-07-31T21:21:55.683014+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩国首尔综指涨超16%，刷新历史最大单日盘中涨幅。",
@@ -30,13 +30,24 @@
           "time_info": "13时20分"
         },
         {
+          "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
+          "url": "https://www.cls.cn/detail/2442689",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "芝商所（CME）：周四，EBS平台美元/日元的总交易量为1580亿美元，日元现货交易量达到1020亿美元，为十多年来的最高日交易量，日元期货成交量达到520亿美元，创历史新高。",
           "url": "https://flash.jin10.com/detail/20260731184021268800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -86,7 +97,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
