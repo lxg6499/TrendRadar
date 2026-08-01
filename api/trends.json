@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-07-31T23:51:49.545524+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-08-01T09:24:21.667092+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "韩国首尔综指涨超16%，刷新历史最大单日盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3142756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美国：5月石油出口创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3143355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
         {
           "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
           "url": "https://www.cls.cn/detail/2442689",
@@ -37,80 +15,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
-          "title": "莱茵河荷兰段水位降至历史最低",
-          "url": "https://wallstreetcn.com/livenews/3142920",
+          "title": "历史性干预！报道称美国政府周五抛欧元来买日元",
+          "url": "https://wallstreetcn.com/livenews/3143511",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "芝商所（CME）：周四，EBS平台美元/日元的总交易量为1580亿美元，日元现货交易量达到1020亿美元，为十多年来的最高日交易量，日元期货成交量达到520亿美元，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260731184021268800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "越卖越多？外资6月抛售韩股创纪录，持仓占比反升至历史最高",
-          "url": "https://flash.jin10.com/detail/20260731085903883800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "韩股创历史最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E8%82%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "中国电力的历史性时刻到来",
-          "url": "https://www.toutiao.com/trending/7668451371972038187/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科威特方面称，伊朗的袭击造成了重要军事设施损毁。",
-          "url": "https://flash.jin10.com/detail/20260731183843071800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "09时24分"
         }
       ]
     }
