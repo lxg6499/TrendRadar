@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-02T20:47:06.276032+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-08-02T22:20:30.665678+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
       "match_count": 7,
       "titles": [
+        {
+          "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
+          "url": "https://www.cls.cn/detail/2443333",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时20分]"
+        },
         {
           "title": "赞达亚戴3000年历史耳环为《奥德赛》站台，引考古界批评",
           "url": "https://m.thepaper.cn/newsDetail_forward_33693676",
@@ -21,18 +34,6 @@
           "time_info": "[09时22分 ~ 15时57分]"
         },
         {
-          "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
-          "url": "https://www.cls.cn/detail/2443333",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时47分]"
-        },
-        {
           "title": "周末要闻汇总：事关核电、新型电网等，国常会最新部署来了；股票ETF7月净流入创历史峰值",
           "url": "https://www.cls.cn/detail/2443510",
           "source": "财联社热门",
@@ -42,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 22时20分]"
         },
         {
           "title": "韩国发布高温预警，气温创历史新高",
@@ -104,8 +105,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 22时20分]"
         },
         {
           "title": "特朗普称同意取消军事打击伊朗",
