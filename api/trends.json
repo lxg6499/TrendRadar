@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:29:11.035442+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-08-04T18:23:16.700226+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛旗帜鲜明：这是人类历史上最大规模的资本需求周期，美联储只是看客",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "股价重返2021年底！CRO龙头距历史巅峰仅差18%，这些白马也正在归队途中",
+          "url": "https://www.cls.cn/detail/2445314",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "8月多地高温或超历史极值",
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "泽连斯基向驻外大使下达军事任务",
@@ -67,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "歼 -20 部队将「飞行二大队 20 分钟覆灭耻辱记」永久悬挂，这体现了怎样的军事管理和训练理念？",
+          "url": "https://www.zhihu.com/question/2067370559768367212",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         }
       ]
     },
