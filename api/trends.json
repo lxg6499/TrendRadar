@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T09:12:53.691590+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-06T15:29:37.840317+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2446816",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 15时29分]"
         },
         {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
@@ -40,11 +41,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 15时29分]"
         }
       ]
     }
