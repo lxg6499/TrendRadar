@@ -1,94 +1,44 @@
 {
-  "generated_at": "2026-08-06T23:03:02.540189+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-08-07T09:56:36.063528+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 15时29分]"
-        },
-        {
-          "title": "外交部警告日本：不要再次走向历史的被告席",
-          "url": "https://news.ifeng.com/c/8vNDqlf5Yam",
-          "source": "凤凰网",
+          "title": "详解存储长协：这轮周期的底部，已被抬至历史峰值之上",
+          "url": "https://wallstreetcn.com/articles/3778808",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "北京电网最大负荷达到2939.9万千瓦，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3145950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            11,
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 23时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中方回应日本在太平洋岛屿建军事设施",
-          "url": "https://www.toutiao.com/trending/7670868771767894058/",
+          "title": "中方警告日本不要再走向历史被告席",
+          "url": "https://www.toutiao.com/trending/7670475762001412132/",
           "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "樊振东说有幸能在球队历史留下一页",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E6%9C%89%E5%B9%B8%E8%83%BD%E5%9C%A8%E7%90%83%E9%98%9F%E5%8E%86%E5%8F%B2%E7%95%99%E4%B8%8B%E4%B8%80%E9%A1%B5%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
