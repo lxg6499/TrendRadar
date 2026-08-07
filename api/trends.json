@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:33:01.652442+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-08-07T22:03:04.532692+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家能源局：8月7日全国用电负荷入夏以来第四次创历史新高 达到15.57亿千瓦",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "Cloudflare(NET.N)涨11.5%，创下历史新高，此前上调年收入预测。",
+          "url": "https://flash.jin10.com/detail/20260807213248464800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "日本食品自给率降至37%，创历史新低",
@@ -108,7 +119,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
