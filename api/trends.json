@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:38:19.501894+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-08-08T16:24:37.972887+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             27,
             8,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 16时24分]"
         },
         {
           "title": "苏州平江历史街区老树疑遭“钻孔灌药”，姑苏区住建委：将持续跟进救助事宜",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时24分]"
         }
       ]
     },
