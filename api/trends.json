@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-08T08:39:23.499684+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-08T10:46:58.481871+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "也门国防部：对胡塞武装发起军事行动。",
+          "url": "https://flash.jin10.com/detail/20260808102731478800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 1,
@@ -15,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 10时46分]"
         }
       ]
     },
