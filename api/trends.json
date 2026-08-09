@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T08:41:01.166681+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-09T10:54:48.542835+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33743298",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 10时54分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -40,11 +41,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BB%A5%E5%86%9B%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 10时54分]"
         }
       ]
     }
