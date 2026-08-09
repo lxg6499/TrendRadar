@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:26:24.175833+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-08-09T18:19:46.631872+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
             15,
             27,
             20,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时40分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[08时40分 ~ 18时19分]"
         },
         {
           "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 18时19分]"
         }
       ]
     }
