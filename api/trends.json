@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-08-09T18:19:46.631872+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-08-09T19:17:46.019564+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
+          "url": "https://news.ifeng.com/c/8vRKA573RKo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 19时17分]"
+        },
+        {
+          "title": "直击以军在巴勒斯坦军事行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BB%A5%E5%86%9B%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            24,
+            15,
+            27,
+            20,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时40分 ~ 18时19分]"
+        },
+        {
+          "title": "也门军事消息人士：胡塞武装袭击了位于摩卡（Mokha）附近的火山山（Jabal al-Nar）和祖盖尔岛（Zuqar Island）的目标。",
+          "url": "https://flash.jin10.com/detail/20260809175725990800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 3,
@@ -42,41 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 08时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "直击以军在巴勒斯坦军事行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BB%A5%E5%86%9B%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            24,
-            15,
-            27,
-            20,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时40分 ~ 18时19分]"
-        },
-        {
-          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
-          "url": "https://news.ifeng.com/c/8vRKA573RKo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 18时19分]"
         }
       ]
     }
