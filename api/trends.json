@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:13:00.507831+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-08-10T15:02:10.210311+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "直击以军在巴勒斯坦军事行动",
@@ -17,8 +17,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时42分 ~ 15时02分]"
         },
         {
           "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
@@ -42,6 +42,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 11时03分]"
+        },
+        {
+          "title": "解读中东组建军事同盟",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%B8%AD%E4%B8%9C%E7%BB%84%E5%BB%BA%E5%86%9B%E4%BA%8B%E5%90%8C%E7%9B%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "莱茵河荷兰段流量降至历史最低水平",
+          "url": "https://flash.jin10.com/detail/20260810142817003800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     }
