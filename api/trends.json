@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-10T11:03:24.472751+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-08-10T13:13:00.507831+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "军事",
       "match_count": 3,
       "titles": [
+        {
+          "title": "直击以军在巴勒斯坦军事行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BB%A5%E5%86%9B%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 13时13分]"
+        },
         {
           "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
           "url": "https://news.ifeng.com/c/8vRKA573RKo",
@@ -25,18 +38,6 @@
           "ranks": [
             13,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 11时03分]"
-        },
-        {
-          "title": "直击以军在巴勒斯坦军事行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BB%A5%E5%86%9B%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
