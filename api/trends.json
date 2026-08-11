@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T14:41:43.947130+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-08-11T16:00:28.007073+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时42分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 16时00分]"
         },
         {
           "title": "如何看待《哪吒之魔童闹海》斩获第 38 届大众电影百花奖最佳影片，成为百花奖历史上首部动画最佳影片？",
@@ -58,6 +58,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 10时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泰国拟以缩减军事合作施压美国 寻求降低关税",
+          "url": "https://flash.jin10.com/detail/20260811154153298800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时00分"
         }
       ]
     }
