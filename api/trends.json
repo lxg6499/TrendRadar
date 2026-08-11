@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:00:28.007073+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-08-11T16:50:36.119605+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时42分 ~ 16时00分]"
+          "appearance_count": 9,
+          "time_info": "[08时42分 ~ 16时50分]"
         },
         {
           "title": "如何看待《哪吒之魔童闹海》斩获第 38 届大众电影百花奖最佳影片，成为百花奖历史上首部动画最佳影片？",
@@ -72,7 +72,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时00分"
         }
