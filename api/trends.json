@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-12T19:36:57.733108+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-08-12T20:37:00.640922+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "社会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
+          "url": "https://www.cls.cn/detail/2452559",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
         {
           "title": "日本学者：日本社会未了解历史真相",
           "url": "https://www.toutiao.com/trending/7671859797931032612/",
