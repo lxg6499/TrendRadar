@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-12T08:48:53.299190+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-12T13:21:12.896831+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本学者：日本社会未了解历史真相",
+          "url": "https://www.toutiao.com/trending/7671859797931032612/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "把恐龙投放到现代社会它能活多久",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%81%90%E9%BE%99%E6%8A%95%E6%94%BE%E5%88%B0%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E5%AE%83%E8%83%BD%E6%B4%BB%E5%A4%9A%E4%B9%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 2,
@@ -24,23 +52,6 @@
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "把恐龙投放到现代社会它能活多久",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%81%90%E9%BE%99%E6%8A%95%E6%94%BE%E5%88%B0%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E5%AE%83%E8%83%BD%E6%B4%BB%E5%A4%9A%E4%B9%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
