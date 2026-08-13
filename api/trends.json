@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T15:05:43.146975+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-08-13T16:59:13.004609+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "联想集团(00992.HK)午后直线拉升涨超12%，公司午间公布业绩，第一财季经调整权益持有人应占溢利同比增长176%，AI相关业务收入同比增长60%，达到634亿元人民币，创历史新高。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普净支持率跌至历史低点 中期选举压力上升",
+          "url": "https://flash.jin10.com/detail/20260813161727173800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
