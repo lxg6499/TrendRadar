@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-08-13T16:59:13.004609+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-08-13T18:50:49.992336+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "军事",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国在太平洋的军事基地正在崩溃：坍塌，漏水和裂缝",
+          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "普京：亚太形成新军事政治集团",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BA%9A%E5%A4%AA%E5%BD%A2%E6%88%90%E6%96%B0%E5%86%9B%E4%BA%8B%E6%94%BF%E6%B2%BB%E9%9B%86%E5%9B%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 11时20分]"
+        },
+        {
+          "title": "市场消息：克里米亚发生爆炸，俄罗斯军事官员遇害。",
+          "url": "https://flash.jin10.com/detail/20260813182500095800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "土耳其、沙特、巴基斯坦将建立政治军事合作机制",
+          "url": "https://flash.jin10.com/detail/20260813180900033800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        }
+      ]
+    },
     {
       "keyword_group": "历史",
       "match_count": 4,
@@ -47,38 +98,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国在太平洋的军事基地正在崩溃：坍塌，漏水和裂缝",
-          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "普京：亚太形成新军事政治集团",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BA%9A%E5%A4%AA%E5%BD%A2%E6%88%90%E6%96%B0%E5%86%9B%E4%BA%8B%E6%94%BF%E6%B2%BB%E9%9B%86%E5%9B%A2",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时20分]"
         }
       ]
     },
