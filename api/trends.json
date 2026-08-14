@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T17:48:31.367860+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-14T18:45:31.643160+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时50分 ~ 17时48分]"
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 18时45分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 18时45分]"
         },
         {
           "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
@@ -35,19 +48,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时50分 ~ 16时16分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 17时48分]"
         },
         {
           "title": "俄罗斯历史课本里的中国",
@@ -125,7 +125,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         }
