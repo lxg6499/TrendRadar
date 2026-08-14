@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T08:50:53.123456+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-14T11:17:26.074920+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%E5%86%8D%E5%88%9B%E6%96%B0%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "年内熊猫债发行规模超2000亿元创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3149373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 11时17分]"
         },
         {
           "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
@@ -35,6 +25,17 @@
           "source": "澎湃新闻",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 11时17分]"
+        },
+        {
+          "title": "年内熊猫债发行规模超2000亿元创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3149373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
