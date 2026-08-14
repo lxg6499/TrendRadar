@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-14T20:33:31.543825+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-08-14T22:07:19.998760+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
       "match_count": 5,
       "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 22时07分]"
+        },
         {
           "title": "UP主泰拉瑞亚再创新历史",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%E5%86%8D%E5%88%9B%E6%96%B0%E5%8E%86%E5%8F%B2",
@@ -22,22 +37,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时50分 ~ 20时33分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时21分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[08时50分 ~ 22时07分]"
         },
         {
           "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
