@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-15T10:06:34.007980+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-08-15T11:27:19.021415+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "勿忘历史 吾辈自强",
+          "url": "https://www.baidu.com/s?wd=%E5%8B%BF%E5%BF%98%E5%8E%86%E5%8F%B2+%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
@@ -25,7 +36,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -39,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胖东来郑州店发公告招 100 名边防军人和 20 名刑释人员，企业兜底「社会融合」职能，是进步还是错位？",
+          "url": "https://www.zhihu.com/question/2071601572484748503",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }
