@@ -1,148 +1,33 @@
 {
-  "generated_at": "2026-08-14T22:07:19.998760+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-08-15T08:28:35.001257+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时21分 ~ 22时07分]"
-        },
-        {
-          "title": "UP主泰拉瑞亚再创新历史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%E5%86%8D%E5%88%9B%E6%96%B0%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            14,
-            15,
-            16,
-            18,
-            25,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时50分 ~ 22时07分]"
-        },
-        {
-          "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33776256",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 16时16分]"
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "俄罗斯历史课本里的中国",
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时50分 ~ 13时22分]"
-        },
-        {
-          "title": "年内熊猫债发行规模超2000亿元创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3149373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据沙特媒体哈达斯：也门军事消息人士称，胡塞武装使用无人机袭击位于也门西部的霍赫和穆哈两地区。政府军在摩卡东部的巴赫前线成功抵御了胡塞武装的攻击。",
-          "url": "https://flash.jin10.com/detail/20260814084542770800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时50分"
-        },
-        {
-          "title": "美军中央司令部否认推动对伊新一轮军事打击",
-          "url": "https://wallstreetcn.com/livenews/3149540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时16分]"
-        },
-        {
-          "title": "美军中央司令部否认推动对伊新一轮军事打击",
-          "url": "https://flash.jin10.com/detail/20260814144511252800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据Axios：OpenAI在IPO前进行高管更换。",
-          "url": "https://flash.jin10.com/detail/20260814173053117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "美国白宫副国家安全顾问ANDY BAKER即将离职。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3149651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "08时28分"
         }
       ]
     }
