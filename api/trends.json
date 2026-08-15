@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T14:15:53.484461+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-08-15T20:11:41.978401+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "勿忘历史 吾辈自强",
@@ -48,9 +48,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "日本投降日走进武汉受降堂重温历史",
+          "url": "https://www.toutiao.com/trending/7674096424695595046/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "解放军报：否认历史罪责必遭彻底清算",
@@ -77,27 +88,20 @@
       ]
     },
     {
-      "keyword_group": "社会",
-      "match_count": 1,
+      "keyword_group": "军事",
+      "match_count": 4,
       "titles": [
         {
-          "title": "胖东来郑州店发公告招 100 名边防军人和 20 名刑释人员，企业兜底「社会融合」职能，是进步还是错位？",
-          "url": "https://www.zhihu.com/question/2071601572484748503",
-          "source": "知乎",
+          "title": "据伊朗媒体Fars News：伊朗军事官员称，三名伊朗空军人员在三月份针对美国基地的行动后失踪，目前被拘留在卡塔尔。",
+          "url": "https://flash.jin10.com/detail/20260815193635563800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
         {
           "title": "国防部：敦促日方停止“再军事化”",
           "url": "https://www.toutiao.com/trending/7673381089708130346/",
@@ -109,6 +113,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 14时15分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）报道，黎巴嫩总理就以色列对黎巴嫩南部的袭击回应称，以色列在黎巴嫩南部的升级行动“极其危险”，破坏了维持稳定的努力，并指出，安萨尔镇的空袭遇难者并非“军事基础设施”，任何“军事基础设施”的存在都不赋予以色列侵犯黎巴嫩领土的权利。黎巴嫩总理表示，以色列必须停止这种升级局势的行为。",
+          "url": "https://flash.jin10.com/detail/20260815170012261800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰军方袭击了位于下诺夫哥罗德的俄罗斯军事空军基地以及位于乌斯季-卢加的俄罗斯石油设施。",
+          "url": "https://flash.jin10.com/detail/20260815164923193800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "胖东来郑州店发公告招 100 名边防军人和 20 名刑释人员，企业兜底「社会融合」职能，是进步还是错位？",
+          "url": "https://www.zhihu.com/question/2071601572484748503",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 20时11分]"
         }
       ]
     }
