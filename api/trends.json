@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T11:37:14.621751+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-08-16T12:23:49.047880+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中使馆督促日本不要再走向历史被告席",
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时29分 ~ 11时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时29分 ~ 12时23分]"
         },
         {
           "title": "历史正剧为什么越拍越少？",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时28分 ~ 08时29分]"
+        },
+        {
+          "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790451",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
