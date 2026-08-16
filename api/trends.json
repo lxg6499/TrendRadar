@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T20:11:53.512288+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-08-16T21:22:57.952531+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 20时11分]"
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 21时22分]"
         },
         {
           "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
@@ -126,7 +126,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -189,11 +189,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时11分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时22分]"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：也门武装部队称，过去24小时内，对胡塞武装目标及威胁源发动了181次军事行动。",
@@ -201,11 +202,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时11分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时22分]"
         }
       ]
     },
@@ -223,8 +225,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 20时11分]"
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 21时22分]"
         },
         {
           "title": "以色列高官极端言论震惊国际社会",
@@ -244,11 +246,12 @@
           "url": "https://search.bilibili.com/all?keyword=Mina%E4%BA%8B%E4%BB%B6%E6%8F%AD%E9%9C%B2%E5%93%AA%E4%BA%9B%E7%A4%BE%E4%BC%9A%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 21时22分]"
         }
       ]
     }
