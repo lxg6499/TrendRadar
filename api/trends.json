@@ -1,159 +1,66 @@
 {
-  "generated_at": "2026-08-15T20:11:41.978401+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-08-16T08:29:08.267330+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "历史",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "勿忘历史 吾辈自强",
-          "url": "https://www.baidu.com/s?wd=%E5%8B%BF%E5%BF%98%E5%8E%86%E5%8F%B2+%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA",
+          "title": "中使馆督促日本不要再走向历史被告席",
+          "url": "https://www.toutiao.com/trending/7674400796758560266/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 08时29分]"
+        },
+        {
+          "title": "中方督促日本不要再走向历史被告席",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E7%9D%A3%E4%BF%83%E6%97%A5%E6%9C%AC%E4%B8%8D%E8%A6%81%E5%86%8D%E8%B5%B0%E5%90%91%E5%8E%86%E5%8F%B2%E8%A2%AB%E5%91%8A%E5%B8%AD",
           "source": "百度热搜",
           "ranks": [
-            3
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时15分]"
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 08时29分]"
         },
         {
-          "title": "从国铁集团获悉，今年1至7月，全国铁路发送旅客28亿人次、同比增长4.1%，再创历史同期新高。（北京日报）",
-          "url": "https://wallstreetcn.com/livenews/3149940",
+          "title": "10张老报纸回看抗战烽火路：历史从未遗忘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33784710",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 08时29分]"
+        },
+        {
+          "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
+          "url": "https://wallstreetcn.com/livenews/3150004",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时15分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
-          "title": "日本为何难以正确对待侵略历史",
-          "url": "https://www.toutiao.com/trending/7674065730786037254/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "日本投降日走进武汉受降堂重温历史",
-          "url": "https://www.toutiao.com/trending/7674096424695595046/",
-          "source": "今日头条",
-          "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "08时29分"
         },
         {
-          "title": "解放军报：否认历史罪责必遭彻底清算",
-          "url": "https://www.toutiao.com/trending/7674027605808480275/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "俄罗斯历史课本里的中国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据伊朗媒体Fars News：伊朗军事官员称，三名伊朗空军人员在三月份针对美国基地的行动后失踪，目前被拘留在卡塔尔。",
-          "url": "https://flash.jin10.com/detail/20260815193635563800",
+          "title": "美国中央司令部：布拉德·库珀海军上将表示，林肯号航母打击群是一支实力雄厚、成就卓著的美国团队，他们为自己取得的一切成就感到无比自豪，这是理所应当的。历史将把此次部署记载为现代史上作战强度最大、影响最深远的部署之一。",
+          "url": "https://flash.jin10.com/detail/20260816055739708800",
           "source": "金十数据",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "国防部：敦促日方停止“再军事化”",
-          "url": "https://www.toutiao.com/trending/7673381089708130346/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 14时15分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）报道，黎巴嫩总理就以色列对黎巴嫩南部的袭击回应称，以色列在黎巴嫩南部的升级行动“极其危险”，破坏了维持稳定的努力，并指出，安萨尔镇的空袭遇难者并非“军事基础设施”，任何“军事基础设施”的存在都不赋予以色列侵犯黎巴嫩领土的权利。黎巴嫩总理表示，以色列必须停止这种升级局势的行为。",
-          "url": "https://flash.jin10.com/detail/20260815170012261800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰军方袭击了位于下诺夫哥罗德的俄罗斯军事空军基地以及位于乌斯季-卢加的俄罗斯石油设施。",
-          "url": "https://flash.jin10.com/detail/20260815164923193800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "胖东来郑州店发公告招 100 名边防军人和 20 名刑释人员，企业兜底「社会融合」职能，是进步还是错位？",
-          "url": "https://www.zhihu.com/question/2071601572484748503",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 20时11分]"
+          "time_info": "08时29分"
         }
       ]
     }
