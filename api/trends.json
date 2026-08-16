@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:17:26.451967+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-08-16T15:21:30.356486+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[10时13分 ~ 13时16分]"
         },
         {
+          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时21分]"
+        },
+        {
           "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
           "url": "https://m.thepaper.cn/newsDetail_forward_33790451",
           "source": "澎湃新闻",
@@ -71,18 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时29分 ~ 10时13分]"
-        },
-        {
-          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时17分]"
         },
         {
           "title": "中方督促日本不要再走向历史被告席",
@@ -141,9 +142,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 15时21分]"
         }
       ]
     }
