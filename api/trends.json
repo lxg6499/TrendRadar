@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T13:16:41.405957+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-08-16T14:17:26.451967+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             21,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时29分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时29分 ~ 14时17分]"
         },
         {
           "title": "中使馆督促日本不要再走向历史被告席",
@@ -48,6 +49,18 @@
           "time_info": "[10时13分 ~ 13时16分]"
         },
         {
+          "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790451",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时17分]"
+        },
+        {
           "title": "美国中央司令部：布拉德·库珀海军上将表示，林肯号航母打击群是一支实力雄厚、成就卓著的美国团队，他们为自己取得的一切成就感到无比自豪，这是理所应当的。历史将把此次部署记载为现代史上作战强度最大、影响最深远的部署之一。",
           "url": "https://flash.jin10.com/detail/20260816055739708800",
           "source": "金十数据",
@@ -58,6 +71,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时29分 ~ 10时13分]"
+        },
+        {
+          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时17分]"
         },
         {
           "title": "中方督促日本不要再走向历史被告席",
@@ -82,35 +107,13 @@
           "time_info": "[08时28分 ~ 08时29分]"
         },
         {
-          "title": "中国驻日使馆：敦促日方深刻反省历史罪责，不要再次走向历史的被告席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33790451",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时16分]"
-        },
-        {
           "title": "历史上爱炫耀的人后来都怎么样了",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%88%B1%E7%82%AB%E8%80%80%E7%9A%84%E4%BA%BA%E5%90%8E%E6%9D%A5%E9%83%BD%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791728",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -121,9 +124,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791729",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     }
