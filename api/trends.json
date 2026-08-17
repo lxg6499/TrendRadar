@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T12:28:54.072729+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-08-17T13:24:25.044959+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时24分]"
         },
         {
           "title": "药明康德AH股齐涨，药明康德A股涨超5%，药明康德(02359.HK)H股涨4.76%，AH股价均创历史新高。",
@@ -56,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时27分 ~ 13时24分]"
         },
         {
           "title": "Mina事件揭露哪些社会问题",
@@ -67,11 +68,12 @@
             16,
             24,
             28,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时27分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时27分 ~ 13时24分]"
         }
       ]
     }
