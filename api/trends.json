@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-17T10:11:48.256658+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-08-17T11:37:57.282888+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "历史",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "药明康德A股涨超5%，H股涨超4%，齐创历史新高，A+H股总市值突破5000亿。",
+          "url": "https://wallstreetcn.com/livenews/3150191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "药明康德AH股齐涨，药明康德A股涨超5%，药明康德(02359.HK)H股涨4.76%，AH股价均创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260817111158619800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "三支 CN 战队小组赛出局创历史最差成绩，买了 TI15 门票的朋友们现在是什么感受？",
+          "url": "https://www.zhihu.com/question/2072059391235322232",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "社会",
       "match_count": 2,
@@ -12,11 +51,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33794660",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 11时37分]"
         },
         {
           "title": "Mina事件揭露哪些社会问题",
@@ -24,11 +64,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 11时37分]"
         }
       ]
     }
